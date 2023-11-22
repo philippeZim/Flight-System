@@ -1,0 +1,59 @@
+plugins {
+    id 'org.springframework.boot' version '2.6.7'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'java'
+}
+
+group = 'flight.system'
+version = '1.0.0'
+sourceCompatibility = '17'
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = 'UTF-8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.json:json:20220320'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.2.1'
+    implementation 'com.intellij:forms_rt:7.0.3'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src/main/java'
+        }
+        resources {
+            srcDir 'src/main/resources'
+        }
+    }
+    test {
+        java {
+            srcDir 'src/test/java'
+        }
+        resources {
+            'src/test/resources'
+        }
+    }
+}
+
+processResources {
+    duplicatesStrategy = DuplicatesStrategy.INCLUDE
+}
+
+test {
+    defaultCharacterEncoding = 'UTF-8'
+    useJUnitPlatform()
+}
+jar{
+    manifest {
+        attributes "Main-Class": "flight.system.Starter"
+    }
+}

@@ -1,0 +1,6293 @@
+6W	Saratov Airlines Joint Stock Company	Russia
+	Cairo Air Transport Company	Egypt
+	Aerolíneas Olve	Mexico
+	Winlink	Saint Lucia
+	Canadian Forces	Canada
+	Hydro Air Flight Operations	South Africa
+	Sapphire Executive Air	South Africa
+BF	MarkAir	United States
+	Albinati Aeronautics	Switzerland
+	Fly Excellent	Sweden
+VH	Viva Air Colombia	Colombia
+	ISD Avia	Ukraine
+	Flight Line	United States
+	Lone Star Airlines	United States
+	Cargo Express	Mauritania
+	Stabo Air	Zambia
+	AVC Airlines	Japan
+DG	Cebgo	Philippines
+	Air One Executive	Italy
+UE	Nasair	Eritrea
+	V-Berd-Avia	Armenia
+	Aero Empresa Mexicana	Mexico
+	Territorial Airlines	United States
+	Congressional Air	United States
+FA	Safair	South Africa
+	Thai Pacific  Airlines Business	Thailand
+	Skyworld Airlines	United States
+	Centro De Helicopteros Corporativos	Mexico
+2Z	Chang An Airlines	China
+	Sunair 2001	South Africa
+	Legacy Air	Thailand
+R5	Malta Air Charter	Malta
+	Bizjet Ltd	United Kingdom
+	DAS Airlines	Democratic Republic of the Congo
+	Southeast Airmotive	United States
+	Special Aviation Systems	United States
+	Aerolíneas Damojh	Mexico
+	TSSKB-Progress	Russia
+	Turtle Airways	Fiji
+	Blom Geomatics	Norway
+	MCC Aviation	South Africa
+	Aladia Airlines	Mexico
+	Kallat El Saker Air Company	Libya
+	Guardian Air Asset Management	South Africa
+IO	Indonesian Airlines	Indonesia
+	Eagle Jet Charter	United States
+	Novosibirsk Aircraft Repairing Plant	Russia
+	One Two Go Airlines	Thailand
+	Heliworks	Chile
+	G & L Aviation	South Africa
+	Business Express Delivery	Canada
+	Sunwest Aviation (Lindquist Investment)	United States
+	Pacific Air Transport	United States
+	Baltijas Helicopters	Latvia
+GW	Costa Rica Green Airways	Costa Rica
+	Aeromedica	Mexico
+	Ecotour	Mexico
+	Hi Fly Malta	Malta
+XL	Aerolane	Ecuador
+	Priority Aviation Company	United States
+	Northern Jet Management	United States
+	Laredo Air	United States
+	Servicio Tecnico Aero De Mexico	Mexico
+	Sapphire Aviation	United States
+	Servico Aéreo Regional	Mozambique
+	Aerodyne Charter Company	United States
+	Puerto Rico National Guard	United States
+V9	BAL Bashkirian Airlines	Russia
+	Ohio State University	United States
+	Air Care Alliance	United States
+	Jetconnect	New Zealand
+	Sagolair Transportes Ejecutivos	Spain
+7F	Canadian North	Canada
+	Azov Avia Airlines	Ukraine
+	Top Speed	Austria
+	DSWA	United States
+	Aviation Legacy	Gambia
+	Elite Jets	United Arab Emirates
+3Q	China Yunnan Airlines	China
+	Aerojal	Mexico
+	Yak-Service	Russia
+4Y	Airbus Transport International	France
+	Evolem Aviation	France
+S7	S7 Airlines	Russia
+	TezJet  Airlines	Kyrgyzstan
+	Aerocharter	Canada
+	Phillips Michigan City Flying Service	United States
+	Nations Air Express Inc	United States
+	Aereo Transportes Los Angeles de America	Mexico
+T9	Thai Star Airlines	Thailand
+SX	FlyGTA Airlines	Canada
+	BAE Systems	United Kingdom
+FR	Ryanair	Ireland
+	Pacific Coast Airlines	United States
+MC	Air Mobility Command	United States
+	Servicios Aéreos Denim	Mexico
+	Breeze Ltd	Ukraine
+	Galair International	United Kingdom
+	Heli Air Services	Bulgaria
+	Gacela Air Cargo	Mexico
+	Corporate Eagle Management Services	United States
+QB	Georgian National Airlines	Georgia
+	Fair Aviation	South Africa
+	Air Minas Linhas Aéreas	Brazil
+P9	Perm Airlines	Russia
+	RAF Linton-on-Ouse	United Kingdom
+	No. 84 Squadron RAF	United Kingdom
+3C	Calima Aviación	Spain
+	Musrata Air Transport	Libya
+UF	UM Airlines	Ukraine
+	Triton  Airlines	Canada
+P8	Pantanal Linhas Aéreas	Brazil
+8W?	BAX Global
+	V Bird Airlines Netherlands	Netherlands
+	Sun Freight Logistics	Thailand
+	Boise Interagency Fire Center	United States
+	Wisconsin Air National Guard	United States
+	Siam Airnet	Thailand
+	CSE Aviation	United Kingdom
+	Salpa Aviation	Sudan
+	Icebird Airline	Iceland
+	RA Jet Aeroservicios	Mexico
+TT	Air Lithuania	Lithuania
+	Challenge Aero	Ukraine
+	TNT International  Aviation	United Kingdom
+QX	Horizon Air	United States
+	H.S.AVIATION CO., LTD.	Thailand
+9E	Endeavor Air	United States
+	LUKoil-Avia	Russia
+	Henebury Aviation	Australia
+	Ravn Alaska	United States
+	Prime Aviation	Kazakhstan
+	International Air Services	Liberia
+	Universal Airways	United States
+LJ	Jin Air	South Korea
+	Aerolíneas Del Pacífico	Ecuador
+	Fly Pro	Moldova
+	Jamahiriya Airways	Libya
+	Iwamoto Crane Co Ltd	Japan
+	Westflight Aviation	United Kingdom
+	Fujian Airlines	China
+7O	Smartwings Hungary	Hungary
+	Karthago Airlines	Tunisia
+	North Adria Aviation	Croatia
+	Rover Airways International	United States
+	Yellow Wings Air Services	Kenya
+	R1 Airlines, previously Regional 1	Canada
+	Transairways	Mozambique
+	Gesellschaft Fur Flugzieldarstellung	Germany
+	Sunu Air	Senegal
+	Air Turquoise	France
+GL	Air Greenland	Denmark
+	Aerolift Company	Sierra Leone
+GR	Aurigny Air Services	United Kingdom
+	Sky Harbor Air Service	United States
+VS	Virgin Atlantic	United Kingdom
+1M	Sirin	Russia
+	Qwila Air	South Africa
+	London Executive Aviation	United Kingdom
+	Aerotaxis Cimarron	Mexico
+	Servicios Aéreos Profesionales	Dominican Republic
+	Stephenville Aviation Services	Canada
+L9	Belle Air Europe	Italy
+	Executive Air Fleet	United States
+	Rikspolisstyrelsen	Sweden
+	Turbot Air Cargo	Senegal
+	Imperial Airways	United States
+	Aurora Aviation, Inc.	United States
+	Sudanese States Aviation	Sudan
+2Q	Air Cargo Carriers	United States
+	Eagle Air	Indonesia
+	Benders Air	Sweden
+	Race Cargo Airlines	Ghana
+	Vega Aviation	Sudan
+OF	Air Finland	Finland
+	Johnson Air	United States
+H9	Izair	Turkey
+	GH Stansted Limited	United Kingdom
+B4	BACH Flugbetriebsges	Austria
+	Bergen Air Transport	Norway
+	Alcon Servicios Aéreos, S.A. de C.V.	Mexico
+	Aircraft Support and Services	Lebanon
+	Cruiser Linhas Aéreas	Brazil
+	Intensive Air	South Africa
+A7	Air Plus Comet	Spain
+	Advanced Air Co.	Japan
+VJ	Vietjet Air	Vietnam
+ZE	Arcus-Air Logistic	Germany
+S9	East African Safari Air	Kenya
+	Aero Slovakia	Slovakia
+D5	Dauair	Germany
+	Chesapeake Air Service	United States
+	Corporate Jets	United States
+	Norestair	Spain
+	Cowan Group	United States
+	Dassault Falcon Jet Corporation	United States
+KX	Cayman Airways	Cayman Islands
+	Hydro-Québec	Canada
+	SOS Helikoptern Gotland	Sweden
+	Air Carriers	United States
+	Wycombe Air Centre	United Kingdom
+	Aerotaxis Dosmil	Mexico
+	North West Airlines	Australia
+	Federal Armored Service	United States
+	Unifly Servizi Aerei	Italy
+YU	Dominair	Dominican Republic
+	Private Jet Management	United States
+	Courier Services	United States
+	RAF Cottesmore	United Kingdom
+	Air ALM	Netherlands Antilles
+	Elan Express	United States
+	Assistance Aeroportuaire de L'Aeroport de Paris	France
+	FAI Air Service	Germany
+	Iranair Tours	Iran
+	Heliaviation Limited	United Kingdom
+J7	Centre-Avia	Russia
+	Royal Jet	United Arab Emirates
+	Aero Calafia	Mexico
+	Johnsons Air	Ghana
+JI	Jade Cargo International	China
+JA	JetSMART	Chile
+	Dispatch Services	United States
+	BN Group Limited	United Kingdom
+	Avicon	Kenya
+	Joanas Avialinijos	Lithuania
+	Transcontinental  Airlines	Kazakhstan
+	Asia Continental Airlines	Kazakhstan
+FS	Flyr	Norway
+	TOJ Airlines	Tajikistan
+	Young Flying Service	United States
+	Meridian Air Cargo	United States
+N5	Skagway Air Service	United States
+MJ	Mihin Lanka	Sri Lanka
+	Froggy Corporate Aviation	Australia
+L9	Bristow U.S. LLC	United States
+	Spurling Aviation	United States
+VJ	Africa Airways	Benin
+	Mohawk Airlines	United States
+LI	Leeward Islands Air Transport	Antigua and Barbuda
+	Mountain Bird	United States
+	Aerolíneas del Sur	Chile
+	East Star Airlines	China
+BG	Biman Bangladesh Airlines	Bangladesh
+	Asian Aerospace Service	Thailand
+	Jonsson, H Air Taxi	Iceland
+	Namdeb Diamond Corporation	Namibia
+	Executive Express Aviation/JA Air Charter	United States
+	Caernarfon Airworld	United Kingdom
+	J C Bamford (Excavators)	United Kingdom
+	Robinton Aero	Dominican Republic
+	K S Avia	Latvia
+3L	Intersky	Austria
+IR	Iran Air	Iran
+	Skymaster Air Taxi	United States
+HO	Juneyao Airlines	China
+	Duo Airways	United Kingdom
+	Pacific Alaska Airlines	United States
+GX	JetX Airlines	Iceland
+	Air Somalia	Somali Republic
+	Rebus	Bulgaria
+	National Air Traffic Services	United Kingdom
+J7	ValuJet Airlines	United States
+NW	Northwest Airlines	United States
+	Comlux Malta	Malta
+	West Africa Airlines	Ghana
+	Antanik-Air	Ukraine
+	Kosova Airlines	Serbia
+	Aeroservicios Ejecutivos Del Pacifico	Mexico
+	Aerotrans	Russia
+W4	Aero Services Executive	France
+	Vega	Kazakhstan
+	Semitool Europe	United Kingdom
+	Pacific Coast Jet	United States
+	White Sparrow GmbH	Austria
+WW	Bmibaby	United Kingdom
+	Freedom Airways	Cyprus
+KI	Air Atlantique	United Kingdom
+	Aerojobeni	Mexico
+	Línea Aérea Costa Norte	Chile
+	Eti 2000	Italy
+	Freedom Air Services	Nigeria
+	Linex	Central African Republic
+	Aurora Airlines	Slovenia
+UB	Myanma Airways	Myanmar
+LW	Pacific Wings	United States
+	Aeroventas	Mexico
+	Sunworld Airlines	United States
+	Alaska Island Air	United States
+RS	Air Seoul	South Korea
+	B-Air Charter	Germany
+	Air Pack Express	Spain
+	Bellesavia	Belarus
+EC	Avialeasing Aviation Company	Uzbekistan
+	Trans-Air-Congo	Republic of the Congo
+	Bighorn Airways	United States
+	Qurinea Air Service	Libya
+	RAK Airways	United Arab Emirates
+BI	Royal Brunei Airlines	Brunei
+	Hala Air	Sudan
+	Polizeihubschrauberstaffel Hessen	Germany
+	Aerolineas Nacionales Del Ecuador	Ecuador
+	Atlantis Airlines (USA)	United States
+LF	Contour Airlines	United States
+	University Air Squadron	United Kingdom
+ZE	Eastar Jet	South Korea
+	Express Air	United States
+	Constanta Airline	Ukraine
+XS	SITA	Belgium
+E7	European Aviation Air Charter	United Kingdom
+	Malta Wings	Malta
+	SFT-Sudanese Flight	Sudan
+	Air Pal	Spain
+	Joint Military Commission	Sudan
+	Alfa Air	Czech Republic
+6V	Mars RK	Ukraine
+	Aerotransporte Petrolero	Colombia
+	Sanborn Map Company	United States
+	Pan Air	United States
+	Transmed Airlines	Egypt
+	Pars Aviation Service	Iran
+	Ei Air Exports	Ireland
+	Airtransservice	Russia
+	Opal Air	Australia
+	Mauritanienne De Transport Aerien	Mauritania
+	Líneas Aéreas Canedo LAC	Bolivia
+4Y	Eurowings Discover	Germany
+PE	Air Europe Italy	Italy
+	Texas  Airlines	United States
+	Aerocharter	Guatemala
+	Servicios Aéreos Gadel	Mexico
+	Líneas Aéreas San Jose	Mexico
+	Fumigación Aérea Andaluza	Spain
+	Aerolíneas Centrales	Mexico
+	Aircruising Australia	Australia
+	Libyan Airlines	Libya
+	Soko Aviation	Spain
+	Kazan Helicopters	Russia
+UI	Eurocypria Airlines	Cyprus
+	Angoavia	Angola
+	Okada Airlines	Nigeria
+	The Amiri Flight	Bahrain
+	Blue Jet	Spain
+CN	Westward Airways	United States
+1I	Sierra Nevada Airlines	United States
+	Amerer Air	Austria
+	Horizon Air for Transport and Training	Libya
+	Colaéreos	Ecuador
+	Línea De Aeroservicios	Chile
+	Eagle Airlines Luftverkehrsges	Austria
+	Aviast Air	Russia
+	Chongqing Forebase General Aviation	China
+	Savanah Airlines	Nigeria
+	Aerosec	Chile
+	Orange Air	United States
+	Aerostar Airlines	Ukraine
+GB	ABX Air	United States
+MR	Air Mauritanie	Mauritania
+Q4	Swazi Express Airways	Swaziland
+	Cameroon Airlines Corporation	Cameroon
+	Aviation Charter Services	United States
+LM	Loganair	United Kingdom
+	Nas Air	Saudi Arabia
+	Tas Aviation	United States
+	Comair Flight Services	South Africa
+UX	Air Europa	Spain
+	Federal Air	South Africa
+	Air Leone	Sierra Leone
+	Mofaz Air	Malaysia
+	West Coast Airways	Sierra Leone
+	Servicios Aéreos Avandaro	Mexico
+	Empressa Brasileira de Infra-Estrutura Aeroportuaria-Infraero	Brazil
+OB	Astrakhan Airlines	Russia
+	Atlant Aerobatics Ltd.	Hungary
+	Veteran Air	Ukraine
+	213th Flight Unit	Russia
+	Jet Air Group	Russia
+	Airshare Holdings	United Kingdom
+	Turkish Air Force	Turkey
+	Airworld	South Africa
+	Servicios Aéreos Tamazula	Mexico
+	Empresa Brasileira De Aeronáutica	Brazil
+	Norsk Luftambulanse	Norway
+	RAF Scampton	United Kingdom
+	RWL Luftfahrtgesellschaft	Germany
+	Global Air Services Nigeria	Nigeria
+	Castle Aviation	United States
+	Antigua and Barbuda Airways	Antigua and Barbuda
+P8	Air Mekong	Vietnam
+	AeroTACA	Colombia
+	Planet Airways	United States
+EQ	TAME	Ecuador
+	Aero Jets Corporativos	Mexico
+	Zhez Air	Kazakhstan
+	Mississippi State University	United States
+	Commair Aviation	United Kingdom
+	Servicios Aéreos Noticiosos	Mexico
+	Berkut Air	Kazakhstan
+E6	Bringer Air Cargo Taxi Aéreo	Brazil
+7E	Sylt Air GmbH	Germany
+	Corporate Aircraft Company	United States
+P3	Passaredo Transportes Aéreos	Brazil
+	Astravia-Bissau Air Transports Ltd.	Guinea-Bissau
+KP	Kiwi International Air Lines	United States
+	Trans Continental Airlines	Sudan
+MF	Xiamen Airlines	China
+BL	Pacific Airlines	Vietnam
+	Heli-Iberica	Spain
+	Voldirect	France
+ER	Astar Air Cargo	United States
+	Benane Aviation Corporation	Mauritania
+	Air Anatolia	Turkey
+	Air Atlantic Dominicana	Dominican Republic
+	VIP Servicios Aéreos Ejecutivos	Mexico
+YE	Aryan Cargo Express	India
+ML	Midway Airlines (1976–1991)	United States
+	Air Transport	United States
+	Air Afrique	Ivory Coast
+	The 955 Preservation  Group	United Kingdom
+	Liebherr Geschaeftreiseflugzeug	Germany
+	Il Ciocco International Travel Service	Italy
+	Bahrain Defence Force	Bahrain
+	SASCA	Venezuela
+	Sham Wing Airlines	Syrian Arab Republic
+	Eastern Executive Air Charter	United Kingdom
+	Bannert Air	Austria
+	NHV Aviation	Ghana
+	Trans Midwest Airlines	United States
+	Honduras Airlines	Honduras
+	Aero Servicio Pity	Mexico
+	Cherokee Express	United States
+OV	Estonian Air	Estonia
+	Johnston Airways	United States
+	South African Historic Flight	South Africa
+	Mannion Air Charter	United States
+	Visionair	Ireland
+7T	Tobruk Air	Libya
+	Air Specialties Corporation	United States
+	Air Service Liège (ASL)	Belgium
+	Euroskylink	United Kingdom
+	Falcon Airline	Nigeria
+PA	Pan American World Airways	United States
+	Excel-Aire Service	United States
+	Guard Systems	Norway
+	New York State Police	United States
+	Safe Air Company	Kenya
+	Lincoln Air National Guard	United States
+	Endecots	Ecuador
+	Lockheed Martin Aeronautics	United States
+	Lease Fly	Portugal
+5L	AeroSur	Bolivia
+	Dunyaya Bakis Hava Tasimaciligi	Turkey
+	Lynch Flying Service	United States
+	Caravan Air	Mauritania
+HC	Air Senegal	Senegal
+	Aerolíneas Mexicanas J S	Mexico
+F5	Cosmic Air	Nepal
+	Patterson Aviation Company	United States
+WH	WebJet Linhas Aéreas	Brazil
+	Scorpio Aviation	Egypt
+	Nelson Aviation College Ltd	New Zealand
+3U	Sichuan Airlines	China
+	Air Caraibes Atlantique	France
+	Mercer Airlines	United States
+	Decatur Aviation	United States
+EN	Air Dolomiti	Italy
+	Link Airways of Australia	Australia
+1G	Travelport (Galileo core)	Global
+	Afro International Ent. Limited	Nigeria
+PI	Piedmont Airlines (1948-1989)	United States
+	Zairean Airlines	Domocratic Republic of Congo
+WY	Oman Air	Oman
+	Ildefonso Redriguez	Mexico
+	Magna Air	Austria
+	Marghi Air	Nigeria
+	Tanana Air Services	United States
+	Komiaviatrans State Air Enterprise	Russia
+	Citibank	United States
+	Intavia Limited	United Kingdom
+	Aero Mongolia	Mongolia
+	AMC Airlines	Egypt
+	Backbone A/S	Denmark
+	Express International Cargo	São Tomé and Príncipe
+LS	Jet2.com	United Kingdom
+	Atuneros Unidos de California	Mexico
+	Aviation Company Meridian	Russia
+	Luxembourg Air Rescue	Luxembourg
+	Tiphook PLC	United Kingdom
+	Shorouk Air	Egypt
+RZ*	Sansa	Costa Rica
+VB	Aeroenlaces Nacionales	Mexico
+1F	Infini travel information, Inc.	Japan
+	Navegacao Aérea De Portugal	Portugal
+RX	Aviaexpress	Hungary
+VA	Virgin Australia Regional Airlines	Australia
+	Kartika Airlines	Indonesia
+	Rog-Air	Canada
+	C.S.P., Societe	Mauritania
+V4	Vieques Air Link	United States
+	ASA Pesada, Lda.	Angola
+	Princeton Aviation Corporation	United States
+	Eisele Flugdienst	Germany
+LQ	Lebanese Air Transport	Lebanon
+	CTK Network Aviation	Ghana
+	Springbok Classic Air	South Africa
+	GMJ Air Shuttle	United States
+	Civil Aviation Authority Directorate of Airspace Policy	United Kingdom
+CP	Canadian Pacific Airlines	Canada
+	Cargo Ivoire	Ivory Coast
+UY	Cameroon Airlines	Cameroon
+	Air Andaman	Thailand
+	Maryland State Police	United States
+	Eagle Canyon Airlines	United States
+U7	USA Jet Airlines	United States
+	Bylina Joint-Stock Company	Russia
+	Mandarin Air	China
+	Airwork	New Zealand
+	ATESA Aerotaxis Ecuatorianos	Ecuador
+	Air Pink	Serbia
+	Aero Taxi Los Valles	Spain
+	Sirair	Russia
+	Comeravia	Venezuela
+	Jet-stream	Hungary
+	Air 500	Canada
+	DAP Helicopteros	Chile
+	DHL Aviation	South Africa
+	As-Aero	Armenia
+	Methow Aviation	United States
+	Avinor	Norway
+E2	Rio Grande Air	United States
+UR	Uganda Airlines	Uganda
+	Z-Avia	Armenia
+	Empresa Aviación Interamericana	Uruguay
+Q2	Maldivian (airline)	Maldives
+YV	Mesa Airlines	United States
+	Los Cedros Aviación	Chile
+	Sky Wings Airlines	Greece
+	Leo-Air	South Africa
+	Tiramavia	Moldova
+	Sunwest Home Aviation	Canada
+	Aerotaxis Guamuchil	Mexico
+	Abas	Czech Republic
+XO	LTE International Airways	Spain
+	Cambridge Recurrent Training	United Kingdom
+	Álamo Aviación, S.L.	Spain
+EO	Hewa Bora Airways	Democratic Republic of the Congo
+C7	Cinnamon Air	Sri Lanka
+	Aerokaluz	Mexico
+	Open Sky Aviation	Lebanon
+	Saskatchewan Government	Canada
+YW	Air Nostrum	Spain
+	Finnish Air Force	Finland
+	Medical Air Rescue Services	Zimbabwe
+	Arizona Express Airlines	United States
+	L R Airlines	Czech Republic
+	Lakeland Aviation	United States
+	ICAO
+	Transportación  Aérea De Querétaro	Mexico
+7C	Jeju Air	Republic of Korea
+	Top Air	Indonesia
+	Sete Linhas Aéreas	Brazil
+	Aviation Consultancy Office	Australia
+	Air Caledonia	Canada
+	SR Jet	China
+	Absolute Flight Services	South Africa
+	Air Queensland	Australia
+	Elilario Italia	Italy
+	Chicago Air	United States
+	Rwanda Airways	Rwanda
+	Mercury Aircourier Service	United States
+	Royal Rwanda Airlines	Rwanda
+	Haiti Trans Air	Haiti
+	Southeast Correct Craft	United States
+	Almeta Air	Austria
+5V	Lviv Airlines	Ukraine
+	Premiair Fliyng Club	United Kingdom
+	Great Western Air	United States
+	Nikolaev-Air	Ukraine
+	Pacificair Airlines	United States
+	Luchtvaartmaatschappij Twente	Netherlands
+	Servicio Aéreo Regional Regair	Ecuador
+ZK	Great Lakes Airlines	United States
+FS	Servicios de Transportes Aéreos Fueguinos	Argentina
+XW	NokScoot	Thailand
+N/A	North Coast Air Services Ltd	Canada
+	Network Aviation Services	Nigeria
+	Svenska Direktflyg	Sweden
+	Paradise Island Airways	United States
+	Aeromet Línea Aérea	Chile
+	Servicios Aéreos Del Vaupes	Colombia
+	Buzz Stansted	United Kingdom
+	Transaviabaltika	Lithuania
+D6	Interair South Africa	South Africa
+TR	Transbrasil	Brazil
+1M	JSC Transport Automated Information Systems	Russia
+LC	Varig Logística	Brazil
+	Kosmas Air	Serbia
+	Jet Stream	Moldova
+	Aviation North	United States
+	Aero4m	Slovenia
+	MIT Airlines	Canada
+	Jet Fighter Flights	Australia
+	Jet Story	Poland
+	Systec 2000	United States
+	Icar Air	Bosnia and Herzegovina
+	Northeast Aviation	United States
+	Aviapaslauga	Lithuania
+	LATAM Colombia	Colombia
+	Angkor Airlines	Cambodia
+9M	Central Mountain Air	Canada
+	Elios	Italy
+	Atair Pty Ltd.	South Africa
+	Ptarmigan Airways	Canada
+	ABS Jets	Czech Republic
+	Claessens International Limited	United Kingdom
+S5	Trast Aero	Kyrgyzstan
+	Tyrol Air Ambulance	Austria
+PA	Florida Coastal Airlines	United States
+6Y	Smartlynx Airlines	Latvia
+	Berytos Airlines	Lebanon
+	Pioneer Airlines	United States
+	Bar Harbor Airlines	United States
+	Avantair	United States
+V2	Vision Airlines	United States
+	Servicios Ejecutivos Gosa	Mexico
+	Aero Corporate	Côte d'Ivoire
+	Yuhi Air Lines	Japan
+PS	Ukraine International Airlines	Ukraine
+2T	Haiti Ambassador Airlines	Haiti
+	Air Ban	Bulgaria
+	FMI Air	Myanmar
+GK	Go One Airways	United Kingdom
+	LeTourneau University	United States
+	Aviation Defense Service	France
+	Aviation Amos	Canada
+7A	Express Air Cargo	Tunisia
+	Aviação Transportes Aéreos e Cargas	Angola
+	Trend Aviation	United States
+	Vanguard Airlines	United States
+PB	Provincial Airlines	Canada
+	MSR Flug-Charter	Germany
+HW	North-Wright Airways	Canada
+	Transportes Aéreos  Sierra	Mexico
+	Transporte  Aéreo Técnico Ejecutivo	Mexico
+	ESI Eliservizi Italiani	Italy
+3J	Air Alliance	Canada
+1I	Deutsche Rettungsflugwacht	Germany
+	International Charter Xpress	United States
+	Ecuavia	Ecuador
+	Airquarius Air Charter	South Africa
+	Manx Airlines	United Kingdom
+	Rick Lucas Helicopters	New Zealand
+IRK	KISHAIR
+	Atlantis Transportation Services, Ltd.	Canada
+NQ	Air Japan	Japan
+	Servicios de Aviacion Sierra	Mexico
+	Royal Daisy Airlines	Uganda
+CL	Lufthansa CityLine	Germany
+9K	Cape Air	United States
+	Nizhnevartovskavia	Russia
+	Crown Airways	United States
+	Aerea Flying Training Organization	Spain
+	Hokuriki-Koukuu Company	Japan
+	Jetcraft Aviation	Australia
+	Alliance Avia	Kazakhstan
+	Ministry of Agriculture, Fisheries and Food	United Kingdom
+	Trans-Ulgii	Mongolia
+	KLM Helicopter	Netherlands
+	Farwest Airlines	United States
+	Turdus Airways	Netherlands
+	Istanbul Airlines	Turkey
+	Flight Express, Inc.	United States
+	Deraya Air Taxi	Indonesia
+	Haiti North Airline	Haiti
+	Interjet Helicopters	Greece
+	Mocambique Expresso	Mozambique
+	Central Queensland Aviation College	Australia
+	Aero Dynamics	United Kingdom
+IW	Wings Air	Indonesia
+	Polar Airlines de Mexico	Mexico
+	Secure Air Charter	United States
+	Pascan Aviation	Canada
+	Air Saint Louis	Senegal
+	Cook Inlet Aviation	United States
+	National Center for Atmospheric Research	United States
+YB	Borajet	Turkey
+	Arm-Aero	Armenia
+D2	Severstal Air Company	Russia
+	Comlux Aruba	Aruba
+	Civil Aviation Authority of New Zealand	New Zealand
+	CHC Helicopter	Australia
+R9	Camai Air	United States
+	Prime Airlines	United States
+	Xerox Corporation	United States
+OU	Croatia Airlines	Croatia
+2U	Air Guinee Express	Guinea
+R3	Yakutia Airlines	Russia
+HX	Hong Kong Airlines	Hong Kong
+	GP Express Airlines	United States
+ZG	ZIPAIR Tokyo	Japan
+	Pilot Flight Academy	Norway
+	Nelair Charters	South Africa
+	Xpedite	United Kingdom
+QC	Air Corridor	Mozambique
+	Air Sandy	Canada
+	Helitrans Air Service	United States
+	Escola De Aviacao Aerocondor	Portugal
+	Innotech Aviation	Canada
+	Skyway Enterprises	United States
+	Flygaktiebolaget Gota Vingar	Sweden
+	Safari Express Cargo	Kenya
+	Aero Service Bolivia	Bolivia
+	Air Travel Corp.	United States
+	Advance Aviation	Thailand
+	Trans Air Charter	United States
+	Funtshi Aviation Service	Democratic Republic of the Congo
+	Yuzhnaya Aircompany	Kazakhstan
+	Qatar Amiri Flight	Qatar
+	Airvias S/A Linhas Aéreas	Brazil
+	Air West	Canada
+PC	Pegasus Airlines	Turkey
+CD	Corendon Dutch Airlines	Netherlands
+	Mountain Flyers 80	Switzerland
+	Malawian Airlines 2014	Malawi
+2P	Air Philippines	Philippines
+	CareFlight	Australia
+TZ	ATA Airlines	United States
+NK	Spirit Airlines	United States
+	Avcorp Registrations	United Kingdom
+	Aero Charter Krifka	Austria
+FN	Regional Air Lines	Morocco
+	Vertical-T Air Company	Russia
+	Neric	United Kingdom
+	Farmingdale State University	United States
+WD	WDL Aviation	Germany
+	Aerofreight Airlines	Russia
+FO	Airlines of Tasmania	Australia
+	Contactair	Germany
+	Grupo Vuelos Mediterraneo	Spain
+	University Air Squadron	United Kingdom
+	Osh Avia	Kyrgyzstan
+	GlobeAir	Austria
+	Airmark Aviation	United States
+	Avia Trans Air Transport	Sudan
+	Cherline	Russia
+	Jayawijaya Dirgantara	Indonesia
+	Av Atlantic	United States
+	Siam GA	Thailand
+	Aero Flight Service	United States
+	Egyptian Leisure Airlines	Egypt
+	Package Express	United States
+	Martin Aviation Services	United States
+	WRA Inc	United States
+ST	Germania	Germany
+	Data International	Sudan
+AD	Azul Linhas Aéreas Brasileiras	Brazil
+	SkyFirst LTD	Malta
+	Fresh Air Aviation	United States
+	Bristol Flying Centre	United Kingdom
+D8*	Norwegian Air International	Ireland
+LL	Miami Air International	United States
+	Avianergo	Russia
+	Executive Flight Operations Ontario Government	Canada
+	Perimeter Aviation	Canada
+	Aeropro	Canada
+	Air Creebec	Canada
+	Zephyr Aviation	United Kingdom
+	Morris Air Service	United States
+3J	Jubba Airways	Kenya
+	S.P. Aviation	United States
+	Greybird Pilot Academy	Denmark
+DP	First Choice Airways	United Kingdom
+SI	Blue Islands	United Kingdom
+	VIP Avia	Latvia
+	Palmer Aviation	United Kingdom
+	Northern Airlines Sanya	China
+	Bearing Supplies Limited	United Kingdom
+4A	Air Kiribati	Kiribati
+	SFS Aviation	Thailand
+	Service People Gesellschaft für Charter und Service	Germany
+	Air Excel	Tanzania
+	Air Este	Spain
+KN	China United Airlines	China
+	Central Airways	Sierra Leone
+	Luxaviation	Luxembourg
+	Alpha Jet International	United States
+	Tesis	Russia
+G6	Air Volga	Russia
+	Cryderman Air Service	United States
+VM	Viaggio Air	Bulgaria
+JD	Beijing Capital Airlines	China
+	Global Airways (BSP)	Democratic Republic of Congo
+DY	Norwegian Air Shuttle	Norway
+	Quantex Environmental	Canada
+8I	Myway Airlines	Italy
+HY	Uzbekistan Airways	Uzbekistan
+	Proteus Helicopteres	France
+	Cega Aviation	United Kingdom
+	VIM-Aviaservice	Russia
+	Mac Aviation	Spain
+	Lions-Air	Switzerland
+	World Weatherwatch	Canada
+	Aero Servicios Expecializados	Mexico
+	Challenge Aviation	Australia
+	Aereo Dorado	Mexico
+	S.K. Logistics	United States
+	Ultrair	United States
+	Inter-Air	United States
+	Taxi Air Fret	France
+	Executive Aircraft Services	United Kingdom
+	Roblex Aviation	United States
+U2	easyJet UK	United Kingdom
+	Transair France	France
+	A-Jet Aviation Company	Mongolia
+	Aerodespachos de El Salvador	El Salvador
+	Necon Air	Nepal
+	Koanda Avacion	Spain
+	Multiservicios Aereos Del Valle	Mexico
+	Aviateca	Guatemala
+DQ	Coastal Air	United States
+	Aeronord-Grup	Moldova
+	North Caribou Flying Service Ltd	Canada
+II	IBC Airways	United States
+	France Marine Nationale	France
+	Hyack Air	Canada
+	Servicios Aéreos MTT	Mexico
+	Aerojet de Costa Rica, S.A.	Costa Rica
+	Transportes  Aéreos Regionales	Mexico
+	Jibair	Djibouti
+AC	Air Canada	Canada
+	Transaviaservice	Georgia
+	Old Dominion Freight Lines	United States
+	Aerosud Charter	South Africa
+	Caliber Jet	United States
+	Air Cruzal	Angola
+	Slovak National Aeroclub	Slovakia
+	Gestar	Chile
+	Flugdienst Fehlhaber	Germany
+	Aerotropical	Mexico
+	Lomas Helicopters	United Kingdom
+	Toyota Canada	Canada
+	Independent Air Freighters	Australia
+	Brasair Transportes Aéreos	Brazil
+	Ameristar Jet Charter	United States
+	Ambulance Air Africa	South Africa
+QV	Lao Airlines	Lao People's Democratic Republic
+	Cargo Three	Panama
+XJ	Mesaba Airlines	United States
+	Keystone Aerial Surveys	United States
+	Ram Aircraft Corporation	United States
+WR	WestJet Encore	Canada
+	ART Aviation	Austria
+	Ivoire Aero Services	Ivory Coast
+	Canadian Eagle Aviation	Canada
+HQ	Harmony Airways	Canada
+	Angkor Airways	Cambodia
+	Ibertrans Aérea	Spain
+	Reliance Aviation	United States
+	Aerofrisco	Mexico
+	IBM Euroflight Operations	Switzerland
+	Capital Airlines Limited	Nigeria
+	Deccan Charters	India
+	Aerotaxis de Aguascalientes	Mexico
+	Slim Aviation Services	Nigeria
+	Trener Ltd	Hungary
+JJ	LATAM  Brasil	Brazil
+	Air Marine	France
+	Aerochago Airlines	Dominican Republic
+M9	Motor Sich	Ukraine
+	Lepl Project Limited (Air Costa)	India
+	Elliott Aviation	United States
+6Q	Slovak Airlines	Slovakia
+	Taxis Aéreos de Sinaloa	Mexico
+	Nortland Air Manitoba	Canada
+	Garden State Airlines	United States
+JZ	Skyways Express	Sweden
+UN	Transaero Airlines	Russia
+	Canadian Global Air Ambulance	Canada
+	Eckles Aircraft	United States
+	Crimea Universal Avia	Ukraine
+ZH	Shenzhen Airlines	China
+EG	Japan Asia Airways	Japan
+	Air-Invest	Hungary
+1K	Southern Cross Distribution	Australia
+DH	Norwegian Air Norway	Norway
+	Servicios Aéreos de Chihuahua Aerochisa	Mexico
+	Siavia	Slovenia
+FL	AirTran Airways	United States
+	Emoyeni Air Charter	South Africa
+	Qwest Commuter Corporation	United States
+	North Sea Airways	Netherlands
+	Air Park Aviation Ltd.	Canada
+MT	Thomas Cook Airlines	United Kingdom
+	Samson Aviation	United Kingdom
+	Aerocheyenne	Mexico
+	Trans International Airlines	United States
+	Avita-Servicos Aéreos	Angola
+	Clasair	United Kingdom
+	Wermlandsflyg AB	Sweden
+	Ababeel Aviation	Sudan
+	Hawkaire	United States
+	Interaviatrans	Ukraine
+	Transportes  Aéreos Nacionales De Selva Tans	Peru
+	Nigerian Global	Nigeria
+	RAF Barkston Heath	United Kingdom
+	Atlantair Ltd.	Canada
+	Kaz Air West	Kazakhstan
+	Florida Air Cargo	United States
+EV	Atlantic Southeast Airlines	United States
+3J	Zip	Canada
+R7	Aserca Airlines	Venezuela
+	Lanzarote Aerocargo	Spain
+RV	Caspian Airlines	Iran
+	Aero Gambia	Gambia
+	Aero Taxi	Canada
+	Jetalliance	Austria
+4N	Air North Charter - Canada	Canada
+BD	BMI	United Kingdom
+HA	Hawaiian Airlines	United States
+	US Jet	United States
+	Mali Air	Austria
+	Oulun Tilauslento	Finland
+	Casement Aviation	United States
+	Cygnus Air	Spain
+	African Airlines International Limited	Kenya
+SU	Aeroflot Russian Airlines	Russia
+	Tadair	Spain
+	Falcon Air	Slovenia
+	Deutsches Zentrum fur Luft-und Raumfahrt EV	Germany
+	Aerotrans Airlines	Russia
+	Lawrence Aviation	United States
+	Turbine Air Cargo UK	United Kingdom
+	Specavia Air Company	Russia
+	Chaparral Airlines	United States
+XY	Flynas	Saudi Arabia
+	Air Nelson	New Zealand
+FE	Far Eastern Air Transport	Taiwan
+SQ	Singapore Airlines	Singapore
+	Air Korea Co. Ltd.	Republic of Korea
+	Aria	France
+	Grossmann Jet Service	Czech Republic
+	Aerosuper	Mexico
+GD	Air Alpha Greenland	Denmark
+	Wisman Aviation	United States
+	African Express Airways	Kenya
+	Interisland Airways Limited	Turks and Caicos Islands
+	Air Medical	United Kingdom
+	Flight Trac	United States
+	International Air Carrier Association	Belgium
+	Dasnair	Switzerland
+TF	Malmö Aviation	Sweden
+	National Jet Express	Australia
+	AeroSucre	Colombia
+	Metropolis	Netherlands
+	Midwest Aviation	United States
+I4	Interstate Airlines	Netherlands
+	Air People International	Thailand
+	Eaglemed (Ballard Aviation)	United States
+	Kurzemes Avio	Russia
+	Christian Konig - Century Airbirds	Austria
+	Volare 22 X	Mexico
+	Sky Service	Belgium
+4Z	Airlink	South Africa
+	A-Jet Aviation Aircraft Management	Austria
+	Puma Linhas Aéreas	Brazil
+	Arrow Aviation	Israel
+	Lufttaxi Fluggesellschaft	Germany
+	Mahalo Air	United States
+X9	Avion Express	Lithuania
+	International Company for Transport, Trade and Public Works	Libya
+	Aerotaxis Metropolitanos	Mexico
+	Aerovuelox	Mexico
+	Urartu-Air	Armenia
+	Ibk-Petra	Sudan
+	Royal Netherland Navy	Netherlands
+	Air Sofia	Bulgaria
+	Aerial Surveys (1980) Limited	New Zealand
+	China Southern Airlines Henan	China
+OE[36]	LaudaMotion	Austria
+	Guizhou Airlines	China
+	Japan Aircraft Service	Japan
+	China National Aviation Corporation	China
+LV	Albanian Airlines	Albania
+	Aero Charter and Transport	United States
+	Serair Transworld Press	Spain
+	Maine Aviation	United States
+	Grup Air-Med	Spain
+	African Company Airlines	Democratic Republic of the Congo
+	Southern Air	United States
+	Lotus Air	Egypt
+GK	Jetstar Japan	Japan
+	Aero Entreprise	France
+RK	Skyview Airways	THAILAND
+	Shoprite Group	United Kingdom
+	Aeroitalia	Italy
+	Hummingbird Helicopter Service	United States
+	Intal Avia	Kyrgyzstan
+LK	Air Luxor	Portugal
+	Servicios Aéreos Del Centro	Mexico
+	TAG Aviation USA	United States
+	Venescar Internacional	Venezuela
+	Martin-Baker	United Kingdom
+8M	Maxair	Sweden
+	East Asia Airlines	Macao
+	Challenge International Airlines	United States
+	Prince Edward Air	Canada
+	Alan Mann Helicopters Ltd.	United Kingdom
+	Solinair	Slovenia
+TC	Air Tanzania	Tanzania
+YD	Cologne Air Transport GmbH	Germany
+HZ	Sakhalinskie Aviatrassy (SAT)	Russia
+	Aero Africa	Swaziland
+	BT-Slavuta	Ukraine
+	K D Air Corporation	Canada
+	Elisra Airlines	Sudan
+	Taxis Aéreos De Parral	Mexico
+	Fresh Air	Nigeria
+	DETA Air	Kazakhstan
+	Bravo Airlines	Spain
+	Union Africaine des Transports	Ivory Coast
+CJ	CityFlyer Express	United Kingdom
+	Societe Centrafricaine De Transport Aerien	Central African Republic
+	AIS Airlines	Netherlands
+	Royal Aviation Express	Canada
+	Wings Airways	United States
+	Alba Servizi Aerotrasporti	Italy
+	Jubilee Airways	United Kingdom
+WO	World Airways	United States
+	Murmansk Aircompany	Russia
+	Servicio De Helicopteros	Spain
+	ATUR	Ecuador
+	Aero Roca	Mexico
+NR	Pamir Airways	Afghanistan
+	Orion Air Charter	South Africa
+	Air Xpress, Inc.	United States
+	Petroleum Helicopters de Colombia	Colombia
+	Mina Airline Company	Egypt
+VJ	Jatayu Airlines	Indonesia
+	Aerocer	Mexico
+	Maple Air Services	Canada
+	Florida Jet Service	United States
+	Elicar	Italy
+	Chief of Staff, United States Air Force	United States
+	Abakan Air	Russian Federation
+	Compagnia Generale Ripreseaeree	Italy
+	Airtime Charters	United Kingdom
+	Miramichi Air Service	Canada
+	VICA - Viacao Charter Aéreos	Brazil
+	Aerovilla	Colombia
+GZ	Air Rarotonga	Cook Islands
+JX	Starlux Airlines	Taiwan
+RP*	Chautauqua Airlines	United States
+	Bioflight A/S	Denmark
+	Rynes Aviation	United States
+	Dolphin Express Airlines	United States
+	Air Cargo Express International	United States
+JM	Air Jamaica	Jamaica
+	Air Moorea	France
+	Ixair	France
+	Liberty Air	Netherlands
+	Nationale Luchtvaartschool	Netherlands
+	Commonwealth Jet Service	United States
+	Jim Hankins Air Service	United States
+	Audi Air, Inc.	United States
+1P	Worldspan	United States
+	Centro de Servicio Aeronautico	Mexico
+	South African Air Force	South Africa
+	Khyber Afghan Airlines	Afghanistan
+	Flycom	Slovenia
+	Sahel Airlines	Niger
+	Dehong South Asian General Aviation	China
+	MAC Fotografica	Spain
+	Eagle Air Company	Thailand
+QQ	Alliance Airlines	Australia
+	Tengeriyn Ulaach Shine	Mongolia
+	Gamisa Aviación	Spain
+	Telford Aviation	United States
+IT	Kingfisher Airlines	India
+	Aero Vodochody	Czech Republic
+	Cloud 9 Air Charters	South Africa
+	Aero Modelo	Mexico
+	Aero Clinker	Mexico
+	Swedish Armed Forces	Sweden
+JO	Jettime	Denmark
+	Tropican Air Services	Egypt
+	Jet East International	United States
+	European Aeronautical Group UK	United Kingdom
+RH	Hong Kong Air Cargo	Hong Kong
+	AirSprint US	United States
+	Air Yugoslavia	Serbia
+	Gail Force Express	United States
+	Texas Airways	United States
+	Bakoji Airlines Services	Nigeria
+	Lid Air	Sweden
+UQ	O'Connor Airlines	Australia
+	Air Kufra	Libya
+	FCS Flight Calibration Services	Germany
+	Pocono Air Lines	United States
+	Raji Airlines	Pakistan
+	Pawan Hans	India
+D9	Donavia	Russia
+	Dolphin Air	United Arab Emirates
+	First Air Transport	Japan
+	Ivoire Jet Express	Ivory Coast
+	Private Jet Expeditions	United States
+	Air One Cityliner	Italy
+J4	Buffalo Airways	Canada
+	Arrendamiento de Aviones Jets	Mexico
+	Cargoman	Oman
+JQ	Jetstar	Australia
+	Aviation Legere De L'Armee De Terre	France
+	Awsaj Aviation Services	Libya
+	Nortavia	Portugal
+	Aviation Partners	United States
+	Island Aviation and Travel	United Kingdom
+LZ[56]	Swiss Global Air Lines	Switzerland
+Q7	SkyBahamas	Bahamas
+	Bristow Helicopters Nigeria	Nigeria
+O2	OLT Express	Poland
+	Servicios Aéreos Del Norte	Mexico
+	EIS Aircraft	Germany
+	Swedish Airlines	Sweden
+	Arrendaminetos y Transportes Turisticos	Mexico
+	Aero Taxis Cessna	Mexico
+7N	Pawa Dominicana	Dominican Republic
+	Southeast Airlines (Sun Jet International)	United States
+N2	Kabo Air	Nigeria
+	Air East	Slovakia
+	Totavia	Canada
+	Alkan Air	Canada
+	Aeroexpreso Interamericano	Colombia
+EJ	New England Airlines	United States
+	Air San Juan	United States
+ZT	Titan Airways	United Kingdom
+R0	Royal Airlines	Pakistan
+	Chabahar Airlines	Iran
+	United Carriers Systems	United States
+	Dos Mundos	Dominican Republic
+	Wings Aviation	Guyana
+	Triple O Aviation	Nigeria
+	Grampian Flight Centre	United Kingdom
+	Manaf International Airways	Burundi
+MR	Hunnu Air	Mongolia
+	Swiftair	Spain
+	RAF Topcliffe Flying Training Unit	United Kingdom
+5D	Aeroméxico Connect	Mexico
+	Líneas Aéreas Monarca	Mexico
+	WSI Corporation	United States
+DK	Eastland Air	Australia
+	Spurwing Airlines	South Africa
+	Aeroclub de Albacete	Spain
+	Ucoaviacion	Spain
+	Air Walser	Malta
+	Mountain High Aviation	United States
+TV	Virgin Express	Belgium
+	Airways	France
+	Sparc Avia	Russia
+	Red Aviation	United Kingdom
+	Beibars CJSC	Kazakhstan
+	Airspeed Charter	Jamaica
+	TACA De Honduras	Honduras
+	Swiss Air Force	Switzerland
+	Transafrik International	São Tomé and Príncipe
+	Berkhut ZK	Kazakhstan
+	Aereo Ruta Maya	Guatemala
+	S-Air	Russia
+JY	InterCaribbean Airways	Turks and Caicos Islands
+	Aerotucan	Mexico
+	Frontier Guard	Finland
+0C	IBL Aviation	Mauritius
+	Aeroecom	Venezuela
+	Silver Cloud Air	Germany
+	Delta State University	United States
+DE	Condor Flugdienst	Germany
+	Exxavia Limited	Ireland
+	MBK-S	Russia
+	Air Nigeria	Nigeria
+	Corporate Aviation Services	United States
+	Apoyo Aéreo	Mexico
+	Jigsaw Project	United Kingdom
+	Brixtel Group	United States
+	Medavia	Malta
+8N	Barents AirLink	Sweden
+1Y	Electronic Data Systems	United States
+	Aircharters Worldwide	United States
+3R	Moskovia Airlines	Russia
+	National Airlines	South Africa
+	Flugschule Basel	Switzerland
+4D	Air Sinai	Egypt
+	Lufthansa Technik	Germany
+	Axel Rent, S.A.	Mexico
+	Alliance Air Charters	United States
+	Danish Air Force	Denmark
+	Sevastopol-Avia	Ukraine
+	Delaware Skyways	United States
+SO	Sosoliso Airlines	Nigeria
+	Aero Club de Castellon	Spain
+	Cirrus Middle East	Lebanon
+B7	UNI Air	Taiwan
+4G	Gazpromavia	Russia
+	Air Tchad	Chad
+	Elilombarda	Italy
+	Toumai  Air Tchad	Chad
+	Aspen Aviation	United States
+	Servicios Aéreos Milenio	Mexico
+	EFS European Flight Service	Sweden
+R1	Sirin
+	Aerosaab	Mexico
+	Air Cairo	Egypt
+	Royal Australian Air Force	Australia
+RW	Republic Airways	United States
+	Adler Aviation	Canada
+	Global Airways (GLB)	United States
+8D*	Astair	Russian Federation
+	Zorex	Spain
+	West Coast Airlines	United States
+	Express Net Airlines	United States
+ZB	Air Albania	Albania
+	Seacoast Airlines	United States
+	Aerosegovia	Nicaragua
+	Executive Airlines Services	Nigeria
+DI	Norwegian Air UK	United Kingdom
+MA	Malév Hungarian Airlines	Hungary
+	Slovak Government Flying Service	Slovakia
+	Transportes Aéreos  Inter	Guatemala
+	PLM Dollar Group	United Kingdom
+	Tashkent  Aircraft Production Corporation	Uzbekistan
+	Silver Air	Djibouti
+	Pointair Burkina	Burkina Faso
+	VIP-Avia	Georgia
+EZ	Sun Air of Scandinavia	Denmark
+	Universal Jet Rental de Mexico	Mexico
+	Grand Aire Express	United States
+	Med-Trans of Florida	United States
+	Hawk Air	Argentina
+	Sokol	Russia
+	Sedalia, Marshall, Boonville Stage Line	United States
+	Tbilisi Aviation  University	Georgia
+	Aerosafin	Mexico
+EO	Express One International	United States
+	Sky Express	Greece
+	US Express	United States
+AW	Dirgantara Air Service	Indonesia
+	Ameriflight	United States
+	Aero Servicios Regiomontanos	Mexico
+	Krimaviamontag	Ukraine
+	Ryan Air Services	United States
+	Discover Air	United States
+AA	American Airlines	United States
+MT	JMC Airlines	United Kingdom
+	Ogooue Air Cargo	Gabon
+	Asia Aero Survey and Consulting Engineers	Republic of Korea
+IT	Tigerair  Taiwan	Taiwan
+	Rossair	South Africa
+	Hazelton Airlines	Australia
+	P & P Floss Pick Manufacturers	South Africa
+AO	Australian Airlines	Australia
+	Servicios Aéreos Especializados Mexicanos	Mexico
+	Rumugu Air & Space Nigeria	Nigeria
+UU	Air Austral	France
+	Transpaís Aéreo	Mexico
+	Petty Transport	United States
+FV	Pulkovo Aviation Enterprise	Russia
+	Airlink	Austria
+	USAF Air Mobility Operations Control Center	United States
+	Servicios Aéreos Saar	Mexico
+	Shuswap Flight Centre	Canada
+	Valair Aviação Lda	Portugal
+	Rusaero	Russia
+	V-avia Airline	Ukraine
+	Aero Ejecutivo De Baja California	Mexico
+	Springfield Air	United States
+	Uvavemex	Mexico
+	Irving Oil	Canada
+	Eastern SkyJets	United Arab Emirates
+O2	Linear Air	United States
+S5	Star Air (India)	India
+	Eco Air	Nigeria
+	Canadian Warplane Heritage Museum	Canada
+	Aircompany Chaika	Ukraine
+	Africa One	Democratic Republic of the Congo
+	Lithuanian Air Force	Lithuania
+	Jet Center Flight Training	Spain
+	March Helicopters	United Kingdom
+	Erie Airways	United States
+	Bowman Aviation	United States
+	Trans American Airlines  (Trans Am)	Peru
+YL	Yamal Airlines	Russia
+TD	Tulip Air	Netherlands
+	Aeromet Servicios	Chile
+	Aerovías del Golfo	Mexico
+9T	Transwest  Air	Canada
+	Global Jet Corporation	United States
+	ExxAero	Netherlands
+	Saigon Capital Aircraft Management	Netherlands
+	Civil Air Patrol South Carolina Wing	United States
+	Frontier Commuter	United States
+	Centro de Formación Aeronáutica de Canarias	Spain
+	Wyoming Airlines	United States
+	Taxi Aéreo Cozatl	Mexico
+	Bentiu Air Transport	Sudan
+	Horizon Plus	Bangladesh
+TP	TAP  Portugal	Portugal
+	Gendarmerie Belge	Belgium
+OB	Austrian Airtransport	Austria
+	Navinc Airlines Services	United States
+VN	Vietnam Airlines	Vietnam
+	ILAS Air	Japan
+	Aviones de Renta de Quintana Roo, S.A. de C.V.	Mexico
+	Air Special	Czech Republic
+	Aero Homex	Mexico
+1R	Hainan Phoenix Information Systems	China
+	Gauteng Air Cargo	South Africa
+	Chief Rat Flight Services	South Africa
+	Ensenada Vuelos Especiales	Mexico
+	South Coast Aviation	United Kingdom
+	Tepavia-Trans Airlines	Moldova
+MH	Malaysia Airlines	Malaysia
+LB	Lloyd Aéreo Boliviano	Bolivia
+	Aero Nova	Spain
+H9	Air d'Ayiti	Haiti
+	Capital Air Service	United States
+	Mann Air	United Kingdom
+ZL	Regional Express	Australia
+	Aeroserivios Del Bajio	Mexico
+	XJC Limited	United Kingdom
+OV	SalamAir	Oman
+	Hamra Air	United Arab Emirates
+	Atlantic Aero and Mid-Atlantic Freight	United States
+	British Antarctic Survey	United Kingdom
+T9	TransMeridian Airlines	United States
+	Comfort Air	Germany
+H6	Hageland Aviation Services	United States
+	Connectair Charters	Canada
+MV	Air Mediterranean	Greece
+	Best Aero Handling Ltd	Russia
+KY	Air São Tomé and Príncipe	São Tomé and Príncipe
+	Aereo Futuro	Mexico
+	Arvand Airlines	Iran
+	Avag Air	Austria
+	Air Mana	France
+	Monerrey Air Taxi	Mexico
+	Aerolíneas Villaverde	Mexico
+	Semeyavia	Kazakhstan
+	Aviation Ministry of the Interior of the Russian Federation	Russian Federation
+	Air Almaty ZK	Kazakhstan
+	Avia Traffic Company	Kyrgyzstan
+	Sefofane Air Charters	Botswana
+W3	Switfair Cargo	Canada
+	AC Insat-Aero	Russia
+	Xair	Czech Republic
+CC	Macair Airlines	Australia
+	Flightstar Corporation	United States
+1S	Sabre	United States
+	Aero Owen	Mexico
+AE	Mandarin Airlines	Taiwan
+	Jet Sky Cargo and Air Charter	Kenya
+	Global Weather Dynamics	United States
+	Air Integra	Canada
+	Tobago  Express	Trinidad and Tobago
+	Aerosud Aviation	South Africa
+	Transafricaine	Burkina Faso
+	Sioux Falls Aviation	United States
+	Servicios Aéreos San Cristóbal	Mexico
+	Gof-Air	Mexico
+	Uganda Royal Airways	Uganda
+	Volkswagen AirService GmbH	United Kingdom
+PL	Airstars	Russia
+	Air Nepal International	Nepal
+	Lom Praha Flying School	Czech Republic
+	Air Net Private Charter	United States
+	My Fair Jet	Austria
+	Huessler Air Service	United States
+	Comercial Aérea	Mexico
+	Ford Motor Company	United Kingdom
+SP	SATA Air Acores	Portugal
+	Tusheti	Georgia
+	LatCharter	Latvia
+	Trabajos Aéreos	Spain
+	Air Affaires Tchad	Chad
+	Aerofan	Spain
+NH	All Nippon Airways	Japan
+	Lynden Air Cargo	Papua New Guinea
+	Tri-State Aero	United States
+	Smith Air (1976)	Canada
+	Yunnan Yingan Airlines	China
+	Servicios Aéreos Nacionales (SAN)	Ecuador
+	Pont International Airline Services	Suriname
+	Bonair Aviation	Canada
+	Pond Air Express	United States
+1H	Siren-Travel	Russia
+	East-West Airlines	Australia
+4H	United Airways	Bangladesh
+T7	Twin Jet	France
+A5	Hop!	France
+QF	Sunstate Airlines	Australia
+	Aerovallarta	Mexico
+	Air Service Groningen	Netherlands
+	Valan International Cargo Charter	South Africa
+	Aerolíneas Comerciales	Mexico
+	Airpull Aviation	Spain
+	Flying Carpet Company	Lebanon
+	Air China Cargo	China
+	Royal Jordanian Air Force	Jordan
+	Sector Airlines	Canada
+	Heron Luftfahrt	Germany
+	Business Express	United States
+	Delta Private Jets	United States
+	Chipola Aviation	United States
+	Southern Cross Aviation	United States
+5J	Cebu Pacific	Philippines
+	Commander Air Charter	Canada
+	Voyager Airlines	Bangladesh
+PN	Pan American Airways	United States
+	Russian Aircraft Corporation-MiG	Russia
+WD	Modern Transporte Aereo De Carga	Brazil
+	135 Airways	United States
+	Georgian Aviation Federation	Georgia
+	Angel Airlines	Thailand
+	Helicap	France
+	Equatair Air Services (Zambia)	Zambia
+	Sowind Air	Canada
+HF	Hapagfly	Germany
+	Air Center Helicopters	United States
+	Nakheel Aviation	United Arab Emirates
+	Nacoia Lda	Angola
+NC	National Jet Systems	Australia
+KR	Cambodia Airways	Cambodia
+	Luhansk	Ukraine
+	Four Winds Aviation	United States
+	Pelican Express	United States
+JH	Nordeste Linhas Aéreas Regionais	Brazil
+	Celtic West	United Kingdom
+	Geographic Air Surveys	Canada
+	CHC Helikopter Service	Norway
+H5	Mavial Magadan Airlines	Russia
+	Aurela	Lithuania
+FZ	Flydubai	UAE
+	Gander Aviation	Canada
+	Aero Soga	Guinea-Bissau
+	Capital Trading Aviation	United Kingdom
+	Commerce Bank	United States
+	Blue Swan Aviation	United Kingdom
+	Aviaprad	Russia
+	Grixona	Moldova
+	Afric'air Express	Côte d'Ivoire
+	Transporte del Caribe	Colombia
+	Air Charter Professionals	United States
+	Top Flight Air Service	United States
+Z8	Línea Aérea Amaszonas	Bolivia
+	Noy Aviation	Israel
+	FSB Flugservice & Development	Germany
+G8	Enkor JSC	Russia
+	Transporte Aero MGM	Mexico
+	Cape Central Airways	United States
+	Air Luxor STP	São Tomé and Príncipe
+	Aeromedicare Ltd.	United Kingdom
+	Trabajos Aéreos  Murcianos	Spain
+	Aeronaves Del Noreste	Mexico
+MH	MASwings	Malaysia
+CW	Air Marshall Islands	Marshall Islands
+	Malaya Aviatsia Dona	Russia
+	Canadian Helicopters	Canada
+	Rader Aviation	United States
+	RAF Church Fenton	United Kingdom
+	Zenith Air	South Africa
+VM	His Majesty King Maha Vajiralongkorn	Thailand
+IA	Iraqi Airways	Iraq
+I6	Sky Eyes	Thailand
+	Avial NV Aviation Company	Russia
+	Zapolyarye Airline Company	Russia
+	Air Max Africa	Gabon
+	Reliant Airlines	United States
+	224th Flight Unit	Russia
+	Psudiklat Perhubungan Udara/PLP	Indonesia
+PE	People's	Austria
+	Xabre Aerolineas	Mexico
+	German Air Force	Germany
+AN	Ansett Australia	Australia
+	Polish Air Force	Poland
+	Chevron U.S.A	United States
+	Germania Express	Germany
+T2	Thai  Air Cargo	Thailand
+	Organizacion De Transportes Aéreos	Mexico
+	Interfly	Italy
+SM	Swedline Express	Sweden
+	Aeropac	United States
+	Jambo Africa Airlines	Democratic Republic of Congo
+	Tulpar Air Service	Kazakhstan
+	Aero Barloz	Mexico
+	Aeroflot-Plus	Russia
+Q6	Aero Condor Peru	Peru
+	Helicopter Training & Hire	United Kingdom
+	American Aviation	United States
+GS	Air Foyle	United Kingdom
+	Key Airlines	United States
+	Air Concorde	Bulgaria
+	CRI Helicopters Mexico	Mexico
+NX	Air Macau	Macao
+	Aerocon	Bolivia
+3S	AeroLogic	Germany
+	Lamra	Sudan
+	Taxair Mexiqienses	Mexico
+	Goldeck-Flug	Austria
+	Mimino	Russia
+	VH-Air Industrie	Angola
+	Helitaxi Ofavi	Mexico
+	South American Airlines	Peru
+	VHM Schul-und-Charterflug	Germany
+	MacKnight Airlines	Australia
+	Ade, Aviación Deportiva	Spain
+	Karlog Air Charter	Denmark
+	International Trans-Air	Nigeria
+	Acropolis Aviation	United Kingdom
+MK	Air Mauritius	Mauritius
+9O	National Airways Cameroon	Cameroon
+	African West Air	Senegal
+	Vega Air Company	Ukraine
+	Cougar Helicopters	Canada
+	Singapore Air Force	Singapore
+	Fortunair Canada	Canada
+	Kazaviaspas	Kazakhstan
+	Aeroxtra	Mexico
+	Red Devils Parachute Display Team	United Kingdom
+	Bun Air Corporation	United States
+	AST Pakistan Airways	Pakistan
+CY	Cyprus Airways	Cyprus
+	Executive Air Charter	United States
+	Abidjan Air Cargo	Côte d'Ivoire
+HP	Phoenix Airways	Switzerland
+	Kirov Air Enterprise	Russia
+	TAPC Aviatrans  Aircompany	Uzbekistan
+	Air Safaris and Services	New Zealand
+	FINFO Flight Inspection Aircraft	United States
+A0	Avianca Argentina	Argentina
+	Houston Helicopters	United States
+	Aeromorelos	Mexico
+	Rusuertol	Russia
+J9	Jazeera Airways	Kuwait
+	Sudan Pezetel for Aviation	Sudan
+	Aero Roa	Mexico
+OD	Malindo Airways	Malaysia
+	Sky Aeronautical Services	Mexico
+	Mega	Kazakhstan
+	Dix Aviation	Germany
+	Servicios Aéreos Luce	Mexico
+	Western Arctic Air	Canada
+	Mann Yadanarpon Airlines	Myanmar
+G8	Gujarat Airways	India
+	Everts Air Alaska/Everts Air Cargo	United States
+	Century Aviation International	Canada
+MS	Egyptair	Egypt
+	Corporativo Aereo Principal	Mexico
+	Aeronor	Spain
+	Universal Airlines	United States
+	Freedom Airlines	United States
+	Justair Scandinavia	Sweden
+	Royal Bahrain Airlines	Bahrain
+	Star Air	Indonesia
+	Cheqair	United Kingdom
+	Afrijet Airlines	Nigeria
+	Air Executive	Spain
+	JetMagic	Ireland
+	Pan Am Weather Systems	United States
+ZT	Titan  Airways	United Kingdom
+	African International Airlines	Lesotho
+	Air Plus Argentina	Argentina
+	Hand D Aviation	United States
+BS	US-Bangla Airlines	Bangladesh
+	Inter-Canadian	Canada
+4T	Belair Airlines	Switzerland
+	Europe Jet	Turkey
+	Airmax	Peru
+	Play	Iceland
+8E	Bering Air	United States
+UM	Air Zimbabwe	Zimbabwe
+	O Air	France
+RL	Abakan-Avia	Russia
+	Panamedia	Spain
+	Maverick Airways	United States
+	Alexandair	Greece
+8S	Scorpio Aviation
+	Friendship Airlines	Uganda
+BN	Horizon Airlines	Australia
+9L	AirTanker Services	United Kingdom
+	Macedonian Airlines	Greece
+	Conquest Air	United States
+	Orient Airlines	Sudan
+	Servicios Aéreos Ilsa	Mexico
+	Nor Aviation	Norway
+	Colemill Enterprises	United States
+	Khors Aircompany	Ukraine
+	Lignes Mauritaniennes Air Express	Mauritania
+	Confort Air	Canada
+FX	FedEx Express	United States
+KJ	Asian Air	Kyrgyzstan
+	Alada	Angola
+Y5	Golden Myanmar Airlines	Myanmar
+	Ukrainian Pilot School	Ukraine
+	Aero-Rent	Mexico
+VB	Maersk Air UK	United Kingdom
+	Mountain Valley Air Service	United States
+	Pacific International Airlines	United States
+	Caribbean Air Transport	Netherlands
+	Aero-Beta	Germany
+	Alliance Express Rwanda	Rwanda
+	Aero Elite Acapulco	Mexico
+	Arrendadora y Transportadora Aérea	Mexico
+	Global Air Charter	United States
+U7	Northern Dene Airways	Canada
+	Tarkim Aviation	Turkey
+	Euroamerican Air	Uruguay
+	London Helicopter Centres	United Kingdom
+	FLTPLAN (anonymized service)	United States
+	Belgian Navy	Belgium
+	Renown Aviation	United States
+	Selkirk Remote Sensing	Canada
+6J	Jubba Airways	Somalia
+A6	Air Alps Aviation	Austria
+PC	Air Fiji	Fiji
+XT	SkyStar Airways	Thailand
+EW	Eurowings	Germany
+	SmithKline Beecham Clinical Labs	United States
+	Aeronautic de Los Pirineos	Spain
+3L	Air Arabia Abu Dhabi	United Arab Emirates
+	Rusaero	Russia
+	Brazilian Army Aviation	Brazil
+	Astro Air International	United States
+	Archer Aviation	United Kingdom
+	Air Niamey	Niger
+	Safiran Airlines	Iran
+9E	Pinnacle Airlines	United States
+	Servizi Aerei	Italy
+	Raytheon Aircraft Company	United States
+	Best Air	Turkey
+	Aban Air	Iran
+	Norsk Helikopter	Norway
+	Homac Aviation	Luxembourg
+ZB	Monarch Airlines	United Kingdom
+	MK Airline	Ghana
+	Skypower Express Airways	Nigeria
+6E	IndiGo	India
+	Bonyad Airlines	Iran
+L9	Air Mali	Mali
+	Aeroferinco	Mexico
+	Holstenair Lubeck	Germany
+Q5	40-Mile Air	United States
+SN	Brussels Airlines	Belgium
+BX	Air Busan	Republic of Korea
+XN	XpressAir	Indonesia
+	Sky Prim Air	Molodva
+UO	Hong Kong Express Airways	Hong Kong
+OE	Laudamotion	Austria
+	Alpha Jet, S.R.O.	Slovakia
+	Shandong Airlines Rainbow Jet	China
+	Western Global Airlines	United States
+CV	Air Chathams	New Zealand
+	Trinity Air Bahamas	Bahamas
+	A2 Jet Leasing	United States
+	Casino Airline	United States
+	Puntavia Air Services	Djibouti
+	Compass International Airways	United Kingdom
+	Emerald Airways	United Kingdom
+	Nord-Flyg	Sweden
+	Comfort Jet Services	Togo
+	Air Atlantic Uruguay	Uruguay
+1B	Sabre travel network Asia-Pacific (ex-Abacus)	APAC
+K3	Taquan Air Services	United States
+	Moldova	Moldova
+	AirClass Airways	Spain
+	First Line Air	Sierra Leone
+XE	JSX (airline)	United States
+	Ground Handling Service de Mexico	Mexico
+	Transport Facilitators	United States
+	Express Airways	Slovenia
+	Sunshine Air Tours	United States
+IH	Irtysh Air	Kazakhstan
+	Afrique Chart'air	Cameroon
+	Aeronautical Charters	United States
+	Starair	Ireland
+	Briggs Marine Environmental Services	United Kingdom
+WC	Wien Air Alaska	United States
+	Air Data	United Kingdom
+	North Vancouver Airlines	Canada
+	GAK/Mitchell Aero	United States
+DD	Danish Air Lines	Denmark
+	Helix-Craft Aviation	Panama
+	State Air Company Berkut	Kazakhstan
+	Antair	Mexico
+	AEG Aviation Services	United States
+6J	Solaseed Air	Japan
+	Baseops International	United States
+HG	Niki	Austria
+	Mauritanienne Aerienne Et Navale	Mauritania
+	SENEAM	Mexico
+	Israel Aircraft Industries	Israel
+	Aram Airline	Iran
+	Florida Aerocharter	United States
+	Aero Quimmco	Mexico
+	Air Zermatt AG	Switzerland
+	Kevis	Kazakhstan
+	Bellview Airlines, Sierra Leone	Sierra Leone
+	Multiflight
+	Aircompany Barcol	Russia
+	Polestar Aviation	United Kingdom
+9A	Eagle Express Air Charter	Malaysia
+	Jet Connection	Germany
+	Jet Charter	United States
+	Taftan  Airlines	Iran
+	La Ronge Aviation Services	Canada
+	Valfell-Verkflug	Iceland
+	Aerosiyusa	Mexico
+	Aerovis Airlines	Ukraine
+	Club Aerocelta de Vuelo Con Motor	Spain
+L2	Lynden Air Cargo	United States
+	Servicios Aeronáuticos Aero Personal	Mexico
+	Meridian	Ukraine
+WF	Widerøe	Norway
+	Fine Airlines	United States
+QL	Lankan Cargo	Sri Lanka
+	Palau Asia Pacific Airlines	Palau
+SK	Scandinavian Airlines	Sweden, Denmark and Norway
+1T	Hitit Computer Services	Turkey
+DV	Scat Air	Kazakhstan
+WD	DAS Air Cargo	Uganda
+	Janet	United States
+	Mali Airways	Mali
+	Aeropiloto	Portugal
+GH	Globus Airlines	Russia
+	National Express	United States
+XG	Clickair	Spain
+	Execujet Middle East	United Arab Emirates
+HZ	Sat Airlines	Kazakhstan
+	Meta Linhas Aéreas	Brazil
+	JS Air	Pakistan
+	Labcorp	United States
+	Aeroservicios Monterrey	Mexico
+	Boniair	Macedonia
+	Metro Business Aviation	United Kingdom
+	Princely Jets	Pakistan
+5Z	Airfreight Express	United Kingdom
+	Meridian Airlines	Nigeria
+	Canadian Regional Airlines	Canada
+	Baltyka	Ukraine
+	Corporate Air	United States
+	Rangemile Limited	United Kingdom
+	ASL Airlines Ireland	Ireland
+	Balkh Airlines	Afghanistan
+	Tower Air	United States
+	Lucky Air	China
+	Krystel Air Charter	United Kingdom
+	Direct Flight	United Kingdom
+	Aerolínea Principal Chile	Chile
+	TAB Express  International	United States
+LT	LTU International	Germany
+	Shalom Air Services	Nigeria
+	Air Atonabee	Canada
+	Heliservicio Campeche	Mexico
+VR	TACV	Cape Verde
+	London Flight Centre (Stansted)	United Kingdom
+	Rotormotion	United Kingdom
+	Air Express	Sudan
+	Croatian Air Force	Croatia
+GM	Air Slovakia	Slovakia
+	Atlantic Flight Training	United Kingdom
+	Greenlandcopter	Denmark
+KM	Air Malta	Malta
+	Peoples Vienna Line	Austria
+NM	Air Madrid	Spain
+	Polizeihubschrauberstaffel Baden-Württemberg	Germany
+LM	Livingston Energy Flight	Italy
+F2	Fly Air	Turkey
+8L	Cargo Plus Aviation	United Arab Emirates
+	Aerolíneas Del Sureste	Mexico
+JR	Aero California	Mexico
+	Organizacoes Mambra	Angola
+	Civil Aviation Authority	Slovakia
+	Pem-Air	Canada
+	Western Express Air	United States
+1U	Polyot Sirena	Russia
+N5	Norfolk Air	Norfolk Island
+	Air Corporate	Italy
+PA	Pan American Airways	United States
+	Gulfstream Aerospace	United States
+	Boscombe Down DERA (Formation)	United Kingdom
+	Guneydogu Havacilik Isletmesi	Turkey
+O6	Avianca Brasil	Brazil
+DU	Norwegian Long Haul	Norway
+	Wondair on Demand Aviation	Spain
+T4	TRIP Linhas Aéreas	Brazil
+	SPASA	Spain
+	Everett Limited	Tanzania
+	Smarkand Aero Servise	Uzbekistan
+8V	Wright Air Service	United States
+	Mobil Oil	Canada
+	Business Aviation Center	Ukraine
+	Haverfordwest Air Charter Services	United Kingdom
+MJ	Líneas Aéreas Privadas Argentinas	Argentina
+	Pacific Rim Airways	Australia
+	Consorcio Helitec	Venezuela
+BU	Buryat Airlines Aircompany	Russia
+	Shawbury Flying Training Unit	United Kingdom
+	Airwings oy	Finland
+	Orebro Aviation	Sweden
+	Kazan Aviation Production Association	Russia
+	Helcopteros De Cataluna	Spain
+	Koob-Corp - 96 KFT	Hungary
+	Aberdair Aviation Ghana	Ghana
+	Skylink Aviation	Canada
+OT	Aeropelican Air Services	Australia
+	Forth and Clyde Helicopter Services	United Kingdom
+	Argo	Dominican Republic
+	Great Lakes Airways (Uganda)	Uganda
+	Belgian Air Force	Belgium
+	Metroflight	United States
+	Gulf Air Inc	United States
+	Inversija	Latvia
+	Air Walser	Italy
+	Societe Tout Transport Mauritanien	Mauritania
+	Zaire Aero Service	Democratic Republic of Congo
+	Aberdair Aviation	Kenya
+LH	Lufthansa	Germany
+	Aerotaxi Del Valle	Colombia
+	Taban Air Lines	Iran
+	Air Horizon	Chad
+	Air ITM	France
+	Nav Canada	Canada
+	Mediterranean Airways	Egypt
+	Country Connection Airlines	Australia
+	Ambeo	United Kingdom
+M2	Mahfooz Aviation	Gambia
+	Airport Helicopter Basel, Muller & Co.	Switzerland
+SY	Sun Country Airlines	United States
+	Pegasus Helicopters	Norway
+	Nobil Air	Moldova
+	Jana-Arka	Kazakhstan
+	Compañía Aérea de Valencia	Spain
+	Aeroejecutivos Colombia	Colombia
+HQ	Thomas Cook Airlines	Belgium
+	Aerolíneas Turísticas del Caribe	Mexico
+	Southern Aviation	Zambia
+	Foster Aviation	United States
+	Nurman Avia Indopura	Indonesia
+CM	Copa Airlines	Panama
+	National Aviation Company	Egypt
+FD	Royal Flying Doctor Service	Australia
+	Aero Taxi de Los Cabos	Mexico
+9I	Thai Sky Airlines	Thailand
+	Twin Town Leasing  Company	United States
+	General Aviation Flying Services	United States
+	Air Do	Japan
+	Inter-Mountain Airways	United States
+	Coral Sun Airways	Kirbati
+	Air Roberval	Canada
+QM	Air Malawi	Malawi
+	Aerodynamics Málaga	Spain
+VC	Ocean Airlines	Italy
+N4	Nordwind Airlines	Russia
+LP	LATAM Peru	Peru
+	Línea Turística Aereotuy	Venezuela
+	Netjets Business Aviation	China
+	Notams International	United States
+FH	Futura International Airways	Spain
+	Aeroclub de Vitoria	Spain
+	Interjet Inc.	United States
+	Air Mercia	United Kingdom
+WZ	West African Airlines	Benin
+1U	ITA Software	United States
+	Kwena Air	South Africa
+	Star XL German Airlines	Germany
+Q4	Mastertop Linhas Aéreas	Brazil
+	TAR Interpilot	Mauritania
+	Helicopter	Czech Republic
+	Viajes Ejecutivos Mexicanos	Mexico
+	Regal Bahamas International Airways	Bahamas
+	First Cambodia Airlines	Cambodia
+	Transaven	Venezuela
+	Cohlmia Aviation	United States
+	South Central Air	United States
+	Polizeihubschauberstaffel Rheinland-Pfalz	Germany
+	British Regional Airlines	United Kingdom
+	Bissau Discovery Flying Club	Guinea-Bissau
+	Icejet	Iceland
+	Air Charity Network	United States
+	Bissau Airlines	Guinea-Bissau
+	Brazilian Navy Aviation	Brazil
+	Il-Avia	Russia
+5M	Sibaviatrans	Russia
+	Translift Airways	Ireland
+	Jett Paqueteria	Mexico
+	Luzair	Portugal
+	European Business Jets	United Kingdom
+	Al Rida Airways	Mauritania
+	Aerosan	Mexico
+	Rocky Mountain Holdings	United States
+	Khoriv-Avia	Ukraine
+	Owenair	South Africa
+	Baltic Aviation	United States
+	Alta Flights (Charters) Ltd.	Canada
+	Seneca College	Canada
+	Zenith Aviation (Malta)	Malta
+	Sun Light	Kyrgyzstan
+	Springdale Air Service	United States
+WG	Sunwing Airlines	Canada
+2R	Via Rail Canada	Canada
+	Aero Tropical	Angola
+	Helicentre Coventry	United Kingdom
+	Richland Aviation	United States
+	Sentel Corporation	United States
+	Aero Aviation Centre Ltd.	Canada
+	Alicante Internacional Airlines	Spain
+	Zracno Pristaniste Mali Losinj	Croatia
+Z6	Dniproavia	Ukraine
+	Transportes  Aéreos San Rafael	Chile
+	Goliaf Air	São Tomé and Príncipe
+	Foster Yeoman	United Kingdom
+	Falcon Aviation Services	United Arab Emirates
+OB	Oasis International Airlines Now assigned to Boliviana de Aviacion (BoA)	Spain
+	Rwanda Airlines	Rwanda
+3Z	Smartwings Poland	Poland
+	GEC Marconi Avionics	United Kingdom
+EVY	34 Squadron, Royal Australian Air Force
+	Gomel Airlines	Belarus
+PY	Surinam Airways	Suriname
+	Air Transport	Slovakia
+	Elrom Aviation and Investments	Israel
+	Air Transport Association	United States
+	River Ministries Air Charter	South Africa
+AB	Air Berlin	Germany
+	CSA Air	United States
+	European Executive Express	Sweden
+LO	LOT Polish Airlines	Poland
+QQ	Reno Air	United States
+AL	Skywalk Airlines	United States
+PT	West Air Sweden	Sweden
+	Eagle Air	Tanzania
+	Air Express	Sweden
+DH	Independence Air	United States
+	Millen Corporation	United Kingdom
+	Alpha Aviation, Inc.	United States
+	Jetgo International	Thailand
+	Cabair College of Air Training	United Kingdom
+	II Lione Alato Arl	United Kingdom
+	Vision Airlines	Nigeria
+	Heli Ambulance Team	Austria
+1B	Abacus International	Singapore
+	Oklahoma State University	United States
+	Avio Nord	Italy
+VC	Voyageur Airways	Canada
+	Taxi Aero Nacional  Del Evora	Mexico
+	Dynair Services	United States
+	Bird Leasing	United States
+JZ	Avia Express	Sweden
+	Operadora Turistica Aurora	Mexico
+	Cutter Aviation	United States
+B9	Air Bangladesh	Bangladesh
+	Pyramid Air Lines	Egypt
+	Lnair Air Services	Spain
+	Juanda Flying School	Indonesia
+HJ	Hellas Jet	Greece
+	Air Adriatic	Croatia
+AW	CHC Airways	Netherlands
+	Kinshasa Airways	Democratic Republic of the Congo
+	Ecoair	Algeria
+	Minsheng International Jet	China
+	Crow Executive Air	United States
+	Aerolimousine	Russia
+	Air Madeleine	Canada
+	Latvian Air Force	Latvia
+	Sky One Express Airlines	United States
+	Midway Express	United States
+	Rectrix Aviation	United States
+	Business Air Services	Canada
+WO	Swoop	Canada
+	Shar Ink	Russia
+	Amapola Flyg AB	Sweden
+	Aeropublicitaria De Angola	Angola
+	Fairoaks Flight Centre	United Kingdom
+	Servicios Aéreos Tribasa	Mexico
+	Servicio Aéreo Saltillo	Mexico
+	Castle Air Charter	United Kingdom
+VI	Volga-Dnepr Airlines	Russia
+	Aviones Are	Mexico
+	OpenSkies	United Kingdom
+E0	Eos Airlines	United States
+	Wilbur's Flight Operations	United States
+	CKC Services	United States
+	Transair-Gyraintiee	Russia
+	Juba Cargo Services & Aviation Company	Sudan
+	Navigator Airlines	Armenia
+	RAF Coningsby	United Kingdom
+	Air Taxi & Cargo	Sudan
+DJ	AirAsia Japan	Japan
+ZA	AccessAir	United States
+	Tikal Jets Airlines	Guatemala
+GA	Garuda Indonesia	Indonesia
+0B	Blue Air	Romania
+QH	Air Kyrgyzstan	Kyrgyzstan
+CP	Canadian Airlines	Canada
+	Snowbird Airlines	Finland
+	Nomad Aviation	Malta
+	Servicos De Alquiler	Mexico
+	South West Air Corporation	Philippines
+	Petroleos Mexicanos	Mexico
+	Arrowhead Airways	United States
+	Scoala Superioara De Aviatie Civila	Romania
+	Martinaire	United States
+	Servicios Aereos Ominia	Mexico
+	Monde Air Charters	United Kingdom
+ZP	Silk Way Airlines	Azerbaijan
+	Shuangyang General Aviation	China
+SQ	Singapore Airlines Cargo	Singapore
+	Royal Air Force	United Kingdom
+	Priority Air Transport	United States
+	Aerodan	Mexico
+	Somali Airlines	Somali Republic
+	StatesWest Airlines	United States
+	New York Helicopter	United States
+	Galena Air Service	United States
+	Seco International	Japan
+	African International Transport	Guinea
+	TRAM	Mauritania
+SZ	Air Southwest	United Kingdom
+	Northeast Airlines	United States
+	Avfinity	United States
+	Aero Continente Dominicana	Dominican Republic
+	Gwyn Aviation	United Kingdom
+	Southeastern Airways	United States
+	Mosphil Aero	Philippines
+TW	T'way Air	Republic of Korea
+	Fairlines	Netherlands
+	Dutch Antilles Express	Netherlands Antilles
+	Trading Air Cargo	Mauritania
+EH	Air Nippon Network Co. Ltd.	Japan
+	Eagle Express	Serbia
+	Vipport Joint Stock Company	Russia
+	Aero Servicios Ejecutivas Del Pacifico	Mexico
+	Highland Airways	United Kingdom
+	Aeronaves TSM	Mexico
+	Air Afrique Vacancies	Côte d'Ivoire
+	Citic General Aviation	China
+	Smartlynx Airlines Estonia	Estonia
+	Air Pullmantur	Spain
+SL	Thai  Lion Mentari	Thailand
+	Goldfields Air Services	Australia
+	Servair, Private Charter	Switzerland
+	Air Cargo Transportation System	Kenya
+YX	Midwest Airlines	United States
+	Trans Arabian Air  Transport	Sudan
+	MTC Aviación	Mexico
+	Quick Air Jet Charter	Germany
+	Seba Airlines	Guinea
+	Primavia Limited	United Kingdom
+	Auvia Air	Indonesia
+	Aero Albatros	Spain
+	Rectimo Air Transports	France
+WE	Centurion Air Cargo	United States
+JU	Air Serbia	Serbia
+	Atlantique Air Assistance	France
+	Mega Linhas Aéreas	Brazil
+KG	LAI - Línea Aérea IAACA	Venezuela
+	Aerodiplomatic	Mexico
+	Southern Airways	United States
+3X	Japan Air Commuter	Japan
+	Eagle Aviation	United Kingdom
+	Jet-2000	Russia
+	Max Sea Food	El Salvador
+RK	Ryanair UK	United Kingdom
+	Miami Air Charter	United States
+	Bluebird Aviation	Kenya
+	Enrique Gleisner Vivanco	Chile
+3T	Turan Air	Azerbaijan
+	Kent Aviation	Canada
+	Linhas Aéreas Santomenses	São Tomé and Príncipe
+	Charlie Hammonds Flying Service	United States
+AX	AmericanConnection[7]	United States
+	Atlantic Airlines, S.A.	Nicaragua
+	Trans Atlantic Airlines	Sierra Leone
+	L'Express Airlines	United States
+	Almaver	Mexico
+	Sukhoi Design Bureau Company	Russia
+	Aeroejecutiva Nieto	Mexico
+TW	Trans World Airlines	United States
+	Aero Servicios Azteca	Mexico
+AQ	Aloha Airlines	United States
+X3	Hapag-Lloyd Express	Germany
+	Burundaiavia	Kazakhstan
+	Jetrider International	United Kingdom
+	Operation Enduring Freedom	Canada
+	Sloane Aviation	United Kingdom
+	Slovenian Ministry of Defence	Slovenia
+	Banco de Mexico	Mexico
+	SaxonAir	United Kingdom
+1J	Axess international network, Inc.	Japan
+G2	Avirex	Gabon
+	CCF Manager Airline	Germany
+	Aerovaradero, S.A.	Cuba
+KW	Kharkiv Airlines	Ukraine
+	Aeroturquesa	Mexico
+	Red Sky Ventures	Namibia
+	Arab Wings	Jordan
+	Peruvian Air Force	Peru
+P9	Peruvian Airlines	Peru
+	Pel-Air Aviation	Australia
+	Gambia New Millennium Air	Gambia
+	Aerotransportes Huitzilin	Mexico
+	V I Airlink	British Virgin Islands
+	Direct Fly	Poland
+	Wings Express	United States
+TH	BA Connect	United Kingdom
+TI	Tailwind Airlines	Turkey
+	Air Central Asia	Kyrgyzstan
+	CM Stair	Mauritania
+	Phenix Aviation	France
+	United Eagle Airlines	China
+	Shaheen Air Cargo	Pakistan
+LD	Air Hong Kong	Hong Kong
+	Aerovías Montes Azules	Mexico
+EV	ExpressJet	United States
+	Air Universal	Sierra Leone
+	TAG Aviation Espana	Spain
+	Naviera Mexicana	Mexico
+	Aeroservicios Ejecutivos Del Occidente	Mexico
+	Luft Carago	South Africa
+	China Southwest Airlines	China
+BY	TUI  Airways	United Kingdom
+IC	Indian Airlines	India
+5W	Astraeus	United Kingdom
+G3	Gol Transportes Aéreos	Brazil
+W6	Wizz Air	Hungary
+	Northeastern Aviation	United States
+	Upali Air	Sri Lanka
+	Jet G&D Aviation	Israel
+	Daimler-Chrysler	United States
+	Fleetair	South Africa
+	Darta	France
+	Yankee Lima Helicopteres	France
+H7	Eagle Air	Uganda
+7W	Windrose Air	Germany
+	FR Aviation	United Kingdom
+	Million Air	United States
+EM	Empire Airlines	United States
+6K	Asian Spirit	Philippines
+	Premiair	Luxembourg
+OZ	Asiana Airlines	Republic of Korea
+	Elimediterranea	Italy
+	Chrome Air Services	United States
+	Business Jet Sweden	Sweden
+	Vzlyet	Russia
+	Budapest Aircraft Services/Manx2	Hungary
+	Estrellas Del Aire	Mexico
+	Businesswings	Germany
+CQ	Central Charter	Czech Republic
+	Solent Flight	United Kingdom
+	MAS Airways	United Kingdom
+	Carib Aviation	Antigua and Barbuda
+	Astec Air East	United States
+	Pan Malaysian Air Transport	Malaysia
+	Spark Air	Thailand
+	Transilvania Express	Romania
+	FLowair Aviation	France
+	Rosneft-Baltika	Russia
+	Mak Air	Kazakhstan
+Y0	Yellow Air Taxi/Friendship Airways	United States
+7B	Bees Airline	Ukraine
+	Polizeifliegerstaffel Nordrhein-Westfalen	Germany
+	International Air Cargo Corporation	Egypt
+	Air Atlanta Europe	United Kingdom
+	IKON FTO	Germany
+4C	Aires, Aerovías de Integración Regional, S.A.	Colombia
+IM	Menajet	Lebanon
+	Northwest Territorial Airways	Canada
+	Rovos Air	South Africa
+7L	Sun D'Or	Israel
+G9	Air Arabia	United Arab Emirates
+	Norontair	Canada
+4O	Interjet	Mexico
+	Morrison Flying Service	United States
+FL	Air Leap	Sweden
+MD	Air Madagascar	Madagascar
+	Belgian Army	Belgium
+QO	Aeromexpress	Mexico
+	Cardinal/Air Virginia	United States
+	Phoebus Apolloa Zambia	Zambia
+	Aerolíneas Hidalgo	Mexico
+	Air Mach	Italy
+EP	Iran Aseman Airlines	Iran
+	Security Aviation	United States
+	Western Air Express	United States
+	Cape Smythe Air	United States
+	RAF Wittering	United Kingdom
+7A	Express Air Cargo	Tunisia
+	Super Luza	Angola
+	Flyguppdraget Backamo	Sweden
+	Flash Airlines	Egypt
+	Gulf Pearl Air Lines	Libya
+	Aero Premier De Mexico	Mexico
+	Interfreight Forwarding	Sudan
+	Ilyich-Avia	Ukraine
+	Aeroservicios Jet	Mexico
+	Malta Air	Malta
+	Aerolíneas Medellín	Colombia
+	Moncton Flying Club	Canada
+	Rockwell Collins Avionics	United States
+	GB Airlink	United States
+	Georgian Cargo Airlines Africa	Senegal
+	Canadian National Telecommunications	Canada
+	David Crawshaw Consultants Limited	United Kingdom
+D3	Daallo Airlines	Djibouti
+	Walsten Air Services	Canada
+	VIP Air Charter	United States
+	Manhattan Air	United Kingdom
+1D	Radixx	United States
+	Servicios De Taxi Aéreo	Mexico
+	Hoteles Dinamicos	Mexico
+	Starspeed	United Kingdom
+PV	St Barth Commuter	France
+	Jackson Air Services	Canada
+	Benin Littoral Airways	Benin
+	Meridian Aviation	United Kingdom
+	Zenith Aviation	United Kingdom
+G8	GoAir	India
+	Federal Airlines	Sweden
+	Quest Diagnostics	United States
+	Great American Airways	United States
+	Air Satellite	Canada
+	Averitt Air Charter	United States
+	Acvila Air-Romanian Carrier	Romania
+	Jet Freighters	United States
+	Selcon Airlines	Nigeria
+	Priority Air Charter	United States
+	airtransse	Japan
+	Yana Airlines	Cambodia
+	Conquest Airlines	United States
+	Skymaster Airlines	Brazil
+	Paisajes Españoles	Spain
+	RAF Kinloss	United Kingdom
+	Grand Airways	United States
+	White Eagle Aviation	Poland
+	Namibia Commercial Aviation	Namibia
+	LIFT Academy	United States
+	Aviator Airways	Greece
+O9	Nova Airline	Sudan
+	Gull Air	United States
+EH	SAETA	Ecuador
+	Aravco Ltd.	United Kingdom
+	GR-Avia	Guinea
+	Vision Airways Corporation	Canada
+	Euraviation	Italy
+	Travel Management  Company	United States
+	Flamingo Air-Line	Kazakhstan
+	Emetebe	Ecuador
+	British North West Airlines	United Kingdom
+	ForeFlight	United States
+	Global Georgian Airways	Georgia
+L5	Línea Aérea Cuencana	Ecuador
+	Aerokuzbass	Russia
+	Berry Aviation	United States
+	SNAS Aviation	Saudi Arabia
+	Servicios Aeronáuticos Z	Mexico
+GY	Tri-MG Intra Asia Airlines	Indonesia
+	Skycharter (Malton)	Canada
+	Meteorological Research Flight	United Kingdom
+	Northaire Freight Lines	United States
+	CHC Denmark	Denmark
+	Irbis Air	Kazakhstan
+	Air Charter World	United States
+NI	LANICA	Nicaragua
+	Ibicenca Air	Spain
+	Mooney Aircraft Corporation	United States
+	Saturn Aviation	United States
+	XP International	Netherlands
+	Island Air	Mexico
+	Tair Airways	Philippines
+	Executive Flight Services	United States
+PD	Porter Airlines	Canada
+	Pinnacle Air Group	United States
+FK	Keewatin Air	Canada
+	Bygone Aviation	United States
+	Sonnig SA	Switzerland
+	Westgates Airlines	United States
+	Aerocozumel	Mexico
+	Grupo De Aviación Ejecutiva	Mexico
+	Tunisavia	Tunisia
+	Echo Airlines	Bahamas
+	Canada Jet Charters	Canada
+	Efata Papua Airlines	Indonesia
+MM	EuroAtlantic Airways	Portugal
+	Malawi Express	Malawi
+	Laker Airways (Bahamas)	United States
+	Tomahawk Airways	United States
+OK	Czech Airlines	Czech Republic
+	Thai Aviation Services	Thailand
+	Shans Air	Russia
+LU	LATAM Express	Chile
+	Millennium Air	Nigeria
+	Phoenix Air Group	United States
+GJ	CDI Cargo Airlines	China
+	The Lancair Company	United States
+	Holiday Airlines (US Airline)	United States
+CJ	China Northern Airlines	China
+IG	Meridiana	Italy
+MP	Martinair	Netherlands
+	Piedmont Airlines	United States
+	Servicios Privados De Aviación	Mexico
+	Jeppesen UK	United Kingdom
+	Danish Army	Denmark
+	DMCFLY	Mexico
+	Welch Aviation	United States
+2V*	Amtrak	United States
+	Common Sky	Austria
+	Galaircervis	Ukraine
+	Zhongyuan Aviation	China
+ZX	Air BC	Canada
+	AK Navigator LLC	Kazakhstan
+	Aerolíneas Chihuahua	Mexico
+	Air Cess	Liberia
+GI	Itek Air	Kyrgyzstan
+DS	easyJet Switzerland	Switzerland
+3P	Tiara Air	Aruba
+	Northern Executive Aviation	United Kingdom
+	Phoenix Aviation	Kyrgyzstan
+	Omni Air Transport	United States
+ZE	Líneas Aéreas Azteca	Mexico
+	Voronezh Aircraft Manufacturing Society	Russia
+	Aly Aviation	United Kingdom
+	Centennial Airlines	United States
+	Club 328	United Kingdom
+	Global Airways (Turks and Caicos)	Turks and Caicos Islands
+	Central American Airlines	Nicaragua
+	Kenn Borek Air	Canada
+	Edgartown Air	United States
+	Air Livonia	Estonia
+	Challenges Limited	United Kingdom
+	Aerotaxis Alfe	Mexico
+AS	Alaska Airlines, Inc.	United States
+	Eastern Air Lines	United States
+	Hagondale Limited	United Kingdom
+	Basler Flight Service	United States
+XC	Corendon Airlines	Turkey
+	GECAS	Ireland
+	Haiti International Air	Haiti
+	Atlantic Helicopters	Denmark
+	Pacific Aviation (United States)	United States
+J4	Jordan International Air Cargo	Jordan
+TU	Tunisair	Tunisia
+	Air Incheon	South Korea
+CV	Cargolux	Luxembourg
+	National Overseas Airlines Company	Egypt
+	Micromatter Technology Solutions	United Kingdom
+	Saber Airlines	Egypt
+JA	B&H Airlines	Bosnia and Herzegovina
+	Sahel Aviation Service	Mali
+	Executive Aircraft Charter and Charter Services	Ireland
+	Baltic Jet Aircompany	Latvia
+	Red Baron Aviation	United States
+	BGB Air	Kazakhstan
+Y6	Batavia Air	Indonesia
+	Central Airlines	United States
+	Shaheen Airport Services	Pakistan
+W9	Wizz Air UK	United Kingdom
+O3	SF Airlines	China
+3W	Euromanx Airways	Austria
+	Aroostook Aviation	United States
+	Wind Spirit Air	United States
+	Rijnmond Air Services	Netherlands
+NT	Binter Canarias	Spain
+VD	SwedJet Airways	Sweden
+	Benair	Norway
+HD	AIRDO	Japan
+	Zetavia	Ukraine
+	Eastern Air Executive	United Kingdom
+	Air Jamaica Express	Jamaica
+	BKS Air (Rivaflecha)	Spain
+	Barken International	United States
+	Flygtransporter I Nykoping	Sweden
+	Carill Aviation	United Kingdom
+	Real Aero Club de Vizcaya	Spain
+	Eagle Air	Iceland
+	Regional Air	Mauritania
+	Reed Aviation	United Kingdom
+	Bel Limited	Russia
+	Southport Air Service	United States
+	Air South	United States
+	JM Family Aviation	United States
+	Aerovías Ejecutivas	Mexico
+	Tramson Limited	Sudan
+	Rotterdam Jet Center	Netherlands
+K6	Cambodia Angkor Air	Cambodia
+	Esso Resources Canada	Canada
+	Comed Group	United Kingdom
+	Aleem	Egypt
+	United Arabian Airlines	Sudan
+MX	Breeze_Airways	United States
+QL	Aero Lanka	Sri Lanka
+UL	SriLankan Airlines	Sri Lanka
+	Gibson Aviation	United States
+	GETRA	Equatorial Guinea
+	Arctic Wings And Rotors Ltd.	Canada
+S5	Shuttle America	United States
+	Czech Government Flying Service	Czech Republic
+D4	Alidaunia	Italy
+	International Security Assistance Force	Canada
+WS	WestJet	Canada
+	Ambjek Air Services	Nigeria
+	Departament d'Agricultura de la Generalitat de Catalunya	Spain
+	Transwestern  Airlines of Utah	United States
+JJ	Aviogenex	Serbia
+5X	United Parcel Service	United States
+	Rich International Airways	United States
+	Horizons Unlimited	United States
+	RAF Lossiemouth	United Kingdom
+	Cobalt Air LLC	United States
+	Court Line	United Kingdom
+	Cityline Hungary	Hungary
+	Air Spirit	United States
+	IVV Femida	Russia
+	Addis Air Cargo Services	Ethiopia
+	ABC Bedarfsflug	Austria
+	Aero Survey	Ghana
+	Aircrew Check and Training Australia	Australia
+	Stapleford Flight Centre	United Kingdom
+	ZAS Airlines of Egypt	Egypt
+VU	Vietravel Airlines	Vietnam
+	Air Hungaria	Hungary
+BQ	Aeromar Lineas Aereas Dominicanas	Dominican Republic
+	Compuserve Incorporated	United States
+	Servicios Aereos Fun Fly	Mexico
+	Servicios Aéreos Textra	Mexico
+	Alpine Airlines	France
+	Oriental Airlines	Nigeria
+	Líneas Aéreas Suramericanas	Colombia
+	Paragon Air Express	United States
+LY	El Al Israel Airlines	Israel
+	Rutas Aéreas	Venezuela
+	Aeronáutica Castellana	Spain
+	Air Palace	Mexico
+	Aerocorp	Mexico
+	Polizeihubschrauberstaffel Thüringen	Germany
+	Thai Jet Intergroup	Thailand
+M7	MasAir	Mexico
+6G	Go2Sky	Slovakia
+	Aim Air	Moldova
+	Al-Dawood Air	Nigeria
+	South West Air	Canada
+	Centre Airlines	United States
+IJ	Spring Airlines Japan	Japan
+	Zhetysu	Kazakhstan
+4D	Air Sinai	Egypt
+	Sirvair	Mexico
+	SMA Airlines	Nigeria
+	SAESA	Spain
+	Nicon Airways	Nigeria
+	Dirección General de Aviación Civil y Telecomunicasciones	Spain
+	Air Toronto	Canada
+B6	JetBlue Airways	United States
+	Savanair (Angola)	Angola
+GP	APG Airlines	France
+	Air Ambulance Services	Bahamas
+	Port Townsend Airways	United States
+	Northern Airways	United States
+	RAF St Mawgan Search and Rescue	United Kingdom
+	Ronso	Mexico
+QW	Blue Wings	Germany
+	Nelson Aviation College	New Zealand
+	Air Falcon	Djibouti
+	Madina Air	Libya
+	Virgin Express Ireland	Ireland
+	Agroar - Trabalhos Aéreos	Portugal
+1I	NetJets Europe	Portugal
+AW	Africa World Airlines	Ghana
+	Custom Air Transport	United States
+N4	National Airlines	Chile
+	Channel Island Aviation	United States
+WC	Islena De Inversiones	Honduras
+	RAF Coltishall	United Kingdom
+	EFAOS- Agencia De Viagens e Turismo	Angola
+	Helicopteros Agroforestal	Chile
+	Aero Servicios Ejecutivos Internacionales	Mexico
+	ADI Shuttle Group	United States
+	Tehran Airline	Iran
+	Horizon Air Service	United States
+	Eastern Pacific Aviation	Canada
+	RAF Waddington	United Kingdom
+	Northern Thunderbird Air	Canada
+AU	Austral Líneas Aéreas	Argentina
+	National Airways Corporation	South Africa
+IH	Falcon Aviation	Sweden
+	Global Wings	Japan
+	Qanot Sharq	Uzbekistan
+	Wright Airlines	United States
+	West Atlantic UK	United Kingdom
+	Airwaves Airlink	Zambia
+	Helitafe	Mexico
+SW	Air Namibia	Namibia
+	Binair	Germany
+VQ	Novo Air	Bangladesh
+	Propheter Aviation	United States
+	Pacific Pearl Airways	Philippines
+	Eleron Aviation Company	Ukraine
+AT	Royal Air Maroc	Morocco
+	Aereo Cabo	Mexico
+	Heavylift International	United Arab Emirates
+	Rosen Aviation	Japan
+	Solenta Aviation Ghana	Ghana
+	Regional Air Express	Germany
+	Aeroservices Corporate	France
+	C&M Airways	United States
+	Milenium Air Servicios Aereos Integrados	Mexico
+	Phoenix Airline Services	United States
+	Aeroaljarafe	Spain
+	Sundance Air	Venezuela
+B4	Bankair	United States
+	Transped Aviation	Austria
+I4	Island Air Express	United States
+OY	Andes Líneas Aéreas	Argentina
+	Daya Aviation	Sri Lanka
+	Business Jet Solutions	United States
+ZW	Air Wisconsin	United States
+	Jets Y Servicios Ejecutivos	Mexico
+1H	Sirena travel	Russia
+	Mountain Pacific Air	Canada
+	Wings Air Transport	Sudan
+	Copenhagen Air Taxi	Denmark
+	Civil Air Patrol	United States
+	Amako Airlines	Nigeria
+	Pacific Air Charter	United States
+5D	DonbassAero	Ukraine
+	Avitat	United Kingdom
+	Out Of The Blue Air Safaris	South Africa
+UT	UTair Aviation	Russia
+	Starfly	Italy
+1A	Amadeus IT Group S.A.	Global
+	Servicios Especiales Del Pacifico Jalisco	Mexico
+	Gabon Express	Gabon
+	Ga-Ma Helicoptere	France
+	Chemech Aviation	Pakistan
+	Egyptian Aviation	Egypt
+O6	Avianca Brasil	Brazil
+	Virign Islands Seaplane Shuttle	United States
+CT	Civil Air Transport	Taiwan
+	Awood Air Ltd.	Canada
+	Transportes  Aéreos del Mundo Maya	Mexico
+	Executive Air	Zimbabwe
+	Richardson's Airway	United States
+	Falcon Air	Sweden
+N9	North Coast Aviation	Papua New Guinea
+	Eurocontrol	Belgium
+	Trans-Provincial Airlines	Canada
+	TMC Airlines	United States
+	Sky Messaging	South Africa
+	Lebanese Air Transport (charter)	Lebanon
+	Thai Global Airline	Thailand
+	LASTP	São Tomé and Príncipe
+	Elbrus-Avia Air Enterprise	Russia
+	Nolinor Aviation	Canada
+	Tradewinds Aviation	Canada
+	Longtail Aviation	Bermuda
+	Compagnia Aeronautica Italiana	Italy
+4Y	Yute Air Alaska	United States
+KA	Cathay Dragon	Hong Kong
+WA	Western Airlines	United States
+	Nordstree (Australia)	Australia
+	Bonus Aviation	United Kingdom
+	Hozu-Avia	Kazakhstan
+	Texair Charter	United States
+	Caribintair	Haiti
+2T	Timbis Air	Kenya
+	Servicios Aéreos Ejecutivos Saereo	Ecuador
+	Jetstream Executive Travel	United Kingdom
+	Cabo Verde Express	Cape Verde
+	Phillips Alaska	United States
+PK	Pakistan International Airlines	Pakistan
+	Tajikair	Tajikistan
+	Diplomatic Freight Services	United Kingdom
+	Trans-Colorado Airlines	United States
+	Exin	Poland
+	Vinair Aeroserviços	Portugal
+	Luxflight Executive	Luxembourg
+	Queen Air	Dominican Republic
+	Arrow Ecuador Arrowec	Ecuador
+	VIF Luftahrt	Austria
+	Dobrolet LLC	Russia
+	American Flight Service Systems	United States
+	Hellenic Air Force	Greece
+	Advanced Air	United States
+	Stadium City Limited	United Kingdom
+CB*	Kalitta Charters II	United States
+	General Motors	United States
+OR	TUI fly Netherlands	Netherlands
+R8	Kyrgyzstan Airlines	Kyrgyzstan
+	Urumqi Airlines	China
+	Aviation Quebec Labrador	Canada
+OM	MIAT Mongolian Airlines	Mongolia
+	Government Flying Service	Hong Kong SAR of China
+	Trans Euro Air	United Kingdom
+	Blue Star Airlines	Mexico
+D7	FlyAsianXpress	Malaysia
+	Flexair	Netherlands
+	Aeroservicios California Pacifico	Mexico
+	Avio Delta	Bulgaria
+3O	Air Arabia Maroc	Morocco
+	Coronado Aerolíneas	Colombia
+	Flamingo Air	United States
+	Transglobal  Airways Corporation	Philippines
+	Avient Air Zambia	Zambia
+	Corporate Air	United States
+V2	Karat	Russia
+	Aero-Rey	Mexico
+QI	Cimber Sterling	Denmark
+	Air Montegomery	United Kingdom
+	Top Fly	Spain
+VB	VivaAerobus	Mexico
+ML	Air Mediterranee	France
+	Colt Transportes Aereos	Brazil
+	Aviation Legacy	Gambia
+	Heli-Link	Switzerland
+SS	Corsairfly	France
+	Aerodata Flight Inspection	Germany
+HD	Air Holland	Netherlands
+UG	SevenAir	United States
+	Hispaniola Airways	Dominican Republic
+	Taxi Aéreo Turístico	Mexico
+KJ	British Mediterranean Airways	United Kingdom
+	LTV Jet Fleet Corporation	United States
+	Swiss Air-Ambulance	Switzerland
+	AeroBratsk	Russia
+	IMP Aviation Services	Canada
+W9	Air Bagan	Myanmar
+	Peau Vavaʻu	Tonga
+	Searca	Colombia
+	Superna Airlines	China
+	Phetchabun Airline	Thailand
+	ATMA	Kazakhstan
+	Northwinds Northern	Canada
+	Geesair	Canada
+	Compagnie Aérienne du Mali	Mali
+	JetSuite	United States
+	Tech-Mont  Helicopter Company	Slovakia
+S8	Shovkoviy Shlyah	Ukraine
+	Flying-Research Aerogeophysical Center	Russia
+Y2	Flyglobespan	United Kingdom
+	Apollo Air Service	United Kingdom
+	Samarkand Airways	Uzbekistan
+	Court Helicopters	South Africa
+	Agrocentr-Avia	Kazakhstan
+GW	SkyGreece Airlines	Greece
+1T	Bulgarian Air Charter	Bulgaria
+	Aviaservice	Georgia
+	Kavouras Inc	United States
+IN	NAM Air	Indonesia
+	Bhoja Airlines	Pakistan
+	Sky Bishek	Kyrgyzstan
+	Icaro Air	Ecuador
+M5	Kenmore Air	United States
+	Sierra Express	United States
+	Cal Gulf Aviation	São Tomé and Príncipe
+	Ju-Air	Switzerland
+	Luxwing	Malta
+	AVB-2004 Ltd	Bulgaria
+4R	Hamburg International	Germany
+UD	Hex'Air	France
+	Hamburg Airways	Germany
+	Eldinder Aviation	Sudan
+	Aero Freight	Mexico
+	Aeronem Air Cargo	Ecuador
+	Air Newark	United States
+	NEL Cargo	Ivory Coast
+	Aerocorp	Mexico
+PP	Jet Aviation	Switzerland
+	Vickers Limited	United Kingdom
+	D&K Aviation	United States
+	Airway Express	United States
+	Bosphorus European Airways	Turkey
+	Air Tenglong	China
+	Avio Sluzba	Serbia
+	Sardinian Sky Service	Italy
+	Zaab Air	Ghana
+	Norwegian Aviation College	Norway
+	GENSA	Brazil
+	Aeroservicio Sipse	Mexico
+	Easy Link Aviation Services	Nigeria
+	Z-Aero Airlines	Ukraine
+	Paramount Airlines	Sierra Leone
+	Lockheed Air Terminal	United States
+	Aero Renta De Coahuila	Mexico
+1I	NetJets	United States
+	Merlin Airways	United States
+	Aero Club De Portugal	Portugal
+	Palau National Airlines	Palau
+	Wings of Lebanon Aviation	Lebanon
+AR	Aerolíneas Argentinas	Argentina
+	Tag Aviation UK	United Kingdom
+	Carson Air Ltd	CANADA
+	Thryluthjonustan	Iceland
+	Sino Jet Management	China
+	Spectrum Air Service	United States
+	Samal Air	Kazakhstan
+4Y	Airbus Industrie	France
+	Vero Monmouth Airlines	United States
+	MANAG'AIR	France
+CS	Continental Micronesia	United States
+	Aeroservicios De San Luis	Mexico
+	Attawasol Airlines	Libya
+	Neiltown Air	Canada
+	City of Bangor	United States
+X7	Chitaavia	Russia
+	Baltimore Airways	United States
+	ACM Air Charter	Germany
+	Polizeihubschrauberstaffel Niedersachsen	Germany
+	Island Aviation	Philippines
+	Transporte Aereo  De Colombia	Colombia
+	National Aviation Consultants	Canada
+	Intersky Bulgary	Bulgaria
+	Sirio	Italy
+	Airlec - Air Aquitaine Transport	France
+	El Sal Air	El Salvador
+	Royal American Airways	United States
+	Aero Taxis Y Servicios Alfe	Mexico
+	Flying Service	Belgium
+	AV8 Helicopters	United Kingdom
+	TRAST	Kazakhstan
+	Masterjet	Portugal
+	IPM Europe	United Kingdom
+	Aeroputul International Marculesti	Moldova
+	Gold Belt Air Transport	Canada
+TL	Airnorth	Australia
+	Silesia Air	Czech Republic
+	Avcenter	United States
+	Universal Airlines	Guyana
+	Air Cassai	Angola
+	Air Hamburg	Germany
+	Victor Tagle Larrain	Chile
+6U	Air Cargo Germany	Germany
+	Pimichikamac Air	Canada
+	Virgin America	United States
+	Transport Aerien  de Mauritanie	Mauritania
+SB	Air Caledonie International	France
+VL	Air VIA	Bulgaria
+	Centre d'Essais en Vol	France
+RQ	Kam Air	Afghanistan
+	FSH Luftfahrtunternehmen	Germany
+	Tar Heel Aviation	United States
+	STAC Swiss Government Flights	Switzerland
+QZ	Indonesia AirAsia	Indonesia
+	Airjet Exploracao Aerea de Carga	Angola
+	Aero Sotravia	France
+	Miras	Kazakhstan
+	Lanaes Aereas Trans Costa Rica	Costa Rica
+	Central European Airlines	Czech Republic
+	Líneas Aéreas Ejectuivas De Durango	Mexico
+	Kingfisher Air Services	United States
+	Ibertour Servicios Aéreos	Spain
+A5	Airlinair	France
+	Australian Maritime Safety Authority	Australia
+XP	Xtra Airways	United States
+	Socofer	Angola
+7K	Kogalymavia Air Company	Russia
+	African International Airways	Swaziland
+	TAG Farnborough Airport	United Kingdom
+	Aerea	Spain
+	TRAGSA (Medios Aéreos)	Spain
+	Orca Air	Egypt
+K2	Eurolot	Poland
+	Air Cargo Plus	Liberia
+	Active Aero Charter, Inc.	United States
+	MyTravel Airways	Denmark
+	Advanced Air Co.	Japan
+	Eurofly Service	Italy
+	Empresa de Aviación Aerogaviota	Cuba
+	Air Max	Bulgaria
+MG	Champion Air	United States
+	British Sky Broadcasting	United Kingdom
+	Presidential Aviation	United States
+	Legend Airlines	United States
+RB	Syrian Arab Airlines	Syrian Arab Republic
+	Air Southwest Ltd.	Canada
+EE	Aero Airlines	Estonia
+	Newair	United States
+P3	Cargo Logic Air	United Kingdom
+OX	Orient Thai Airlines	Thailand
+	Baron Aviation Services	United States
+	Air Maldives	Maldives
+	Araiavia	Kazakhstan
+W9	Abelag Aviation	Belgium
+	Aero Clube Do Algarve	Portugal
+	Transavio	Italy
+	Alberni Airways	Canada
+NL	Shaheen Air	Pakistan
+Y4	Volaris	Mexico
+	Danish Navy	Denmark
+	Tecnicas Fotograficas	Spain
+	CitationAir	United States
+	Servicios Aéreos Del Sol, S.A. de C.V.	Mexico
+	Plymouth School of Flying	United Kingdom
+	Isle Grande Flying School	United States
+4K*	Askari Aviation	Pakistan
+	Chalair Aviation	France
+	Saskatchewan Government Executive Air Service	Canada
+	Maritime Helicopters	United States
+	Intair	Canada
+	Nayzak Air Transport	Libya
+	Fly Advance	United States
+H9	Himalaya Airlines	Nepal
+	Tempelhof Airways	United States
+	Bahrain Air BSC (Closed)	Bahrain
+	Air Bashkortostan	Russia
+	Anoka Air Charter	United States
+	Leconte Airlines	United States
+	Servicios Aéreos De Nicaragua (SANSA)	Nicaragua
+L4	Lynx Aviation	United States
+R5	Jordan Aviation	Jordan
+	Royal Saudi Air Force	Saudi Arabia
+	Zephyr Express	United States
+	Cross Aviation	United Kingdom
+	Transcontinental Sur	Uruguay
+	Coastal Air Transport	United States
+V5	Avolar Aerolíneas	Mexico
+RE	Aer Arann	Ireland
+	Aerovías Castillo	Mexico
+	Azalhelikopter	Azerbaijan
+	Allied Command Europe (Mobile Force)	Belgium
+	Servicios Aéreos Regiomontanos	Mexico
+	Air and Sea Transport	Russia
+	Air VIP	Portugal
+	Vanguardia en Aviación en Colima	Mexico
+	Orlan-2000	Kazakhstan
+7A	Aztec Worldwide Airlines	United States
+	Medjet International	United States
+	Helenair Corporation	Saint Lucia
+AV	Avianca	Colombia
+	Air Anastasia	Ukraine
+	Sharjah Ruler's Flight	United Arab Emirates
+RE	Stobart Air	Ireland
+	Lockheed DUATS	United States
+	Golden Star Air Cargo	Sudan
+	Aeromax	Spain
+	Bell Aliant Regional Communications	Canada
+	Sky Cam	France
+SR	Swissair	Switzerland
+9W	Jet Airways	India
+	BETA - Brazilian Express Transportes Aéreos	Brazil
+	Island Air Charters	United States
+	Aerotransportes Privados	Mexico
+	Touraine Helicoptere	France
+5Z	CemAir	South Africa
+	Air Charters	Canada
+	Corporación Aéreo Cencor	Mexico
+	Drummond Island Air	United States
+	Equatorial Airlines	Equatorial Guinea
+	Croix Rouge Francais	France
+	Petroleum Helicopters	United States
+	Edwards Jet Center of Montana	United States
+TR	Scoot	Singapore
+RD	Ryan International Airlines	United States
+	Richy Skylark	Sri Lanka
+	Atlantic Island Airways	Canada
+	Planemaster Services	United States
+IW	AOM French Airlines	France
+	Southern Seaplane	United States
+	Aerovías Caribe	Mexico
+	Aerolíneas Primordiales	Mexico
+	Heritage Flight (Valley Air Services)	United States
+	Somon Air	Tajikistan
+	Cumberland Airways (Nicholson Air Service)	United States
+	Fly Wex	Italy
+	University Air Squadron	United Kingdom
+	Kovar Air	Czech Republic
+AF	Air France	France
+	Aero Yaqui Mayo	Mexico
+	Eastern Air	Zambia
+JY	Air Turks and Caicos	Turks and Caicos Islands
+	Heli-Air-Monaco	Monaco
+	Aerotransportes Rafilher	Mexico
+	Ace Air	South Korea
+TZ	air-taxi Europe	Germany
+	Nimbus Aviation	United Kingdom
+C4	Zimex Aviation	Switzerland
+5G	Skyservice Airlines	Canada
+	Fleet Air International	Hungary
+A2	Cielos Airlines	Peru
+	Durango Jet	Mexico
+	Minsk Aircraft Overhaul Plant	Belarus
+	LeTourneau University	United States
+	Avialesookhrana	Russia
+	Government of Zambia Communications Flight	Zambia
+N8	Fika Salaama Airlines	Uganda
+	United States Air Force	United States
+QO	Origin Pacific Airways	New Zealand
+	King Aviation	United Kingdom
+7R	BRA-Transportes Aéreos	Brazil
+	SADELCA - Sociedad Aérea Del Caquetá	Colombia
+	Compuflight Operations Service	United States
+P0	Proflight Zambia	Zambia
+	Taxis Turisticos  Marakame	Mexico
+TL	Trans  Mediterranean Airlines	Lebanon
+	Tramon Air	South Africa
+	Espace Aviation Services	Democratic Republic of the Congo
+SC	Shandong Airlines	China
+3W*	Wan Air	French Polynesia
+	Prairie Flying Service	United States
+UI	SW Italia	Italy
+	Ghadames Air Transport	Libya
+WV	Swe Fly	Sweden
+MZ	Merpati Nusantara Airlines	Indonesia
+	Garrison Aviation	Canada
+	Zanair	Tanzania
+	Marcopolo Airways	Afghanistan
+	247 Jet Ltd	United Kingdom
+3C	RegionsAir	United States
+	Primera Air Scandinavia	Denmark
+	Uganda Air Cargo	Uganda
+SV	Saudia	Saudi Arabia
+	Pelita Air Service	Indonesia
+	Scenic Air	Namibia
+	Royal Air Cargo	South Africa
+	Midwest Aviation	United States
+	AERFI Group	Ireland
+B5	Flightline	United Kingdom
+	Pro Air	United States
+	AHS Air International	Pakistan
+1J	Axess international network, Inc.	Japan
+	Egyptian Air Force	Egypt
+	IRS Airlines	Nigeria
+	Vuelos Corporativos de Tehuacan	Mexico
+7G	Star Flyer	Japan
+W9	Eastwind Airlines	United States
+	Aero Services Mali	Mali
+	The Army  Aviation Heritage Foundation	United States
+WN	Southwest Airlines	United States
+	Aerotaxi Mexicano	Mexico
+	Aviación Ejecutiva Mexicana, S.A.	Mexico
+	Skycraft Air Transport	Canada
+	Ukraine Air Enterprise	Ukraine
+	Boskovic Air Charters Limited	Kenya
+	Airkenya	Kenya
+5A	Alpine Air Express	United States
+	Transportes  Aéreos I. R. Crusoe	Chile
+	Memorial Hermann Hospital System	United States
+	México Transportes Aéreos	Mexico
+5C	CAL Cargo Air Lines	Israel
+	Phoenix Air Transport	United States
+PF	Palestinian Airlines	Egypt
+	CHC Helicopters Nigeria	Nigeria
+	Royal Norwegian Air Force	Norway
+	Aero Transportes Del Humaya	Mexico
+	Avior Regional	Venezuela
+	On Air Limited	Canada
+VT	Air Tahiti	French Polynesia
+	Quebec Government Air Service	Canada
+	Eurosense	Bulgaria
+	Bancstar - Valley National Corporation	United States
+	Kelix Air	Nigeria
+	Peruvian Navy	Peru
+	South Asian Airlines	Bangladesh
+	Embassy Airlines	Nigeria
+	Rotatur	Brazil
+	Players Air	United States
+	Executive Flight	United States
+	Starlite Aviation	South Africa
+1I	Sky Trek International Airlines	United States
+FK	Africa West	Togo
+QU	Uganda Airlines (1976–2001)	Uganda
+	Aerolíneas Sosa	Honduras
+	Blackhawk Airways	United States
+8W	Private Wings Flugcharter	Germany
+	Jetlink Holland	Netherlands
+8T	Air Tindi	Canada
+	Aerolíneas Internacionales	Mexico
+	Copterline	Finland
+	Volant Aviation International	Pakistan
+	Tellavia / Flight One	United States
+	ANA & JP Express	Japan
+	Buffalo Express Airlines	United States
+	Intervuelos	Mexico
+QF	QantasLink	Australia
+	Aviostart AS	Bulgaria
+	Murray Air	United States
+	AvJet Routing	United Arab Emirates
+	Mann Air Ltd	United Kingdom
+ZG	Viva Macau	Macao
+	Minebea Technologies	United States
+PU	PLUNA	Uruguay
+	Rhoades Aviation	United States
+	Sahara Airlines	Algeria
+	Shawnee Airline	United States
+FT	Siem Reap Airways	Cambodia
+	North British Airlines	United Kingdom
+	Aero Sami	Mexico
+	Flight Safety Limited	United Kingdom
+	Contel ASC	United States
+	Airways Flight Training	United Kingdom
+PZ	TAM  Mercosur	Paraguay
+	Crownair	Canada
+	Aeroput	Serbia
+	Aeroforward	United States
+	Transportes La Paz	Mexico
+	SATENA	Colombia
+	Freight Runners Express	United States
+EA	European Air Express	Germany
+	Western Aviators	United States
+AE	Air Ceylon	Sri Lanka
+	Aerotaxi Grupo Tampico	Mexico
+O8	Oasis Hong Kong Airlines	Hong Kong
+	General Aviation Terminal	Canada
+	Air Ontario	Canada
+	Airspeed Aviation	Canada
+	Saber Aviation	United States
+7B	Krasnojarsky Airlines	Russia
+	APSA Colombia	Colombia
+8J	Komiinteravia	Russia
+	International Business Aircraft	United States
+	Mbach Air	Malawi
+M4	Mistral Air	Italy
+2S	Island Express	United States
+	Corpac Canada	Canada
+	RAF St Athan	United Kingdom
+	Bulgarian Aeronautical Centre	Bulgaria
+	Atlas Aviation Group	Iran
+FY	Northwest Regional Airlines	Australia
+QH	Aero Leasing	United States
+	Aeromega	United Kingdom
+	Aviapartner Limited Company	Russia
+	National Air Charter	Indonesia
+	Dreamcatcher Airways	United Kingdom
+	Panafrican Airways	Ivory Coast
+DJ	Polynesian Blue	New Zealand
+	Air Falcon	Pakistan
+	Prime Service Italia	Italy
+	Europe Air Lines	France
+XM	J-Air	Japan
+	Atlantic Richfield Company	United States
+	Servicios Aéreos de Los Ángeles	Mexico
+	London City Airport Jet Centre	United Kingdom
+MU	China Eastern Airlines	China
+	Mid Airlines	Sudan
+	Timberline Air	Canada
+KK	Atlasjet	Turkey
+	Tigerfly	United Kingdom
+	Southflight Aviation	New Zealand
+	Lowlevel	Portugal
+GX	Pacificair	Philippines
+	École Nationale de l'Aviation Civile	France
+SL	Rio Sul Serviços Aéreos Regionais	Brazil
+	Earth Airlines Services	Nigeria
+	Pinframat	Angola
+	Arkhabay	Kazakhstan
+	Northamptonshire School of Flying	United Kingdom
+	SA Airlink Regional	South Africa
+	Meridian Limited	Ukraine
+	Israeli Air Force	Israel
+	Silverhawk Aviation	United States
+S2	Air Sahara	India
+	Arizona Pacific Airways	United States
+	Avia Jaynar	Kazakhstan
+UC	LATAM Cargo Chile	Chile
+	Triple Alpha	Germany
+	Blue Airlines	Democratic Republic of the Congo
+	Nile Wings Aviation Services	Sudan
+1S	Sabre travel network	Global
+	IMP Group Aviation Services	Canada
+	Aero Vics	Mexico
+	ABC Aerolíneas	Mexico
+	Dutchbird	Netherlands
+	Cobalt	Cyprus
+	Trans-Air-Link	United States
+	Nile Valley Aviation Company	Egypt
+	Servicios Aéreos Gana	Mexico
+	Servicios Aéreos Monarrez	Mexico
+	Kazavia	Kazakhstan
+	Air Monarch Cargo	Mexico
+	Buffalo Airways	United States
+	Alrosa-Avia	Russia
+FP	Servicios Aéreos de los Andes	Peru
+	Regional Air Services	Tanzania
+	CARIBAIR	Dominican Republic
+N6	Nuevo Continente	Peru
+	Aviación Del Noroeste, S.A. de C.V.	Mexico
+E3	Domodedovo Airlines	Russia
+	Equaflight Service	Republic of the Congo
+	Trans Island Air	Barbados
+	Australian airExpress	Australia
+	SALTAVIATION	Poland
+	Pacific Island Aviation	United States
+	TAF Helicopters	Spain
+	Aero Ejecutivos	Venezuela
+	Aero Silza	Mexico
+	North Atlantic Air Inc	United States
+	K-Mile Air	Thailand
+	No. 32 (The Royal) Squadron	United Kingdom
+	Air Djibouti	Djibouti
+	Interaire	Mexico
+	Central Flying Service	United States
+	Cambodia Airlines	Cambodia
+	Aero JBR	Mexico
+	Sark International Airways	United Kingdom
+	Compañía de Servicios Aéreos Tavisa	Spain
+	Agence Nationale des Aerodromes et de la Meteorologie	Ivory Coast
+	Air Atlantic (Nig) Limited	Nigeria
+	Mauria	Mauritania
+KU	Kuwait Airways	Kuwait
+	Benina Air	Libya
+	Aviación Comercial de América	Mexico
+EL	Air Nippon	Japan
+	Flightline	Spain
+	Sky King, Inc.	United States
+	European Coastal Airlines	Croatia
+	Company Flight	Denmark
+	Miapet-Avia	Armenia
+BP	Air Botswana	Botswana
+	Livingstone Executive	Italy
+	Bond Aviation	Italy
+7T	Air Glaciers	Switzerland
+	Aerogala	Chile
+	Duchess of Brittany (Jersey) Limited	United Kingdom
+	Aerosun International, Inc.	United States
+	Navid	Iran
+	Jets Personales	Spain
+	Avia Business Group	Russia
+	Polo Aviation	United Kingdom
+	Knights Airlines	Nigeria
+	Azamat	Kazakhstan
+	Fischer Air Polska	Poland
+	Cranfield University	United Kingdom
+	Orient Airways	Pakistan
+	Star West Aviation	United States
+	Service Aerien Francais	France
+T3	Eastern Airways	United Kingdom
+	Digital Equipment Corporation	United States
+	Aero Jomacha	Mexico
+	Aerofaq	Ecuador
+	Jet Aviation Business Jets	United States
+	Jet Link	Israel
+	Aerofumigaciones Sam	Chile
+	Aviaexpress Aircompany	Ukraine
+NC	Northern Air Cargo	United States
+	Air Cargo Masters	United States
+	Action Airlines (Action Air Charter)	United States
+RA	Nepal Airlines	Nepal
+BK	Potomac Air	United States
+	Mali Air Express	Mali
+	Aeromaan	Mexico
+	Airtechservice	Ukraine
+	Air Alsie	Denmark
+	HPM Investments	United Kingdom
+	Aero Empresarial	Mexico
+	Lease-a-Plane International	United States
+	Bundespolizei-Fliegertruppe	Germany
+	Miniliner	Italy
+	Aerolíneas Mesoamericanas	Mexico
+	Aero Albatros	Mexico
+	Concordavia	Ukraine
+	Executive Jet Management	United States
+L7	Línea Aérea SAPSA	Chile
+	Euroguineana de Aviación	Equatorial Guinea
+	American Flyers	United States
+	Kelner Airways	Canada
+	Aeros Limited	United Kingdom
+	Air Italy Polska	Poland
+	Mountain Air Cargo	United States
+	Pearl Air	Pakistan
+	Massey University School of Aviation	New Zealand
+	Jetways of Iowa	United States
+	DGO Jet	Mexico
+	Air Vardar	Macedonia
+	Air Marrakech Service	Morocco
+BT	Air Baltic	Latvia
+	Irish Air Corps	Ireland
+	Aero Zambia	Zambia
+	Global System	United States
+	Star Air	Pakistan
+	Aeronaves Del Centro	Venezuela
+VG	VLM Airlines	Belgium
+	Sheremetyevo-Cargo	Russia
+P6	Privilege Style Líneas Aéreas	Spain
+J6	AVCOM	Russia
+1E	Travelsky	China
+	Turk Hava  Kurumu Hava Taksi Isletmesi	Turkey
+HM	Air Seychelles	Seychelles
+	Air Cargo Center	São Tomé and Príncipe
+WA	KLM Cityhopper	the Netherlands
+SD	Sudan Airways	Sudan
+Z4	Zoom Airlines	Canada
+DT	TAAG Angola Airlines	Angola
+LW	Sun Air International	United States
+TQ	Tandem  Aero	Moldova
+PX	Air Niugini	Papua New Guinea
+	Jetran Air	Romania
+KR	Comores Airlines	Comoros
+	Star Aviation	United Kingdom
+	Shooter Air Courier	Canada
+	Amal Airlines	Djibouti
+	Examiner Training Agency	United Kingdom
+	Dassault Aviation	France
+	Cardolaar	Namibia
+	Trans Air Welwitchia	Angola
+	Avcard Services	United Kingdom
+9V	Vipair Airlines	Kazakhstan
+	Helibravo Aviacao	Portugal
+	Khoezestan Photros Air Lines	Iran
+	Westcoast Energy	Canada
+	Publiservicios Aéreos	Mexico
+	International Committee of the Red Cross	Switzerland
+	Aerosmith Aviation	United States
+	Briansk State Air Enterprise	Russia
+	Artis	France
+CK	China Cargo Airlines	China
+	State Flight Academy of Ukraine	Ukraine
+	Aer Turas	Ireland
+	Red Star	United Arab Emirates
+	Polet Airlines	Russia
+	Air Kissari	Angola
+CJ	BA CityFlyer	United Kingdom
+	Air Victoria Georgia	Georgia
+YS	Régional	France
+4R	Star East Airline	Romania
+	Regency Airlines	United States
+	Marvin Limited	United Kingdom
+	Multi Taxi	Mexico
+	Jet Line International	Moldova
+	Aero Coach Aviation	United States
+	Ecomex Air Cargo	Angola
+	South Airlines	Ukraine
+C4	Zimex Aviation	Switzerland
+	Air Fret Senegal	Senegal
+	Justice Air Charter	United States
+	Royal Swazi National Airways	Swaziland
+	Aviation Data Systems	United States
+	CHC Helicopters Netherlands	Netherlands
+	Compagnie Nationale Naganagani	Burkino Faso
+NI	Portugalia	Portugal
+	Atlantic Coast Airlines	United States
+	RAF Marham	United Kingdom
+	Corporacion Paraguaya De Aeronautica	Paraguay
+T6	Tavrey  Airlines	Ukraine
+	White	Portugal
+RH	Republic Express Airlines	Indonesia
+	Aero Vision	France
+	Maxsus-Avia	Uzbekistan
+N/A	T3 Aviation, Inc.	United States
+YH	West Caribbean Airways	Colombia
+	Utair South Africa	South Africa
+	Northway Aviation Ltd	Canada
+	Primas Courier	United States
+	Slate Falls Airways	Canada
+	Atlantic Airlines de Honduras	Honduras
+	China General Aviation Corporation	China
+	Aeralp	France
+	Aeroingenieria	Chile
+8C	Air Transport International	United States
+	Cyprair Tours	Cyprus
+EC	easyJet Europe	Austria
+	National Police Air Service	United Kingdom
+	AVESCA	Colombia
+EL	Ellinair	Greece
+	Escuela De Pilotos Are Aviación	Spain
+	Real Aeroclub De Tenerife	Spain
+DP	Air 2000	United Kingdom
+3S	Aerologic	Germany
+	American Jet International	United States
+	Air Sport	Bulgaria
+	Missions Gouvernemtales Francaises	France
+	International Charter Services	Mexico
+	Odyssey International	Canada
+	Empire Aviation Services	Nigeria
+CP	Compass Airlines	United States
+	L&L Flygbildteknik	Sweden
+	Interguide Air	Nigeria
+	Denver Express	United States
+	Connect Air	Canada
+	Blue Sky Airways	Czech Republic
+	C Air Jet Airlines	Syrian Arab Republic
+	Aeroservicios Corporativos De San Luis	Mexico
+	Southern Jersey Airways, Inc.	United States
+	Hadison Aviation	United States
+CC	Air Atlanta Icelandic	Iceland
+	Transwings	Switzerland
+	West African Air Transport	Senegal
+	Swedish Civil Aviation Administration	Sweden
+	Addis Airlines	Ethiopia
+	Heli Bernina	Switzerland
+	Peran	Kazakhstan
+	Sakaviaservice	Georgia
+	VZ Flights	Mexico
+	Daka	Kazakhstan
+7O	Galaxy Air	Kyrgyzstan
+	Hajvairy Airlines	Pakistan
+	Air Libya Tibesti	Libya
+OJ	Overland Airways	Nigeria
+W3	Flyhy Cargo Airlines	Thailand
+	Polizeihubschrauberstaffel Hamburg	Germany
+HR	Hahn Air	Germany
+SX	Sky Work Airlines	Switzerland
+	Inter-State Aviation	United States
+G1	Gorkha Airlines	Nepal
+	Express Line Aircompany	United States
+	Blue Sky Aviation	Lebanon
+	Clowes Estates Limited	United Kingdom
+	Nashville Jet Charters	United States
+	Air Cargo Belize	Belize
+	Air-Spray 1967 Ltd.	Canada
+	Flugwerkzeuge Aviation Software	Austria
+	Horizon Air-Taxi	Switzerland
+	Airventure	Belgium
+	Star Service International	France
+	MyWay Airlines	Georgia
+	Aeris Gestión	Spain
+	Chinguetti Airlines	Mauritania
+	Safewings Aviation Company	United States
+	Rath Aviation	Austria
+H4	Héli Sécurité Helicopter Airlines	France
+	Seven Bar Flying Service	Tunisia
+	SAAB Nyge Aero	Sweden
+	Western Air	Bahamas
+	Allegheny Commuter Airlines	United States
+	Fuxion Line Mexico	Mexico
+	Northstar Aviation	United States
+	Alsair	France
+	Flight Alaska	United States
+	Rusair JSAC	Russia
+	Wiking Helikopter Service	Germany
+	Seagle Air	Slovakia
+	Novogorod Air Enterprise	Russia
+	East Midlands Helicopters	United Kingdom
+S4	SATA International	Portugal
+S8	Skywise Airline	South Africa
+	Odessa Airlines	Ukraine
+D0	DHL Air Limited	United Kingdom
+	Dniproaviaservis Company	Ukraine
+	Helikopterservice Euro Air	Sweden
+	Sirio Executive	Italy
+GH	Ghana Airways	Ghana
+	Shura Air Transport Services	Ethiopia
+	Romavia	Romania
+KS	Peninsula Airways	United States
+	Aero Madrid	Spain
+ZA	Interavia Airlines	Russia
+ZS	Azzurra Air	Italy
+	Executive Airlink	United States
+	Stella Aviation	Mauritania
+XJ	Thai  AirAsia X	Thailand
+	Universal Airlines	United States
+8A	Atlas Blue	Morocco
+	Texas National Airlines	United States
+	RAF-Avia	Latvia
+	Sky Bus	United States
+	Capital Airlines	Kenya
+	German Navy	Germany
+	Taxis Aéreos del  Pacífico	Mexico
+	Panagra Airways	United States
+	Inter RCA	Central African Republic
+	Arrow Aviation Ltd.	Canada
+	Airpac Airlines, Inc.	United States
+8H	BH Air	Bulgaria
+	Transportes Aéreos  De Xalapa	Mexico
+	Transportes  Aéreos Mexiquenses	Mexico
+	Aerotrebol	Mexico
+	Helicópteros Y Vehículos Nacionales Aéreos	Mexico
+S6	Star Air	Denmark
+	Ministic Air	Canada
+	General Airways	South Africa
+	Intercopters	Spain
+	Clacton Aero Club	United Kingdom
+	Russian Federation Air Force	Russia
+	Servicios Aeronáuticos Integrales	Mexico
+HC	Iceland Express	Iceland
+	Click Airways	Kyrgyzstan
+	Uni-Fly	Denmark
+	Tyrolean Jet Services	Austria
+	Finist'air	France
+	Air Swift Aviation	Australia
+	Dwyer Aircraft Services	United States
+	Hawker Beechcraft	United States
+	Comet Airlines	Nigeria
+	Tenir Airlines	Kyrgyzstan
+	Christman Air System	United States
+	Seychelles Airlines	Seychelles
+	Alyeska Air Service	United States
+	Aereotaxis	Mexico
+	First Flying Squadron	United States
+	Aero Banobras	Mexico
+	Everett Aviation	Kenya
+	Airlift Alaska	United States
+	Flight Inspection Center of the General Administration of Civil Aviation in China	China
+	Aerovista Gulf Express	United Arab Emirates
+	Air Executive Charter	Germany
+	Eagle Aviation France	France
+	Air Nova	United Kingdom
+	Portuguese Air Force	Portugal
+	Aerial Transit	United States
+	Vertair	United Kingdom
+	International Jet Aviation Services	United States
+E8	Alpi Eagles	Italy
+	Bizair Fluggesellschaft	Germany
+GB	Airborne Express	United States
+LF	FlyNordic	Sweden
+DB	Maleth-Aero	Malta
+	Aircraft Sales and Services	Pakistan
+	Celtic Airways	United Kingdom
+	Air Valencia	Spain
+	Air Bandama	Ivory Coast
+	Trygg-Flyg	Sweden
+	Air Saigon	Vietnam
+	Cape Air Transport	Australia
+	Zhejiang Airlines	China
+	Czech Air Force	Czech Republic
+QU	UTair-Ukraine	Ukraine
+	Navtech System Support	Canada
+	Khazar	Turkmenistan
+KF	Blue1	Finland
+FO	Flybondi	Argentina
+	Empresa (Aero Uruguay), S.A.	Uruguay
+	Eirjet	Ireland
+IK	Lankair	Sri Lanka
+	Southern Cargo Air Lines	Russia
+P9	Nas Air	Mali
+	Crest Aviation	United Kingdom
+	Executive Airlines	Spain
+	Cirrus	Chile
+JC	JAL Express	Japan
+M7	Tropical  Airways	Haiti
+	AD Astra Executive Charter	Poland
+	Ecuatoguineana De Aviación (EGA)	Equatorial Guinea
+	Amiya Airline	Nigeria
+PG	Bangkok Airways	Thailand
+	Points of Call Airlines	Canada
+	Skygate	Netherlands
+	Expertos En Carga	Mexico
+4F	Air City	Germany
+	Aero Sudpacifico	Mexico
+RG	Varig	Brazil
+	Elidolomiti	Italy
+	Skydrift	United Kingdom
+	Al-Donas Airlines	Nigeria
+	Advance Air Charters	Canada
+	Vuela Bus	Mexico
+	Regional Geodata Air	Spain
+	Star Up	Peru
+	Powell Air	Canada
+	TAG  Aviation	Switzerland
+	Travelair	Uruguay
+5O	Europe Airpost	France
+	Stabo Freight	Zambia
+	Oxaero	United Kingdom
+FW	Ibex Airlines	Japan
+	Trans Am Compania	Ecuador
+	Samaritan Air Service	Canada
+	Aero Biniza	Mexico
+	Skyways	Argentina
+M3	ABSA Cargo	Brazil
+	Nefteyugansk Aviation Division	Russia
+	Northland Aviation	United States
+	Portuguese Navy	Portugal
+	Laminar Air	Spain
+	Helicopteros Internacionales	Mexico
+	Aero Airline	Kazakhstan
+	Max-Aviation	Canada
+	Speedwings	Switzerland
+	Multi-Aero	United States
+	Job Air	Czech Republic
+	Kom Activity	Netherlands
+	Belgorod Aviation Enterprise	Russia
+	VIP Avia	Kazakhstan
+CE	Nationwide Airlines	South Africa
+DO	Dominicana de Aviación	Dominican Republic
+	Dancopter	Denmark
+	Yangon Airways	Burma
+	Air Brousse	Canada
+	Vacationair	Canada
+KQ	Kenya Airways	Kenya
+FV	Rossiya	Russia
+	Riga Airclub	Latvia
+V7	Air Senegal International	Senegal
+	Air Partner	United Kingdom
+	Real Aero Club de Reus-Costa Dorado	Spain
+	Empresa Venezolana	Venezuela
+	Air Whitsunday	Australia
+H1	Hooters Air	United States
+	Lockheed Martin Aeronautics Company	United States
+	Formula One Management	United Kingdom
+	Aeronautical Radio Inc	United States
+	Zil Air	Seychelles
+	Pro Air Service	United States
+	Thyssen  Krupp AG	Germany
+HU	Hainan Airlines	China
+MO	Abu Dhabi Amiri Flight	United Arab Emirates
+	South African Non Scheduled Airways	South Africa
+	Advanced Flight Training	United Kingdom
+	Interport Corporation	United States
+	Sun West Airlines	United States
+L1	Lufthansa Systems	Germany
+	Trigana Air Service	Indonesia
+8Y	Air Burundi	Burundi
+	New England Air Express	United States
+M8	Mekong Airlines	Cambodia
+	Sobel Airlines of Ghana	Ghana
+	Trast Aero	Kyrgyzstan
+	Markoss Aviation	United Kingdom
+GG	Sky Lease Cargo	United States
+	Valair AG (Helicoptere)	Switzerland
+	Air Star Corporation	Canada
+BZ	Blue Dart Aviation	India
+	Sunrise Airlines	United States
+	Aeronaves Del Noroeste	Spain
+	Jetpro	Mexico
+	Shell Aircraft	United Kingdom
+JF	Jet Asia Airways	Thailand
+1Q	Sirena	Russia
+	Delta Private Jets	United States
+	Pan-Air	Mexico
+	British Airways Shuttle	United Kingdom
+	Airline Alania	Russia
+	Kanaf-Arkia Airlines	Israel
+	Suncoast Aviation	United States
+	Rimrock Airlines	United States
+	Tropical  International Airways	Saint Kitts and Nevis
+4M	LATAM Argentina	Argentina
+	Reef Air	New Zealand
+	Taxis Aéreos del  Noroeste	Mexico
+	Execujet Charter	Switzerland
+	Aircompany Veteran	Armenia
+	Aerotaxis Pegaso	Mexico
+	Pool Aviation	United Kingdom
+	Jet Aspen Air Lines	United States
+	Uraiavia	Russia
+	Christophorus Flugrettungsverein	Austria
+	Air Central	United States
+	Asia Pacific Airlines	United States
+	European 2000 Airlines	Malta
+G3	City Connexion Airlines	Burundi
+UH	US Helicopter	United States
+6G	Air Wales	United Kingdom
+	Grizodubova Air Company	Russia
+2N	Yuzhmashavia	Ukraine
+	Little Red Air Service	Canada
+	Ayeet Aviation & Tourism	Israel
+	Empresa Nacional De Servicios Aéreos	Cuba
+	Líneas Aéreas Federales	Argentina
+	Global Jet Austria	Austria
+VD	Kunpeng Airlines	China
+	Icelandic Coast Guard	Iceland
+	Westair Industries	United States
+	Kitty Hawk Airways	United States
+	British Caribbean Airways	United Kingdom
+	UK International Airlines	United Kingdom
+	Ezjet GT	Guyana
+	Ocean Air	Mauritania
+	Transportaciones  Y Servicios Aéreos	Mexico
+7M	Mayair	Mexico
+	Rocky Mountain Airlines	Canada
+	Gavina	Spain
+	Flight Precision Limited	United Kingdom
+	RVL Group	United Kingdom
+OH	Comair	United States
+	Aero Lider	Mexico
+	Central Aviation	United States
+	Xinjiang Airlines	China
+	Servicios Aéreos Especiales De Jalisco	Mexico
+	Thai Flying Service	Thailand
+	AeroJet	Angola
+IE	Solomon Airlines	Solomon Islands
+	Vologda State Air Enterprise	Russia
+	Bond Air Services	Uganda
+TY	Iberworld	Spain
+IJ	Great Wall Airlines	China
+	Avia Consult Flugbetriebs	Austria
+	Lentini Aviation	United States
+	Australia Asia Airlines	Australia
+9U	Air Moldova	Moldova
+5M	Montserrat Airways	Montserrat
+	TG Aviation	United Kingdom
+	Real Aviation	Ghana
+	Air Today	United States
+	Lao Skyway	Lao People's Democratic Republic
+FI	Icelandair	Iceland
+	Servicios Corporativos Aéreos De La Laguna	Mexico
+	Air Resorts	United States
+	Global Sky Aircharter	United States
+	Winair	United States
+	Caribbean Air Cargo	Barbados
+VP	VASP	Brazil
+KB	Druk Air	Bhutan
+	Anglo Cargo	United Kingdom
+	Halcyonair	Cape Verde
+E5	Air Arabia Egypt	Egypt
+	Aerocésar	Colombia
+	Skorpion Air	Bulgaria
+	Jet Courier Service	United States
+	Mountain Air Express	United States
+	Dubai Airwing	United Arab Emirates
+	Bristow Helicopters	United Kingdom
+	Spectrem Air	South Africa
+RJ	Royal Jordanian	Jordan
+	Fleet Requirements Air Direction Unit	United Kingdom
+	Aereosaba	Mexico
+	Cheyenne Airways	United States
+BS	British International Helicopters	United Kingdom
+EX	Atlantic Airlines	United States
+	AirNet Express	United States
+	Mall Airways	United States
+	Langtry Flying Group	United Kingdom
+	Mahogany Air Charters	Zambia
+	Great Barrier Airlines	New Zealand
+	Unsped Paket Servisi	Turkey
+	Cardiff Wales Flying Club	United Kingdom
+	Teledyne Continental Motors	United States
+	Jet Linx Aviation	United States
+MB	Execair Aviation	Canada
+	Westair Aviation	Namibia
+	Florida Air	United States
+	All Charter Limited	United Kingdom
+KI	Adam Air	Indonesia
+	Aero Caribbean	Cuba
+	Heli-Charter	United Kingdom
+AL	TransAVIAexport Airlines	Belarus
+	Bahrain Executive Air Services	Bahrain
+	Air Inter Ivoire	Ivory Coast
+	Jenney Beechcraft	United States
+	VIP Empresarial	Mexico
+	Special Aviation Works	Uzbekistan
+	State of Nebraska	United States
+	Norfolk County Flight College	United Kingdom
+	Dahla Airlines	Democratic Republic of Congo
+	Air Umbria	Italy
+	Feniks Airline	Kazakhstan
+	Servicios Aéreos Moritani	Mexico
+	Date Transformation Corp	United States
+	Fly Jetstream Aviation	South Africa
+	Austin Airways	Canada
+	Republicair	Mexico
+CZ	China Southern Airlines	China
+	Center-South	Russia
+	Bayu Indonesia Air	Indonesia
+	Landsflug	Iceland
+	Aerocuahonte	Mexico
+	Champagne Airlines	France
+	United Arab Emirates Air Force	United Arab Emirates
+	Air Sultan	Sierra Leone
+	DC Aviation	Germany
+	Pan African Airways	Kenya
+	Compagnie de Bauxites de Guinee	Guinea
+	Relief Transport Services	United Kingdom
+	Sky Line for Air Services	Sudan
+	Professione VOlare	Italy
+	Air Baffin	Canada
+VZ	MyTravel Airways	United Kingdom
+	Eurojet Limited	Malta
+	Stewart Aviation Services	United States
+	Professional Express Courier Service	United States
+M3	North Flying	Denmark
+	Petropavlovsk-Kamchatsk Air Enterprise	Russia
+	AirWest	Sudan
+	Transair Gabon	Gabon
+	Egyptian Aviation Company	Egypt
+	Golden Rule Airlines	Kyrgyzstan
+	Telnic Limited	United Kingdom
+	Aircraft Management and Consulting	Poland
+	Alpine Aviation	South Africa
+	Africa One	Zambia
+	Aeroclub Flaps	Spain
+	Journey Jet	Thailand
+	Air Bravo	Uganda
+	Royal Air Force	United Kingdom
+FS	Itali Airlines	Italy
+	Blue Line	France
+	Privatair	Switzerland
+	Aur Rum Benin	Benin
+BE	Flybe	United Kingdom
+VW	Aeromar	Mexico
+	Mint Airways	Spain
+	Red Sea Aviation	Egypt
+	Flylink Express	Spain
+G0	Ghana International Airlines	Ghana
+	Quikjet Cargo Airlines	India
+6D	Smartwings Slovakia	Slovakia
+	Africa Airlines	Guinea
+	Aero Business Charter	Germany
+UE	Transeuropean Airlines	Russia
+	Mission Aviation Fellowship	Indonesia
+MX	Mexicana de Aviación	Mexico
+JF	L.A.B. Flying Service	United States
+	Rusich-T	Russia
+	Hangard Aviation	Mongolia
+	CHC Global Operations International	United Kingdom
+9C	Spring Airlines	China
+	Eclipse Aviation	United States
+	Angus Aviation	Canada
+	Sheba Aviation	Yemen
+	Transportación  Aérea del Norte	Mexico
+	Wayraperú	Peru
+	Regio Air	Germany
+	Tien-Shan	Kazakhstan
+	Air Logistics	United States
+AI	Air India Limited	India
+O4	Antrak Air	Ghana
+	UK HEMS	United Kingdom
+	Dallas Express Airlines	United States
+	LC Busre	Peru
+J7	Denim Air	Netherlands
+	Phillips Air	United States
+	Avialsa T-35	Spain
+VY	Formosa Airlines	Taiwan
+	Afghan Jet International Airlines	Afghanistan
+	JDP Lux	Luxembourg
+EA	Eastern Air Lines	United States
+	Saga Airlines	Turkey
+	Trans Nation Airways	Ethiopia
+	Koda International	Nigeria
+	Transafricaine Air  Cargo	Burkina Faso
+	Aerolíneas Ejecutivas Del Sureste	Mexico
+	El Sol De América	Venezuela
+	As, Opened Joint Stock Company	Ukraine
+TX	Air Caraïbes	France
+	Interisland Airlines	Philippines
+	Presidence Du Faso	Burkina Faso
+	Airwave Transport, Inc.	Canada
+		United States
+	La Valenciana Taxi Aéreo	Mexico
+	Air Columbus	Ukraine
+	Hyperion Aviation	Malta
+	Tango Bravo	France
+	Salair	United States
+	Horizontes Aéreos	Mexico
+	Taino Tours	Dominican Republic
+	AD Aviation	United Kingdom
+	Alitalia Express	Italy
+	Airlink Solutions	Spain
+	Air Alfa	Turkey
+	Barnes Olsen Aeroleasing	United Kingdom
+	Novosibirsk Aviaenterprise	Russia
+J3	Northwestern Air	Canada
+	Hub Airlines	United States
+	Aerohein	Chile
+	Fotografia F3	Spain
+	Boeing	United States
+	LADE - Líneas Aéreas Del Estado	Argentina
+	Airailes	France
+	Goodridge (UK) Limited	United Kingdom
+	Sabah Air	Malaysia
+	Night Express	Germany
+MW	Maya Island Air	Belize
+	Dome Petroleum	Canada
+	Air Napier	New Zealand
+	Aeroservicios Ecuatorianos	Ecuador
+	Capitol Wings Airline	United States
+	Icarus	Italy
+	Icaro	Italy
+2C	SNCF	France
+1A	Amadeus IT Group	Spain
+LG	Luxair	Luxembourg
+	IJM International Jet Management	Austria
+	Minoan Air	Greece
+	Tubelair	Tunisia
+	Blue Horizon Travel Club	United States
+	Albion Aviation	United Kingdom
+	Bar XH Air	Canada
+	Country International Airlines	Kyrgyzstan
+C3	Independent Carrier (ICAR)	Ukraine
+A6	Hongtu Airlines	China
+OH	PSA Airlines	United States
+K6	Khalifa Airways	Algeria
+GG	Cargo 360	United States
+	ACT Havayollari	Turkey
+	Sarit Airlines	Sudan
+VX	ACES Colombia	Colombia
+	Ocean Wings Commuter Service	United States
+K9	Krylo Airlines	Russia
+	United Kingdom Civil Aviation Authority	United Kingdom
+	Eastern Metro Express	United States
+	MG Aviación	Spain
+	Nextflight Aviation	United States
+	Euro Continental AIE	Spain
+	Tara Air Line	Iran
+	Rio Air Express	Brazil
+	Africa Chartered Services	Nigeria
+QK	Air Canada Jazz	Canada
+	Missionair	Spain
+U4	PMTair	Cambodia
+	Air Memphis	Egypt
+	Panorama Air Tour	United States
+	Aerogroup 98 Limited	United Kingdom
+	GATSA	Mexico
+N5	Fly Easy	India
+HH	Hope Air	Canada
+	Air China Inner Mongolia	China
+	Alberta Government	Canada
+	Dala Air Services	Nigeria
+U8	Armavia	Armenia
+	Branson Airlines	United States
+	Temsco Helicopters	United States
+FE	Primaris Airlines	United States
+	Minair	Central African Republic
+BW	Caribbean Airlines	Trinidad and Tobago
+1K	AIRKIOSK	Global
+	Renan	Moldova
+	Naturelink Charter	South Africa
+	Servicio De Vigilancia Aérea Del Ministerio De Seguridad Pública	Costa Rica
+	Kitty Hawk Aircargo	United States
+S0	Slok Air Gambia	Gambia
+	Fast Air	Canada
+	Phoenix Air	Germany
+	Tarhan Tower Airlines	Turkey
+	Streamline Aviation	United Kingdom
+	Apatas Air	Lithuania
+NO	Aus-Air	Australia
+	Turkish  Airlines General Aviation	Turkey
+	Heli-Inter Guyane	France
+	Superior Aviation Services	Kenya
+IP	Atyrau Air Ways	Kazakhstan
+	Puerto Vallarta Taxi Aéreo	Mexico
+GN	Air Gabon	Gabon
+	Air Viggi San Raffaele	Italy
+	Navegación Servicios Aéreos Canarios S.A.	Spain
+RR	Buzz (Ryanair)	Poland
+	Aero Juarez	Mexico
+	Trans-Pacific  Orient Airways	Philippines
+	Beijing City International Jet	China
+	May Air Xpress	United States
+	Compañía Transportes Aéreos Del Sur	Spain
+SI	Skynet Airlines	Ireland
+	Bel Air Helicopters	Denmark
+8Y	China Postal Airlines	China
+TN	Air Tahiti Nui	France
+	Indicator Company	Hungary
+	North Star Air Cargo	United States
+	Delta Express International	Ukraine
+QH	Air Florida	United States
+NE	SkyEurope	Slovakia
+	Gabon-Air-Transport	Gabon
+	Safat Airlines	Iran
+QL	Línea Aérea de Servicio Ejecutivo Regional	Venezuela
+	Flight Line	United States
+	Aéreo Taxi Paraza	Mexico
+	Payam Air	Iran
+	Argentine Air Force	Argentina
+	VIP Ecuador	Ecuador
+	Aircompany Rosavia	Ukraine
+	Sella Aviation	Netherlands
+	Chilliwack Aviation	Canada
+	North American Charters	Canada
+	Aernord	Italy
+	Dash Air Charter	United States
+XK	Corse Méditerranée	France
+W5	Mahan Air	Iran
+GY	Guyana Airways 2000
+	Aerial Oy	Finland
+	Servicios Aéreos Ejecutivos De La Laguna	Mexico
+	ASL Airlines Switzerland	Switzerland
+OQ	Chongqing Airlines	China
+	Gulf Flite Center	United States
+	Air Metack	Angola
+	Ecoturistica de Xcalak	Mexico
+	Ram Air Freight	United States
+KI	KaiserAir	United States
+	Stichting Vliegschool 16Hoven	Netherlands
+	Arik Air	Nigeria
+DN	Norwegian Air Argentina	Argentina
+	Roraima Airways	Guyana
+	AG Air	Georgia
+ZY	Sky Airlines	Turkey
+V5	DanubeWings	Slovakia
+DJ	Pacific Blue	New Zealand
+	Transporte Amazonair	Venezuela
+	C and M Aviation	United States
+	Thunder  Airlines	Canada
+	Urgemer Canarias	Spain
+9L	Colgan Air	United States
+I2	Iberia Express	Spain
+	Aero Express	Niger
+	A-Safar Air Services	Nigeria
+	United Kingdom Civil Aviation Authority	United Kingdom
+	Sun Pacific International	United States
+	Air Sorel	Canada
+	Ilpo Aruba Cargo	Aruba
+	Britannia Airways	United Kingdom
+	Rossair Europe	Netherlands
+	Aquila Air	United States
+QD	Air Class Líneas Aéreas	Uruguay
+	Heli Medwest De Mexico	Mexico
+	Air Manas	Kyrgyzstan
+IB	Iberia Airlines	Spain
+	Condor Aero Services	United States
+QB	Air Alma	Canada
+	Trail Lake Flying  Service	United States
+	Allied Air	Nigeria
+	South Pacific Island Airways	United States
+	Cards Air Services	Philippines
+	Arabasco Air Services	Saudi Arabia
+	Airdeal Oy	Finland
+	Avalair	Serbia
+	Porteadora De Cosola	Mexico
+	Pariz Air	Iran
+JW	Vanilla Air	Japan
+	Royal Ghanaian Airlines	Ghana
+	Condor	Germany
+Z3	Avient Aviation	Zimbabwe
+VE	Avensa	Venezuela
+	GFW Aviation	Australia
+	Helipistas	Spain
+	Aero BG	Mexico
+	Royal Oman Police	Oman
+	Aklak Air	Canada
+	Raytheon Corporate Jets	United Kingdom
+0A	Amber Air	Lithuania
+	Air Taxi	France
+RC	Atlantic Airways	Faroe Islands
+	Dynamic Airways	United States
+	Veritair	United Kingdom
+	St. Vincent Grenadines Air (1990)	Saint Vincent and the Grenadines
+1N	Navitaire	United States
+	Trans America	United States
+	Azal Avia Cargo	Azerbaijan
+	Faroecopter	Denmark
+	Alexandria Airlines	Egypt
+	Flightworks	United States
+PI	Sun Air (Fiji)	Fiji
+	Twente Airlines	Netherlands
+	Aeroni	Mexico
+	Taespejo Portugal LDA	Portugal
+P7	Russian Sky Airlines	Russia
+8D	FitsAir	Sri Lanka
+	Air Lincoln	United States
+	Majestic Airlines	United States
+	Evelop Airlines	Spain
+	Sriwijaya Air	Indonesia
+	Transpac Express	Australia
+	Aeroalas Colombia	Colombia
+	Moldaeroservice	Moldova
+KV	Kavminvodyavia	Russia
+	Center Vol	Spain
+	Servicios Ejecutivos Continental	Mexico
+	Ada Air	Albania
+	East African Safari Air Express	Kenya
+	North-West Air Transport Company - Vyborg	Russia
+	Panorama Flight Service	United States
+	Falcon Air Express	United States
+	Air-Rep	United States
+2K	Aerogal	Ecuador
+	BAE Systems	United Kingdom
+P2	Small Planet Airlines	Italy
+HN	Heavylift Cargo Airlines	Australia
+QR	Qatar Airways	Qatar
+	Zest Airways	Philippines
+2N	NextJet	Sweden
+	Aero Vilamoura	Portugal
+G6	Guine Bissaur Airlines	Guinea-Bissau
+	Aeroway, S.L.	Spain
+	Elmagal Aviation Services	Sudan
+	Beijing Eofa International Jet	China
+	Atlantic Airfreight Aviation	São Tomé and Príncipe
+	Servicios De Transporte Aéreo	Mexico
+IK	Ikar	Russian Federation
+P7	Small Planet Airlines	Poland
+	Colt International	United States
+WX	CityJet	Ireland
+	Freshaer	United Kingdom
+	Aero Taxi Aviation	United States
+TE	FlyLal	Lithuania
+	Air Plan International	Democratic Republic of the Congo
+	Aero Charter	United States
+	43 Air School	South Africa
+8Q*	Baker Aviation	United States
+	Auo Airclub AIST-M	Russia
+	FMG Verkehrsfliegerschule Flughafen Paderborn-Lippstadt	Germany
+	Executive Turbine Aviation	South Africa
+GF	Gulf Air	Bahrain
+TG	Thai Airways International	Thailand
+	Baltimore Air Transport	United States
+	Talair	Papua New Guinea
+	Patria Cargas Aéreas	Argentina
+	Cherry Air	United States
+W8	Cargojet Airways	Canada
+	Operadora de Veulos Ejectutivos	Mexico
+	British Airways Santa	United Kingdom
+LJ	Sierra National Airlines	Sierra Leone
+N5	Kyrgyz Airlines	Kyrgyzstan
+	Shavano Air	United States
+	Rollright Aviation	United Kingdom
+	Alsaqer Aviation	Libya
+	Talon Air	United States
+	Holding International Group	Mexico
+	AF-Air International	Angola
+	Texas Air Charters	United States
+	Coastal Airways	United States
+	Air Costa	India
+	Aeromagar	Mexico
+	Servicios Aéreos Sunset	Mexico
+	Perforadora Central	Mexico
+	Air Inter Gabon	Gabon
+	Armstrong Air, Inc.	Canada
+RF	Florida West International Airways	United States
+	Austro Aéreo	Ecuador
+PH	Polynesian Airlines	Samoa
+	Friendship Air Alaska	United States
+GC	Gambia International Airlines	Gambia
+	Kyrgyz Airlines	Kyrgyzstan
+WIG	WIGGINS AIRWAYS
+WD*	Amsterdam Airlines	Netherlands
+	Aerolíneas de El Salvador	El Salvador
+	Centre of Applied Geodynamica	Russia
+KD	KD Avia	Russia
+	Simpson Air Ltd	Canada
+NO	Neos	Italy
+	Rolls-Royce Limited	United Kingdom
+	Operadora de Lineas Ejecutivas	Mexico
+	Amira Air	Austria
+	Flight Training Europe	Spain
+ZS	Sama Airlines	Saudi Arabia
+	Scottish Airways Flyers	United Kingdom
+E7	Estafeta Carga Aérea	Mexico
+	Jet Time	Finland
+	Aktjubavia	Kazakhstan
+	Lignes Nationales Aeriennes - Linacongo	Republic of the Congo
+	Línea Aérea de Fumig Aguas Negras	Chile
+	Quisqueya Airlines	Haiti
+	Mountain Air Service	United States
+	Air Continental Inc	United States
+	Aero Util	Mexico
+	Astoria, Inc.	Canada
+	Aerolíneas Aéreas Ejecutivas De Durango	Mexico
+	Transportes Aéreos  Tauro	Mexico
+	Aerocenter, Escuela de Formación de Pilotos Privados de Avión	Spain
+	Air Alize	France
+C8	Chicago Jet Group	United States
+	TAPSA Transportes Aéreos Petroleros	Argentina
+	Survey Udara (Penas)	Indonesia
+	Helicol	Colombia
+	Twin Cities Air Service	United States
+	Atlas Cargo Airlines	Morocco
+	Servicios Aéreos Expecializados En Transportes Petroleros	Colombia
+	Transportes  Aéreos del Pacífico	Mexico
+	Blue Sky Airlines	Armenia
+LA	LATAM Chile	Chile
+	Premiair Aviation Services	United Kingdom
+	British Gulf International-Fez	Kyrgyzstan
+	Aerologic	Russia
+QN	Air Armenia	Armenia
+	Imaer	Portugal
+	Erfoto	Portugal
+	Tibet  Airlines	China
+	Gospa Air	Mexico
+	Aero Transporte S.A. (ATSA)	Peru
+	Skyhaul	Japan
+US	Unavia Suisse	Switzerland
+	Carpatair Flight Service	Romania
+FT	FlyEgypt	Egypt
+	Skyline Aviation Services	United States
+	Air Lift	Greece
+	Avior Airlines	Venezuela
+	Lloyd Aviation	Venezuela
+	Africair Service	Senegal
+	Sasair	Canada
+	Jetnova de Aviación Ejecutiva	Spain
+GQ	Big Sky Airlines	United States
+	Olimex Aerotaxi	Czech Republic
+	Aeropuma, S.A.	El Salvador
+JN	Excel Airways	United Kingdom
+C9	Cirrus Airlines	Germany
+	Knighthawk Express	United States
+	Era Helicopters	United States
+	Air Scotland	Greece
+H2	Sky Airline	Chile
+	AASANA	Bolivia
+	Pilatus Flugzeugwerke	Switzerland
+	Force Aerienne Francaise	France
+	Air St. Thomas	United States
+	Pan Europeenne Air Service	France
+	Sair Aviation	Canada
+JH	Fuji Dream Airlines	Japan
+	Haughey Air	United Kingdom
+	Take Air Line	France
+OW	Executive Airlines	United States
+	Snunit Aviation	Israel
+HT	Aeromist-Kharkiv	Ukraine
+	Servicios Aéreos Estrella	Mexico
+	Ryazan State Air Enterprise	Russia
+	Yerevan-Avia	Armenia
+	Panavia	Panama
+	Blue Jet Charters	Poland
+	California Air Shuttle	United States
+	Dornier	Germany
+SS	Corsairfly	France
+	West Caribbean Costa Rica	Costa Rica
+	Tristar  Air	Egypt
+	Atlantic S.L.	Spain
+	Transportes Aéreo  del Sureste	Mexico
+	Caricom Airways	Barbados
+8D	Servant Air	United States
+	Best Aviation Ltd	Bangladesh
+	Bistair - Fez	Kyrgyzstan
+P5	AeroRepública	Colombia
+5P	Small Planet Airlines	Germany
+	Heli France	France
+	Aerotaxi S.R.O.	Czech Republic
+J2	Azerbaijan Airlines	Azerbaijan
+6Z	Ukrainian Cargo Airways	Ukraine
+	Jorvik	Iceland
+	Kosmos	Russia
+	Angel Flight America	United States
+	Badr Airlines	Sudan
+PV	PAN Air	Spain
+	Portuguese Army	Portugal
+	Líneas Aéreas del Humaya	Mexico
+4Y	Airbus France	France
+AM	Aeroméxico	Mexico
+	Cheboksary Airenterprise JSC	Russia
+	Cargo Link (Caribbean)	Barbados
+PM	Tropic Air	Belize
+E2	Kampuchea Airlines	Cambodia
+	Alajnihah for Air Transport	Libya
+JL	Japan Airlines	Japan
+WQ	Swift Air (Interstate Equipment Leasing)	United States
+SH	Sharp Airlines	Australia
+W7	Western Pacific Airlines	United States
+	Heritage Aviation Developments	United Kingdom
+	Kroonk Air Agency	Ukraine
+	Akhal	Turkmenistan
+	Caricom Airways	Suriname
+	EFS-Flugservice	Germany
+BZ	Keystone Air Service	Canada
+	Compangnie Nationale Naganagani	Burkina Faso
+	Kiev Aviation Plant	Ukraine
+	Swiss Jet	Switzerland
+N6	Lagun Air	Spain
+	Aerotaxis Latinoamericanos	Mexico
+	Phoebus Apollo Aviation	South Africa
+	International Air Corporation	United States
+	Jet Story	Poland
+Q9	Afrinat International Airlines	Gambia
+VY	Vueling Airlines	Spain
+	Air Kraft Mir	Uzbekistan
+	Air Lazur	Bulgaria
+	Servico Leo Lopex	Mexico
+HO	Antinea Airlines	Algeria
+BN	Braniff International Airways	United States
+	Get High	Portugal
+	Izhavia	Russia
+	Grossmann Air Service	Austria
+KH	Aloha Air Cargo	United States
+	Trans World Express	United States
+	Beijing Vistajet Aviation	China
+OL	OLT Express Germany	Germany
+	Di Air	Serbia
+	Hangar 8	United Kingdom
+QF	Eastern Australia Airlines	Australia
+	Execujet Scandinavia	Denmark
+SH	Fly Me Sweden	Sweden
+	Commodore Aviation	Australia
+	Aerobona	Mexico
+	Mustique Airways	Barbados
+	Star Air	Sierra Leone
+	Golfe Air Quebec	Canada
+	Dynamic Air	Netherlands
+X3	TUI fly Deutschland	Germany
+	Kinnarps	Sweden
+	DayJet	United States
+	Líneas Aéreas Comerciales	Mexico
+	Civil Aviation Authority Airworthiness Division	United Kingdom
+	Leisure Air	United States
+DC	Golden Air	Sweden
+	Aeroservicios Ejecutivos Corporativos	Mexico
+NB	Sterling Airlines	Denmark
+	National Jet Service	United States
+OY	Omni Air International	United States
+	Air Tungaru	Kiribati
+	Aerovista Airlines	Kyrgyzstan
+	United Kingdom Civil Aviation Authority	United Kingdom
+9Y	Fly Georgia	Georgia
+	Lake Havasu Air Service	United States
+0J	Jetclub	Switzerland
+	Donair Flying Club	United Kingdom
+	Kyrgyz Trans Avia	Kyrgyzstan
+	Eximflight	Mexico
+	Air Wings	Moldova
+Y7	NordStar	Russia
+ZP	Amaszonas Paraguay	Paraguay
+	Oriental Air Bridge	Japan
+	Apex Air Cargo	United States
+PL	Aeroperú	Peru
+1U	Google/ITA	United States
+	Air Soleil	Mauritania
+	Airwing	Norway
+5Y	Atlas Air	United States
+E2	Eurowings Europe	Austria
+SA	South African Airways	South Africa
+	Nicaragüense de Aviación	Nicaragua
+	Tigerair  Mandala	Indonesia
+	Servicios Aéreos Corporativos	Mauritania
+	Sundorph Aeronautical Corporation	United States
+	North-East Airlines	Nigeria
+	Aviastar-Tu	Russia
+	Gerry's Dnata	Pakistan
+	Pan Havacilik Ve Ticaret	Turkey
+V8	Iliamna Air Taxi	United States
+NU	Japan Transocean Air	Japan
+EZ	Evergreen International Airlines	United States
+	Panorama	Spain
+	Global Aviation and Services Group	Libya
+	Star Work Sky	Italy
+	Gestair	Spain
+	Business Flight Sweden	Sweden
+	Central Mongolia Airways	Mongolia
+	Natureair	Costa Rica
+	Avia Sud Aérotaxi	France
+	Flightpass Limited	United Kingdom
+SO	Sunshine Airlines
+DV	Nantucket Airlines	United States
+	Sprague Electric Company	United States
+	Natalco Air Lines	São Tomé and Príncipe
+	Crown Air Systems	United States
+	Imair Airlines	Azerbaijan
+	Qeshm Air	Iran
+BH	Hawkair	Canada
+	Vernicos Aviation	Greece
+	Slovak Air Force	Slovakia
+	Canair	China
+	Air Charters Eelde	Netherlands
+	Rolls-Royce plc	United Kingdom
+	Paradigm Air Operators	United States
+HP	America West Airlines	United States
+3Q	KC International Airlines	Cambodia
+B3	Bellview Airlines	Nigeria
+	Kato Airline	Norway
+	Aviaxess	France
+	AJet	Cyprus
+	Deere and Company	United States
+	East Coast Jets	United States
+	Choice Airways	United States
+TO	Transavia  France	France
+8L	Redhill Aviation	United Kingdom
+	Aero Express Intercontinental	Mexico
+OZ	Ozark Air Lines	United States
+	Aerocorporativos	Mexico
+	Falwell Aviation	United States
+	Jet4You	Morocco
+RO	Tarom	Romania
+	SEFA	France
+	Andalusair	Spain
+	Markair	United States
+	General Aviation	Poland
+	McNeely Charter Services	United States
+	Air Nevada	United States
+	Icare Franche Compte	France
+V9	Star1 Airlines	Lithuania
+SM	Aberdeen Airways	United Kingdom
+	EPAG	France
+	Aviones Unidos	Mexico
+	Mauritanienne Airways	Mauritania
+VE	EUjet	Ireland
+	Cirrus Air	United States
+	Kvadro Aero	Kyrgyzstan
+YT	Air Togo	Togo
+	Nigeria Airways	Nigeria
+	Secretaria de Marina	Mexico
+	Sundt Air	Norway
+	Continental Airways	Moldovoa
+NA	North American Airlines	United States
+	Papair Terminal	Haiti
+U6	Ural Airlines	Russia
+8Q	Princess Air
+	Wuhan Airlines	China
+AY	Finnair	Finland
+	Ross Aviation	United States
+	Al Ahram Aviation	Egypt
+	Burkina Airlines	Burkina Faso
+	Probiz Guinee	Guinea
+	HT Helikoptertransport	Sweden
+	Air Transport Service	Democratic Republic of the Congo
+IZ	Arkia Israel Airlines	Israel
+	Servicios Aéreos Poblanos	Mexico
+	Jetall Holdings	Canada
+	Eagle Air	Sierra Leone
+	Fayban Air Services	Nigeria
+ON	Our Airline	Nauru
+R2	Orenburg Airlines	Russia
+	Air Uganda International Ltd.	Uganda
+	Aeroservicios De Nuevo Leon	Mexico
+	L-3 Communications Flight International Aviation	United States
+	NZ Warbirds Association	New Zealand
+	Challenges Aviation	United Kingdom
+	Syncrude Canada	Canada
+	Enterprise World Airways	Democratic Republic of the Congo
+	Elite Air	Togo
+	Air Côte d'Ivoire	Ivory Coast
+	Flight Calibration Services Ltd.	United Kingdom
+MY	Maxjet Airways	United States
+	Fair Wind Air Charter	United Arab Emirates
+	State Unitary Air Enterprise	Russia
+Z2	Philippines AirAsia	Philippines
+	ONE AIR	Spain
+	Aerotranscargo[8]	Moldova
+	Atlantic Coast Jet	United States
+	Aero Link Air Services S.L.	Spain
+	Nahanni Air Services Ltd	Canada
+PR	Philippine Airlines	Philippines
+	Jet-Ops	United Arab Emirates
+	Aerolaguna	Mexico
+	Seven Four Eight Air Services	Luxembourg
+2G	Cargoitalia	Italy
+	Interflight (Learjet)	United Kingdom
+FH	Freebird Airlines	Turkey
+	BCT Aviation	United Kingdom
+	DHL Aero Expreso	Panama
+RK	Royal Khmer Airlines	Cambodia
+L6	Tbilaviamsheni	Georgia
+	Trans Island Airways	Bahamas
+WE	Thai Smile  Airways	Thailand
+M3	Air Service	Macedonia
+O7	OzJet	Australia
+	Avioimpex A.D.p.o.	Macedonia
+	Aviair Aviation Ltd.	Canada
+	Logistic Air	Malaysia
+	Eurocopter	France
+	Phoenix Helicopter Academy	United Kingdom
+	Aviaprom Enterprises	Russia
+	Alamia Air	Libya
+BF	Aero-Service	Republic of the Congo
+	Second Sverdlovsk Air Enterprise	Russia
+	Nile Safaris Aviation	Sudan
+AP	AlbaStar	Spain
+	Styrian Airways	Austria
+	Aguilas Mayas Internacional	Guatemala
+J8	Berjaya Air	Malaysia
+	Aeromover	Mexico
+5Z	Gonini Air Services	Suriname
+	Compañía De Actividades Y Servicios De Aviación	Spain
+	Catex	France
+	Mauritanienne Air Fret	Mauritania
+6U	Air Ukraine	Ukraine
+	Semos	Kazakhstan
+	Arkhangelsk 2 Aviation Division	Russia
+	Aereo WWG	Mexico
+	Aerolínea Muri	Mexico
+	Indonesia Air Transport	Indonesia
+	Polizeihubschrauberstaffel Brandenburg	Germany
+WB	Rwandair Express	Rwanda
+	U.S. Navy Reserve Logistic Air Forces	United States
+	Haitian Aviation Line	Haiti
+	Air Scorpio	Bulgaria
+	Air South West	United Kingdom
+8Z	Wizz Air Bulgaria	Bulgaria
+GR	Gemini Air Cargo	United States
+	Bukovyna	Ukraine
+	Vointeh	Bulgaria
+	Resort Air	United States
+	Parsa	Panama
+	Aerotur Air	Kazakhstan
+	Aliparma	Italy
+2D	Aero VIP	Argentina
+EK	Emirates Airlines	United Arab Emirates
+RB	Air Srpska	Bosnia and Herzegovina
+	Prince Aviation	Serbia
+	Air Aurora	United States
+	Elieuro	Italy
+	Macau Jet International	China
+CO	Continental Airlines	United States
+G8	Air Service Gabon	Gabon
+	Xstrata Nickel (Raglan Mine)	Canada
+	Sky Helicopteros	Spain
+	Sistemas Aeronauuticos 2000	Mexico
+	Aviodetachment-28	Bulgaria
+	Aero Servicios Empresariales	Mexico
+	Business Flight Salzburg	Austria
+	Carga Aérea Dominicana	Dominican Republic
+	Aerolima	Mexico
+KC	Air Astana	Kazakhstan
+	Nas Air	Angola
+	Western Express Air Lines	Canada
+	Air Montreal (Air Holdings Inc.)	Canada
+	Air Cargo Express	United States
+	ScotAirways	United Kingdom
+4S	Finalair Congo	Republic of the Congo
+DL	Delta Air Lines	United States
+	Special Scope Limited	United Kingdom
+Y8	Yangtze River Express	China
+	Deadalos Flugtbetriebs	Austria
+	Aviones Para Servirle	Mexico
+	Alexandair	Canada
+	Jetairfly	Belgium
+W2	Canadian Western Airlines	Canada
+	Pete Air	Thailand
+	African Business and Transportations	Democratic Republic of the Congo
+	Aero Control Air	Canada
+	Vibroair Flugservice	Germany
+	Antares Airtransport, Maintenance & Service GmbH	Germany
+	Aerogem Cargo	Ghana
+	Aeroventas de Mexico	Mexico
+CU	Cubana de Aviación	Cuba
+	Metropix UK	United Kingdom
+	Nexus Aviation	Nigeria
+	Personas Y Pasquetes Por Air	Mexico
+	Petro Air	Libya
+	Carga Express Internacional	Mexico
+	Excel Charter	United Kingdom
+	Aero Servicios Vanguardia	Mexico
+K4	Kalitta Air	United States
+OK	Czech Airlines	Czech Republic
+	Air Kokshetau	Kazakhstan
+	Air Consul	Spain
+XO	China Xinhua Airlines	China
+	Servicios Aéreos La Marquesa	Mexico
+	Potosina Del Aire	Mexico
+	Líneas Aéreas Alaire S.L.	Spain
+VZ	Thai  Vietjet Air	Thailand
+	Alfa Airlines	Sudan
+RZ	Euro Exec Express	Sweden
+9I	Air India Regional	India
+	Ukrainian State Air Traffic Service Enterprise	Ukraine
+AK	AirAsia	Malaysia
+	Americ Air	United States
+	Real Aero Club De Baleares	Spain
+	Turkish Aerospace Industries	Turkey
+	Parcel Express	United States
+Z7*	ADC Airlines	Nigeria
+	Copper State Air Service	United States
+US	US Airways	United States
+CO	Continental Express	United States
+	Magic Blue Airlines	Netherlands
+	United Aviation	Kuwait
+	Union Flights	United States
+	Airmark Aviation	Thailand
+	Antonov Airlines	Ukraine
+1Z	Sabre Pacific	Australia
+	Air Parabet	Bangladesh
+	Voar Lda	Angola
+	C N Air	Spain
+	Diamond Aviation	United States
+RV*	Africaone	The Gambia
+VF	Valuair	Singapore
+	Eagle International	Senegal
+	Aerotransportes Corporativos	Mexico
+	Aeroel Airways	Israel
+	Balear Express	Spain
+	Pacific Air Boats	Canada
+	Whyalla Airlines	Australia
+	Argosy Airways	United States
+	Sunset Aviation, LLC	United States
+WA	KLM Cityhopper	Netherlands
+	Centrafrican Airlines	Central African Republic
+WP	Air Antwerp	Belgium
+	GPM Aeroservicio	Mexico
+	Aeriantur-M	Moldova
+	Chippewa Air Commuter	United States
+XF	Vladivostok Air	Russia
+	St. Andrews Airways	Canada
+	Herman's Markair Express	United States
+	TAF-Linhas Aéreas	Brazil
+	Nederlandse Kustwacht	Netherlands
+	Aero Dynamics	United States
+	Sky Europe Airlines	Slovakia
+	Business Aviators	United States
+	Associated Aviation	Nigeria
+	Dorado Air	Dominican Republic
+CX	Cathay Pacific	Hong Kong
+	Astro Air International	Philippines
+	Florida Department of Agriculture	United States
+	Skystar International	United States
+	Malila Airlift	Democratic Republic of the Congo
+3G	Atlant-Soyuz Airlines	Russia
+FG	Ariana Afghan Airlines	Afghanistan
+	Sonair Servico Aéreo	Angola
+	Aviation Services, Inc.	United States
+	Trans Sahara Air	Nigeria
+L7	Laoag International Airlines	Philippines
+	Brazilian Air Force	Brazil
+	Norrlandsflyg	Sweden
+ZI	Aigle Azur	France
+	AMP Incorporated	United States
+	High-Line Airways	Canada
+	Avia Air N.V.	Aruba
+	New World Jet Corporation	United States
+	Skyward Aviation	Canada
+	Nyasa Express	Malawi
+	North Atlantic Cargo	Norway
+	Heli Trip	Mexico
+HC	Aero-Tropics Air Services	Australia
+	Skyfreight	United States
+	Jetfly Aviation	Luxembourg
+	Priester Aviation	United States
+	Air-Angol	Angola
+TE	Skytaxi	Poland
+	Aerovías DAP	Chile
+	Air Service Center	Italy
+	Aie Experience Flight	United Kingdom
+	Police Aux Frontières	France
+	GST Aero Aircompany	Kazakhstan
+	Indian Air Force	India
+	Operational Aviation Services	Australia
+ET	Ethiopian Airlines	Ethiopia
+BO	BB Airways	Nepal
+	Wapiti Aviation	Canada
+KO	Alaska Central Express	United States
+	Slovenian Armed Forces	Slovenia
+	Chim-Nir Aviation	Israel
+	Providence Airline	United States
+	Don Avia	Kazakhstan
+BV	Blue Panorama Airlines	Italy
+	Misr Overseas Airways	Egypt
+WH	China Northwest Airlines	China
+	Rocky Mountain Airways	United States
+	Ontario Ministry of Health	Canada
+	Kiwi Regional Airlines	New Zealand
+	Air Illinois	United States
+	Weasua Air Transport Company	Liberia
+DW	Aero-Charter Ukraine	Ukraine
+	Master Planner	United States
+	Servicios Aereos Especializados Destina	Mexico
+	Czech Air Handling	Czech Republic
+HV	Transavia Holland	Netherlands
+	Island Helicopters	United States
+	Aero Costa Taxi Aéreo	Mexico
+	F Air	Czech Republic
+	Orient Air	Syrian Arab Republic
+BR	EVA Air	Taiwan
+	El Caminante Taxi Aéreo	Mexico
+	Island Air Express	United States
+	Aerotaxi del Cabo	Mexico
+	J P Hunt Air Carriers	United States
+	Sabang Merauke Raya Air Charter	Indonesia
+PJ	Air Saint Pierre	France
+	Aeropuelche	Chile
+JX	Jett8 Airlines Cargo	Singapore
+YI	Air Sunshine	United States
+8O	West Coast Air	Canada
+	Adro Servicios Aereos	Mexico
+MO	Calm Air	Canada
+	Afit	Germany
+	Butte Aviation	United States
+	Jets Ejecutivos	Mexico
+TY	Air Calédonie	France
+	Aviance UK	United Kingdom
+ZU	Helios Airways	Cyprus
+	Aero Norte	Mexico
+VA	Viasa	Venezuela
+	Angola Air Charter	Angola
+	Jung Sky	Croatia
+	XOJet	United States
+	Corporate Flight International	United States
+	Regent Air	Canada
+	Orange Air Services	Sierra Leone
+	Tropair Airservices	United Kingdom
+	Blu Halkin	United Kingdom
+ID	Interlink Airlines	South Africa
+	Airest	Estonia
+	Cabi	Ukraine
+	Air Intersalonika	Greece
+	Industrias Titan	Spain
+	Sierra Pacific Airlines	United States
+	Raven Air	United States
+	Uniworld Air Cargo	Panama
+	Servicios Aéreos Copters	Chile
+	ASECNA	France
+	Senair Services	Senegal
+ML	African Transport Trading and Investment Company	Sudan
+	Heliportugal	Portugal
+SG	JetsGo	Canada
+	Nada Air Service	Chad
+1I	Pegasus Hava Tasimaciligi	Turkey
+HP	Hawaiian Pacific Airlines	United States
+YM	Montenegro Airlines	Montenegro
+	Commander Mexicana	Mexico
+	Bear Flight	Sweden
+	Lao Capricorn Air	Lao People's Democratic Republic
+TB	TUI  fly Belgium	Belgium
+	New Heights 291	South Africa
+	Royal Navy	United Kingdom
+	Pannon Air Service	Hungary
+	Africa Freight Services	Zambia
+2O	Air Salone	Sierra Leone
+	Roswell Airlines	United States
+	International Jet Charter	United States
+8M	Myanmar Airways International	Myanmar
+	Sunset Aviation	United States
+	Rio Airways	United States
+	Patriot Aviation Limited	United Kingdom
+	Aero Rent JSC	Russia
+	Southern Ohio Aviation Sales	United States
+	Aeromilenio	Mexico
+	ABC Air Hungary	Hungary
+	Raya Jet	Jordan
+	UK Royal/HRH Duke of York	United Kingdom
+	Air Ambar	Dominican Republic
+	Gama Aviation Switzerland	Switzerland
+	Aerocredo	Russia
+	Vozdushnaya Academy	Kazakhstan
+	Jetfly Airlines	Austria
+	Sky Aircraft Service	Netherlands
+	Summit Air	Canada
+	Sun Air Aviation Services	Canada
+	Transportes  Aéreos Don Carlos	Chile
+	West Coast Airlines	Ghana
+	University of North Dakota	United States
+	Aero Taxi del Centro de Mexico	Mexico
+KD	Air Enterprise	France
+	Servicios Aeronáuticos De Oriente	Mexico
+	Synergy Aviation	United Kingdom
+GV	Grant Aviation	United States
+3K	Jetstar Asia Airways	Singapore
+	Conair Aviation	Canada
+	Skargardshavets Helikoptertjanst	Finland
+	Azza Transport	Sudan
+UG	Tuninter	Tunisia
+	Colibri Aviation	Canada
+	Orel State Air Enterprise	Russia
+	Raslan Air Service	Egypt
+	Surf Air	United States
+	Gulf Central Airlines	United States
+MQ	American Eagle Airlines	United States
+	Nova Scotia Department of Lands and Forests	Canada
+	Steinman Aviation	United States
+	Nanjing Airlines	China
+	Stars Away Aviation	South Africa
+F6	FaroeJet	Faroe Islands
+	Nationwide Airlines (Zambia)	Zambia
+	Travel Air	United States
+	Aero-North Aviation Services	Canada
+	Northern Illinois Commuter	United States
+	ADC Airways	Lebanon
+	Surinam International Victory Airline	Suriname
+	Victoria International Airways	Uganda
+ID	Batik Air	Indonesia
+	University Air Squadron	United Kingdom
+	Azimut, S.A.	Spain
+	Skif-Air	Ukraine
+H5	Hola Airlines	Spain
+	Mississippi Valley Airways	United States
+	Maximum Flight Advantages	United States
+	Bond Air Services	United Kingdom
+	Aerolíneas Ejecutivas	Mexico
+	Aero Jet International	United States
+	Fly CI Limited	United Kingdom
+	Ulyanovsk Higher Civil Aviation School	Russia
+	DFS UK Limited	United Kingdom
+	Polizeihubschrauberstaffel Sachsen	Germany
+	Kingston Air Services	Canada
+	Aero Internacional	Mexico
+	ATA Brasil	Brazil
+	Metro Express	United States
+9R	Phuket Air	Thailand
+	Warwickshire Aerocentre Ltd.	United Kingdom
+	Haiti International Airline	Haiti
+	LAP Colombia - Líneas Aéreas Petroleras, S.A.	Colombia
+	Austin Express	United States
+	RG Aviation	Venezuela
+	Fly Line	Spain
+	Direct Air trading as Midway Connection	United States
+	Tennessee Air National Guard 164th  Airlift Group	United States
+	Aero Comondu	Mexico
+3V	TNT  Airways	Belgium
+	Air Schefferville, Inc.	Canada
+	Flight Dispatch Services	Poland
+ZX	Air Georgian	Canada
+	Mantrust Asahi Airways	Indonesia
+	Northern Aviation Service	Thailand
+	ICC Canada	Canada
+	United Kingdom Royal VIP Flights	United Kingdom
+	Guinee Paramount Airlines	Guinea
+	Air Tractor	Croatia
+	Golden Pacific Airlines	United States
+	Aviazur	France
+	Danu Oro Transportas	Lithuania
+	Thunderbird Tours	Canada
+	Societe De Transport Aerien De Mauritanie	Mauritania
+	Dubrovnik Air	Croatia
+	Zorex	Spain
+MW	Mokulele Airlines	United States
+	Pecotox Air	Moldova
+	Grand Canyon Airlines	United States
+	Avcon Jet	Austria
+8B	Caribbean Star Airlines	Antigua and Barbuda
+Q8	Pacific East Asia Cargo Airlines	Philippines
+	Aeroworld Pakistan	Pakistan
+	Universal Jet Aviation	United States
+	West Coast Charters	United States
+5Z	Bismillah Airlines	Bangladesh
+	FLM Aviation Mohrdieck	Germany
+	British Petroleum Exploration	Colombia
+8P	Pacific Coastal Airlines	Canada
+	Search and Rescue 22	United Kingdom
+	Reeve Aleutian Airways	United States
+UZ	El-Buraq Air Transport	Libya
+A2	Animawings	Romania
+N9	Shree Airlines	Nepal
+	Jetex Aviation	Lebanon
+SR	Sundair	Germany
+N4	Mountain Air Company	Sierra Leone
+JT	Lion Air	Indonesia
+	Commercial Aviation	Canada
+	PDQ Air Charter	United States
+Q4	Starlink Aviation	Canada
+	Libyan Arab Air Cargo	Libya
+	Flightcraft	United States
+	Eurojet Romania	Romania
+	Charlan Air Charter	South Africa
+	Aero McFly	Mexico
+	Paragon Global Flight Support	United Kingdom
+	Lund University School of Aviation	Sweden
+	Lanza Air	Spain
+G7	Gandalf Airlines	Italy
+	Des R Cargo Express	Mauritania
+	Flycolumbia	Spain
+	Transcarga Intl Airways	Venezuela
+LV	Level	Spain and France
+2H	Thalys	Belgium
+	Servicios Aéreos Latinoamericanos	Mexico
+	Northumbria Helicopters	United Kingdom
+V8	ATRAN Cargo Airlines	Russian Federation
+WI	Aero Air	United States
+	Specsavers Aviation	United Kingdom
+	Direct Air	United States
+	Skyline	Nigeria
+	Farnair Hungary	Hungary
+	Air One Nine	Libya
+	OSACOM	United States
+TJ	Tradewind Aviation	United States
+	Air Alpha	United States
+	Nigerian Air Force	Nigeria
+6P	Club Air	Italy
+	Aerosur Paraguay	Paraguay
+LH	Lufthansa Cargo	Germany
+	Compania Mexicana De Aeroplanos	Mexico
+	Gum Air	Suriname
+	Afrika Aviation Handlers	Kenya
+	Zhersu Avia	Kazakhstan
+	Master Airways	Serbia
+	Namibian Defence Force	Namibia
+	Royal Air Force	United Kingdom
+	Jetcorp	United States
+	Atlas Helicopters	United Kingdom
+5F	Fly One	Moldova
+RL	Rio Linhas Aéreas	Brazil
+	Great Plains Airlines	United States
+	Air Muskoka	Canada
+AH	Air Algérie	Algeria
+	Westland Helicopters	United Kingdom
+	Transwede Airways	Sweden
+B8	Eritrean Airlines	Eritrea
+	Corporacion Aeroangeles	Mexico
+	Aeroservicios Dinamicos	Mexico
+HB	Harbor Airlines	United States
+6V	Air Vegas	United States
+	Air Jetsul	Portugal
+9I	Helitrans	Norway
+	Altus Airlines	United States
+	Eastern Carolina Aviation	United States
+7C	Coyne Aviation	United Kingdom
+	Fujairah Aviation Centre	United Arab Emirates
+NY	Air Iceland	Iceland
+JK	Spanair	Spain
+	Sky Exec Aviation Services	Nigeria
+	Aermarche	Italy
+	Kyrgz General Aviation	Kyrgyzstan
+VO	Tyrolean  Airways	Austria
+	Woodgate Aviation	United Kingdom
+	Orion-x	Russia
+	Crelam	Mexico
+WK	American Falcon	Argentina
+	South African Express	South Africa
+	South Carolina Aeronautics Commission	United States
+	British World Airlines	United Kingdom
+	Morningstar Air Express	Canada
+	Peach Aviation	Japan
+	Vichi	Moldova
+	United Air Charters	Zimbabwe
+U5	USA3000 Airlines	United States
+	Trans Reco	Mauritania
+GT	GB Airways	United Kingdom
+	Phoenix Air Lines	Brazil
+	Air Fret De Mauritanie	Mauritania
+	XL Airways Germany	Germany
+	Air Tahoma	United States
+	Precision Airlines	United States
+	Air LA	United States
+	West Freugh DTEO	United Kingdom
+	France Douanes	France
+	Blue Wing Airlines	Suriname
+	Nuevo Horizonte Internacional	Mexico
+	Chantilly Air	United States
+	Jet Norte	Mexico
+7N	PAWA Dominicana	Dominican Republic
+	Euro-Asia Air	Kazakhstan
+	Pilatus PC-12 Center De Mexico	Mexico
+M6	Amerijet International	United States
+	Tex Star Air Freight	United States
+HW	Hello	Switzerland
+	Iona National Airways	Ireland
+	Ukraine Air Alliance	Ukraine
+	Springbank Aviation	Canada
+YT	Yeti Airlines	Nepal
+	Katekavia	Russia
+	Parsons Airways Northern	Canada
+	Olympic Aviation	Greece
+	Artem-Avia	Ukraine
+E5	Samara Airlines	Russia
+	Penya De L'Aire	Spain
+	Smalandsflyg	Sweden
+V5	Royal Aruban Airlines	Aruba
+S5	Small Planet Airlines	Lithuania
+T5	Turkmenhovayollary	Turkmenistan
+D8	Norwegian Air Sweden	Sweden
+	Sky Aviation	Sierra Leone
+	Teebah  Airlines	Sierra Leone
+	Trans Sayegh  Airport Services	Lebanon
+	Financial Airxpress	United States
+8V	Astral Aviation	Kenya
+	Veca Airlines	El Salvador
+	Qatar Executive	Qatar
+	Air Meridan	Nigeria
+	Lignes Aeriennes Congolaises	Democratic Republic of the Congo
+	Miami Valley Aviation	United States
+	Eagle Aero	United States
+	Caverton Helicopters	Nigeria
+2B	Albawings	Albania
+	Association of Private Pilots of Kazakhstan	Kazakhstan
+	Air Routing International Corp.	United States
+	Jetmagic	Malta
+	Elipiu'	Italy
+	Neosiam Airways	Thailand
+VD	Air Liberté	France
+	Aerobusinessservice	Russia
+U7	Air Uganda	Uganda
+L8	Air Luxor GB	Guinea-Bissau
+	Rutland Aviation	United Kingdom
+	Transarabian  Transportation Services	Uganda
+GG	Air Comores International	Comoros
+	Alok Air	Sudan
+	Haiti Air Freight	Haiti
+	DAT Enterprise Limited	United Kingdom
+	Advance Air Luftfahrtgesellschaft	Germany
+	Silver Air	Czech Republic
+	Lebap	Turkmenistan
+JM	Jetstar Hong Kong Airways	China
+	Libyan Wings	Libya
+	Aerolínea de Antioquia	Colombia
+	Trans Continental Airlines	United States
+	Aeronavigaciya	Ukraine
+	India International Airways	India
+	Angkasa Super Service	Indonesia
+	Aeroatlas, S.A.	Colombia
+	Butane Buzzard Aviation Corporation	United Kingdom
+	Transnorthern	United States
+A2	Astra Airlines	Greece
+	Key Lime Air	United States
+	Miller Flying Services	United States
+	Airways International, Inc.	United States
+I9	Indigo Airlines	United States
+Y2	Alliance Air	Uganda
+	CEDTA (Compañía Ecuatoriana De Transportes Aéreos)	Ecuador
+	Altair Aviation (1986)	Canada
+	Transaustralian Air  Express	Australia
+NN	VIM Airlines	Russia
+	Dixie Airways	United States
+	Taxirey	Mexico
+	Aeronautical Academy of Europe	Portugal
+	Skyraidybos Mokymo Centras	Lithuania
+	Eastern Express	Kazakhstan
+	Delta Air Charter	Canada
+	Merchant Express Aviation	Nigeria
+	Action Air	Italy
+	Aero Citro	Mexico
+	Transportes  Aéreos Sierra Madre	Mexico
+	Keenair Charter -	United Kingdom
+	Eurojet Italia	Italy
+	Aero Copter	Mexico
+2M	Moldavian Airlines	Moldova
+	Cancun Air	Mexico
+OB	Boliviana de Aviación	Bolivia
+	Orange Aircraft Leasing	Netherlands
+OA	Olympic Air	Greece
+K6	Angkor Air	Cambodia
+	Delta Engineering Aviation	United Kingdom
+	Casper Air Service	United States
+	WaltAir	Sweden
+4O	Interjet	Mexico
+	Algoma Airways	Canada
+	Coulson Flying Service	United Kingdom
+	223rd Flight Unit	Russia
+C5	CommutAir	United States
+	Augusta Air Luftfahrtunternehmen	Germany
+	Global Aviation Operations	South Africa
+	TA-Air Airline	Iran
+	Aerovías De Lagos	Mexico
+	Mex Blue	Mexico
+	Air Traffic GmbH	Germany
+R3	Aircompany Yakutia	Russia
+	APA Internacional	Dominican Republic
+	Skycraft	United States
+	Shanghai Airlines Cargo	China
+	Balkan Agro Aviation	Bulgaria
+IN	MAT Macedonian Airlines	Macedonia
+	Royal West Airlines	United States
+	Industri Pesawat Terbang Nusantara	Indonesia
+RS	Intercontinental de Aviación	Colombia
+	Raleigh Flying Service	United States
+UJ	Al Masria Universal Airlines	Egypt
+	Aeroflota Del Noroeste	Spain
+4G*	Advance Leasing Company	United States
+UA	United Airlines	United States
+	Danaus Lineas Aereas	Mexico
+F7	Flybaboo	Switzerland
+	Nunasi-Central Airlines	Canada
+	Southern Illinois University as "Aviation Flight"	United States
+	Transcorp Airways	United Kingdom
+	Polizeihubschrauberstaffel Sachsen-Anhalt	Germany
+	Vistajet	Malta
+BO	Bouraq Indonesia Airlines	Indonesia
+	Iconair	Pakistan
+	Lauda Air Italy	Italy
+	USAF 100th Air Refueling Wing	United States
+RC	Republic Airlines	United States
+	Institut Cartogràfic de Catalunya	Spain
+BA	British Airways	United Kingdom
+	Royal Air Force	United Kingdom
+	Air-Watania	Iraq
+	Federal Armed Forces	Germany
+	Twinjet Aircraft Sales	United Kingdom
+PQ	SkyUp	Ukraine
+	Williams Grand Prix Engineering	United Kingdom
+	Ducair	Luxembourg
+5F	Arctic Circle Air Service	United States
+VH	Aeropostal Alas de Venezuela	Venezuela
+	Air Dorval	Canada
+	Skyrover CC	South Africa
+	Alfa 4	Mexico
+	Chanchangi Airlines	Nigeria
+	Layang-Layang Aerospace	Malaysia
+	Kustbevakningen	Sweden
+	Aerolíneas Del Oeste	Mexico
+	RAF Cranwell	United Kingdom
+	Journey Aviation	United States
+	TRADO	Dominican Republic
+	Bali International Air Service	Indonesia
+	Vuelos Especializados Tollocan	Mexico
+	Oman Royal Flight	Oman
+8F	Fischer Air	Czech Republic
+	Malagasy Airlines	Madagascar
+FF	Airshop	Netherlands
+	Kaz Agros Avia	Kazakhstan
+	German Army	Germany
+	Aeronáutica	Angola
+WT	Wasaya Airways	Canada
+	Aviacion Corporativa de Peubla	Mexico
+	Dutch Caribbean Express	Netherlands Antilles
+	Tayflite	United Kingdom
+	Flexflight	Denmark
+	Region Air	Canada
+	British Charter	United Kingdom
+	COWI	Denmark
+RS	Royal Air Force of Oman	Oman
+	Airline Skol	Russia
+	Arizona Airways, Inc.	United States
+	Air Evex	Germany
+	Mudan Airlines	Somali Republic
+XG	Sunexpress Deutschland	Germany
+	Empire Test Pilots' School	United Kingdom
+	Bristow Masayu Helicopters	Indonesia
+	Salama Airlines Nigeria	Nigeria
+	Blue Nile Ethiopia Trading	Ethiopia
+	Embry-Riddle Aeronautical University	United States
+HC	Holidays Czech Airlines	Czech Republic
+	TEAM Linhas Aéreas	Brazil
+	Air Experience Flight, Cranwell	United Kingdom
+	COAPA AIR	Mexico
+	Mudanjiang General Aviation	China
+F4	Albarka Air	Nigeria
+	Podilia-Avia	Ukraine
+GV	Aero Flight	Germany
+	China Flying Dragon Aviation	China
+	ACA-Ancargo Air Sociedade de Transporte de Carga Lda	Angola
+	Wimbi Dira Airways	Democratic Republic of Congo
+	Zagros Airlines	Iran
+	Norlandair	Iceland
+	Líneas Aéreas Eldorado	Colombia
+K5	SeaPort Airlines	United States
+	Island Wings	Bahamas
+GJ	Compania Mexicargo	Mexico
+	Zoom Airways	Bangladesh
+	Aerodinamica de Monterrey	Mexico
+	Helicopteros Aero Personal	Mexico
+KW	Wataniya Airways	Kuwait
+SK	SAS Braathens	Norway
+	Flight International	United States
+	Servicios de Taxi Aereos	Mexico
+	Aero 1 Pro-Jet	Canada
+	Cityfly	Italy
+	Air Charter Express	Ghana
+	Belgavia	Belgium
+	Nine Star Airways	Thailand
+	Aria Tour	Iran
+	Cooper Aerial Surveys	United Kingdom
+	Aerodin	Mexico
+	Streamline Ops	Russia
+	Midland Airport Services	United Kingdom
+7S	Ryan Air Services	United States
+	Heli Hungary	Hungary
+TM	Linhas Aéreas de Moçambique	Mozambique
+	Aero Virel	Mexico
+	Aerovitro	Mexico
+	Hungarian Air Force	Hungary
+	Aerotaxis del Noroeste	Mexico
+	West African Cargo Airlines	Mauritania
+	Medical Aviation Services	United Kingdom
+	Infinit Air	Spain
+	Ratkhan Air	Kazakhstan
+RV	Air Canada Rouge	Canada
+LN	Libyan Arab Airlines	Libya
+	Lebanon Airport Development Corporation	United States
+	Damascene Airways	Syrian Arab Republic
+	Sport Air Travel	United States
+U4	Buddha Air	Nepal
+	Trifly	United States
+EM*	Aero Benin	Benin
+6I	International Business Air	Sweden
+	Heliamerica De Mexico	Mexico
+	Aero Ermes	Mexico
+	Aerodynamics Incorporated	United States
+	Arhabaev Tourism Airlines	Kazakhstan
+	Mombasa Air Safari	Kenya
+	United Aviation Services	Spain
+	Trans-Kiev	Ukraine
+	Gulf African Airlines	The Gambia
+	New Japan Aviation	Japan
+JW	Arrow Air	United States
+	Air Amder	Mauritania
+	Air Volta	Bulgaria
+	Worldwide Aviation Services	Pakistan
+	Midstate Airlines	United States
+	Jet Test Intl.	United States
+	Air-Lift Associates	United States
+L3	DHL de Guatemala	Guatemala
+	Carib Express	Barbados
+	Yakolev	Russia
+SJ	Freedom Air	New Zealand
+	EU Airways	Ireland
+	Samar Air	Tajikistan
+	Cityair (Chester) Limited	United Kingdom
+	Aero-Pyrenees	France
+	Rivne Universal Avia	Ukraine
+	Eclair Aviation	Czech Republic
+	Rodze Air	Nigeria
+	Citylink Airlines	United States
+SG	Spicejet	India
+CQ	Sunshine Express Airlines	Australia
+	Compania Ejecutiva	Mexico
+	Streamline	South Africa
+	Labrador Airways	Canada
+	LANSA	Dominican Republic
+GS	Tianjin  Airlines	China
+	Sun Quest Executive Air Charter	United States
+	Millon Express	United States
+2J	Air Burkina	Burkina Faso
+	Inter Air	Bulgaria
+	Ramp 66	United States
+	Hemus Air	Bulgaria
+	Samgau	Kazakhstan
+	South East Asian Airlines	Philippines
+	Tuna Aero	Sweden
+0V	Vietnam Air Services Company (VASCO)	Vietnam
+	Transport  Canada	Canada
+	Bissau Aero Transporte	Guinea-Bissau
+	Peninter Aérea	Mexico
+HE	German Airways	Germany
+	Aero Transportes Empresariales	Mexico
+	Transmandu	Venezuela
+	Transportación  Aérea Del Mar De Cortés	Mexico
+	Aviacon Zitotrans Air Company	Russia
+	Pratt and Whitney Canada	Canada
+	Air Memphis	Uganda
+	Flight-Ops International	Canada
+	Island Airlines	United States
+	CSA Air	United States
+R3	Armenian Airlines	Armenia
+	Air Jamahiriya Company	Libya
+	Isles of Scilly Skybus	United Kingdom
+	Servisair	United Kingdom
+	Westpoint Air	Canada
+	International Stabilisation Assistance Force	United Kingdom
+	Anikay Air Company	Kyrgyzstan
+	Aeromarket Express	Spain
+	Silvair	United States
+C7	Rico Linhas Aéreas	Brazil
+	Columbia Helicopters	United States
+	Vostok Airlines	Russia
+	Aero Taxi del Potosi	Mexico
+	Caribbean Express	United States
+Y5	Pace Airlines	United States
+	San Carlos Flight Center	United States
+	Aerogaucho	Uruguay
+	Jetflite	Finland
+BB	Seaborne Airlines	United States
+	Euroceltic Airways	United Kingdom
+TZ	Tsaradia	Madagascar
+	Kahama Mining Corporation	Tanzania
+	Air Rum	Sierra Leone
+	FundaciÃ³ Rego	Spain
+	Mid-Pacific Airlines	United States
+	Appalachian Flying Service, Inc.	United States
+	Aerolíneas Uruguayas, S.A.	Uruguay
+	Worldwide Jet Charter	United States
+	Natural Environment Research Council	United Kingdom
+	Canadian Coast Guard	Canada
+G4	Allegiant Air	United States
+	Ivoire Airways	Ivory Coast
+	JDAviation	United Kingdom
+	Alpha Star Charter	Saudi Arabia
+	Greek Navy	Greece
+1E	Travelsky Technology	China
+	Komsomolsk-on-Amur Air Enterprise	Russia
+	Gendall Air	Canada
+	Peach Air	United Kingdom
+	Aviavilsa	Lithuania
+	Didier Rousset Buy	Chile
+	Seulawah Nad Air	Indonesia
+	McDonnell Douglas	United States
+	First Sabre	Mexico
+	Paccair	United States
+	Advance Aviation Services	United States
+	Midwest Helicopters De Mexico	Mexico
+ED	AirExplore	Slovakia
+	Police Aviation Services	United Kingdom
+QE	Crossair Europe	Switzerland
+	Hamlin Jet	United Kingdom
+	Airpac, Inc.	United States
+PN	West Air (China)	China
+	Foxair	Italy
+	Philips Aviation Services	Netherlands
+	Sky Tours	United States
+EY	Etihad Airways	United Arab Emirates
+	Jetlink Express	Kenya
+	Tauranga Aer Club	New Zealand
+	RAF Valley SAR Training Unit	United Kingdom
+1C	Electronic Data Systems	Switzerland
+	Arca Aerovías Colombianas Ltda.	Colombia
+	Trans-Air Services	Nigeria
+FY	Firefly	Malaysia
+	Aerobanana	Mexico
+	Big Island Air	United States
+PI	Sol del Paraguay	Paraguay
+	Gobierno De Guinea Ecuatorial	Equatorial Guinea
+	Aerolíneas Bonanza	Mexico
+	African Star Airways (PTY) Ltd.	South Africa
+	Belle Air	Albania
+V0	Conviasa	Venezuela
+	Aero Gen	Mexico
+	DERA Boscombe Down	United Kingdom
+Z5	GMG Airlines	Bangladesh
+	Ocean Sky UK	United Kingdom
+	Aero Tonala	Mexico
+K8	Airlink Zambia	Zambia
+	Air Evans	Spain
+	Avanti Air	Germany
+	Clay Lacy Aviation	United States
+2A	Deutsche Bahn	Germany
+	Okay Airways	China
+	Jim Ratliff Air Service	United States
+AD	Air Paradise International	Indonesia
+	Aerotours Dominicana	Dominican Republic
+GP	Palau Trans Pacific Airlines	Palau
+	Aeroeste	Bolivia
+	Chilcotin Caribou Aviation	Canada
+F9	Frontier Airlines	United States
+IP	One Airlines	Chile
+PZ	LATAM Paraguay	Paraguay
+	Dassault Falcon Service	France
+	D & D Aviation	United States
+DX	DAT Danish Air Transport	Denmark
+V4	Reem Air	Kyrgyzstan
+	Gain Jet Aviation	Greece
+R6	RACSA	Guatemala
+	Sunbird Airlines	United States
+	Ostend Air College	Belgium
+	Aerotime	United Kingdom
+	Transporte Ejecutivo  Aéreo	Mexico
+	Fayetteville Flying Service and Scheduled Skyways System	United States
+	Alberta Citylink	Canada
+QF	Qantas	Australia
+	COMAV	Namibia
+	Church Aircraft	United States
+	BMW	Germany
+6A	Aviacsa	Mexico
+L5	Lufttransport	Norway
+	Inter-Island Air	United States
+	RAF Valley Flying Training Unit	United Kingdom
+	Genex	Belarus
+IG	Air Italy	Italy
+	Pan Europeenne Air Service	France
+	Zambia Skyways	Zambia
+	Lydd Air	United Kingdom
+	Air Gemini	Angola
+	STA-MALI	Mali
+	Pen-Avia	United Kingdom
+	3D Aviation	United States
+	Air Guam	United States
+JP	Adria Airways	Slovenia
+	US Marshals Service	United States
+	Arab Agricultural Aviation Company	Egypt
+	Massachusetts Institute of Technology	United States
+	Jota Aviation	United Kingdom
+	Southeast Express Airlines	United States
+	Bradly Air (Charter) Services	Canada
+	Yakolev	Russia
+E3	Sabaidee Airways	Thailand
+V3	Carpatair	Romania
+	Air Charter Scotland	United Kingdom
+	DF Aviation	Ukraine
+	Interaviation Charter	Romania
+	Heliocean	France
+	Royal Netherlands Air Force	Netherlands
+	Swift Copters	Switzerland
+	Aeroatlantico Colombia	Colombia
+	Skyjet	Kazakhstan
+D8	Norwegian Air International (Norway)	Norway
+8C	Shanxi Airlines	China
+PT	Capital Cargo International Airlines	United States
+	Guinea Airways	Guinea
+	Spiracha Aviation	Thailand
+	M & N Aviation	United States
+	Express Tours	Canada
+	Compania Helicopteros Del Sureste	Spain
+	Universal Avia	Ukraine
+	Ray Aviation	Israel
+	Afrique CArgo Service Senegal	Senegal
+	Airvallee	Italy
+	CAVOK Airlines	Ukraine
+	Krym	Ukraine
+	Office Federal De'Aviation Civile	Switzerland
+	Trans  International Express Aviation	United States
+	Space World Airline	Nigeria
+	Cecil Aviation	United Kingdom
+	Air Klaipėda	Lithuania
+WK	Edelweiss Air	Switzerland
+	Compagnie Mauritanienne Des Transports	Mauritania
+	Agrolet-Mci	Slovakia
+	Time Air	Czech Republic
+	Air Solutions	United States
+	Metrojet	Hong Kong
+	H-Bird Aviation Services AB	Sweden
+GL	Air Greenland	Greenland  Denmark
+	Avstar Aviation	South Africa
+	Nanyah Aviation	Israel
+FP	FlyPelican	Australia
+	Trans Jet Airways	Sweden
+	Aerohelicopteros	Venezuela
+	Airfast Indonesia	Indonesia
+	Aero Ejecutivo	Mexico
+DI	Dba	Germany
+	Jet Executive International Charter	Germany
+	BAC Leasing Limited	United Kingdom
+	United Feeder Service	United States
+	Hughes Aircraft Company	United States
+	Airservices Australia	Australia
+	Audeli Air	Spain
+	Farnair Netherlands	Netherlands
+	Southern Right Air Charter	South Africa
+BQ	Baltia Air Lines	United States
+	Blue Bird Aviation	Sudan
+	Transport Africa	Sierra Leone
+	Windward Islands Airways International	Netherlands
+	Gemini Air Group	United States
+	Aviation Beauport	United Kingdom
+	AllCanada Express	Canada
+	Volare Air Charter Company	United States
+	Empresa Aero-Servicios Parrague	Chile
+	Sabre Incorporated	United States
+	Aerolíneas Ejecutivas Tarascas	Mexico
+	Royal Malaysian Air Force	Malaysia
+	British Gulf International	São Tomé and Príncipe
+	Travel  International Air Charters	Zambia
+XT	Air Exel	Netherlands
+	Spectrum Aviation Incorporated	United Kingdom
+	Quick Airways Holland	Netherlands
+	Abaeté Linhas Aéreas	Brazil
+	AMS Group	Russia
+	JHM Cargo Expreso	Costa Rica
+N7	National Airlines	United States
+AK	Air Bridge Carriers	United Kingdom
+ES	DHL International	Bahrain
+WR	Royal Tongan Airlines	Tonga
+	Grupo Aéreo Monterrey	Mexico
+	BAE Systems	United Kingdom
+	Heli-Iberica Fotogrametria	Spain
+	PTL Luftfahrtunternehmen	Germany
+	Olimp Air	Kazakhstan
+	Tropic Airlines-Air  Molokai	United States
+	West Wind Aviation	Canada
+	Inter Tropical Aviation	Suriname
+OE	Asia Overnight Express	Philippines
+BN	Forward Air International Airlines	United States
+	Midline Air Freight	United States
+	Aerovías Bueno	Colombia
+	Air Ghana	Ghana
+	Southeast Air	United States
+OL	Samoa Air	Samoa
+	Dominguez Toledo (Grupo Mayoral)	Spain
+	Status-Alpha Airline	Ukraine
+	Yellow River Delta General Aviation	China
+	Airsprint	Canada
+	Polynesian Air-Ways	United States
+	Irish Aviation Authority	Ireland
+9Q	PB Air	Thailand
+7L	Silk Way West Airlines	Azerbaijan
+	Aircraft Performance Group	United States
+	Careflight Queensland	Australia
+	JS Aviation	Mexico
+EI	Aer Lingus	Ireland
+	Irish Air Transport	Ireland
+FB	Bulgaria Air	Bulgaria
+MN	Comair	South Africa
+	Guja	Mexico
+	Aerotec Escuela de Pilotos	Spain
+	Kanfey Ha'emek Aviation	Israel
+	Trans Air	United States
+	Costa Airlines	Venezuela
+	Fly Rak	United Arab Emirates
+	Continental Oil	United States
+	GCS Air Service	United States
+	Zenmour Airlines	Mauritania
+	SASCO Airlines	Sudan
+	Carranza	Chile
+	IFL Group	United States
+	Burundayavia	Kazakhstan
+	Baja Air	Mexico
+	Jet Rent	Mexico
+ST*	Western Aircraft, Inc	United States
+6N	Niger Airlines	Niger
+	Gulf & Caribbean Cargo / Contract Air Cargo	United States
+	Air Charter Services	Democratic Republic of the Congo
+JB	Helijet	Canada
+	Aeródromo De La Mancha	Spain
+	Royal New Zealand Air Force	New Zealand
+	Feria Aviación	Spain
+	Propair	Canada
+	Servicios Aéreos Universitarios	Mexico
+	Transteco	Angola
+	Presidencia de La Republica de Guinea Ecuatorial	Equatorial Guinea
+	Transport'air	France
+	Roadair Lines	Canada
+	Brock Air Services	Canada
+	Italy First	Italy
+PO	Polar Air Cargo	United States
+	Aero Trades (Western) Ltd.	Canada
+OJ	Fly Jamaica Airways	Jamaica
+TR	Tigerair  Singapore	Singapore
+	Eram Air	Iran
+	African Cargo Services	Kenya
+	Norsk Flytjeneste	Norway
+	Mex-Jet	Mexico
+	Okapi Airways	Democratic Republic of Congo
+HK	Four Star Aviation / Four Star Cargo	United States
+	Atlantic Air Lift	France
+	Gofir	Switzerland
+TS	Air Transat	Canada
+	AMR Services Corporation	United States
+H8	Dalavia	Russia
+	Dash Aviation	United Kingdom
+	Pelican Air Services	South Africa
+HJ	Asian Express Airlines	Australia
+	Planar	Angola
+	Atlantic Airlines	Gabon
+	Transportes Aéreos  Amparo	Mexico
+	Nomad Aviation	Namibia
+KW	Kelowna Flightcraft Air Charter	Canada
+	Northafrican Air Transport	Libya
+	Scenic Airlines	United States
+	Granada Aviación	Spain
+	Elitellina	Italy
+AJ	Aero Contractors	Nigeria
+	Aero Servicios de Nuevo Laredo	Mexico
+	Air Inuit	Canada
+	Capital City Air Carriers	United States
+S8	Chari Aviation Services	Chad
+	Kata Transportation	Sudan
+6V	Axis Airways	France
+	Hi-Jet Helicopter Services	Suriname
+	RAF Leeming	United Kingdom
+VA	Virgin Australia	Australia
+	European Executive	United Kingdom
+	Executive Jet Charter	United Kingdom
+	Conifair Aviation	Canada
+	Afra Airlines	Ghana
+	West Air Luxembourg	Luxembourg
+	Pacific Jet	United States
+S3	Santa Barbara Airlines	Venezuela
+6R	Alrosa Air Company	Russia
+	Ruili Airlines	China
+	Sky Gate International Aviation	Kyrgyzstan
+	Aero Costa Rica	Costa Rica
+	Fort Aero	Estonia
+	Compañía Aerotécnicas Fotográficas	Spain
+	Aerocardal	Chile
+	Aviones de Sonora	Mexico
+WX	CityJet	Ireland
+	Aeroservicios Gama	Mexico
+	Onetime Airlines Zambia	Zambia
+	Honiara Cargo Express	Solomon Islands
+	El Quilada International Aviation	Sudan
+	Algonquin Airlink	Canada
+	Transcontinental Air	Bahrain
+	Aeropostal Cargo de Mexico	Mexico
+SE	XL Airways France	France
+	US Army Parachute Team	United States
+	Trans North Turbo Air	Canada
+	Cambodia Bayon Airlines	Cambodia
+	Al Farana Airline	Egypt
+	Desert Jet	United States
+	Air X Charter	Malta
+	Falcon Jet Centre	United Kingdom
+	TLC Air	United States
+	Mediterranean Air Freight	Greece
+	Airman, S.L.	Spain
+	Satsair	United States
+	Primera Air Nordic	Latvia
+	G5 Executive	Switzerland
+	Starship	Mexico
+E1	Everbread	United Kingdom
+IX	Air India Express	India
+1L	Open Skies Consultative Commission	United States
+E9	Boston-Maine Airways	United States
+	Billund Air Center	Denmark
+TH	Transmile Air Services	Malaysia
+NF	Air Vanuatu	Vanuatu
+	Nav Flight Planning	Czech Republic
+1G	Galileo International	United States
+	Luxor Air	Egypt
+	Aerolíneas de Techuacán	Mexico
+	Maximus Air Cargo	United Arab Emirates
+	Destiny Air Services	Sierra Leone
+BX	Coast Air	Norway
+	Pakker Avio	Estonia
+	Flight Support Sweden	Sweden
+	Lincoln Airlines	Australia
+	Pixair Survey	France
+UP	Bahamasair	Bahamas
+	Sonalysts	United States
+	Tal Air Charters	Canada
+	Altin Havayolu Tasimaciligi Turizm Ve Ticaret	Turkey
+	Myflug	Iceland
+	Aero-Kamov	Russia
+	Bugulma Air Enterprise	Russia
+	Aviainvest	Russia
+	Norse Air Charter	South Africa
+BW	Caribbean Airlines	Trinidad and Tobago
+	Aeromexhaga	Mexico
+K9	Kalitta Charters	United States
+	Trans Asian Airlines	Kazakhstan
+2W	Welcome Air	Austria
+	Tristar Airlines	United States
+6B	TUI  fly Nordic	Sweden
+	Aspen Helicopters	United States
+	Air Dolomiti	Italy
+	Egyptair Cargo	Egypt
+	Aircompany Grodno	Belarus
+EX	Air Santo Domingo	Dominican Republic
+	Comlux Aviation	Switzerland
+	Fab Air	Kyrgyzstan
+	Vistajet	Canada
+	Aykavia Aircompany	Armenia
+	Iranian Naft Airlines	Iran
+	Ecuatorial Cargo	Equatorial Guinea
+	Almaty Aviation	Kazakhstan
+	Island Aviation Services	Maldives
+	Civair Airways	South Africa
+	Global Supply Systems	United Kingdom
+JI	Midway Airlines (1993–2003)	United States
+	Martyn Fiddler Associates	United Kingdom
+	Aerotaxis Albatros	Mexico
+	Desarrollo Milaz	Mexico
+	Operadora de Transportes Aéreos	Mexico
+1K	Sutra	United States
+YQ	TAR Aerolineas	Mexico
+	L A Helicopter	United States
+	Federal Aviation Administration	United States
+QH	Kyrgyzstan	Kyrgyzstan
+	Ridder Avia	Kazakhstan
+TI	Tol-Air  Services	United States
+	Pan African Air Services	Sierra Leone
+	Africa Air Links	Sierra Leone
+QF	QantasLink	Australia
+EU	Empresa Ecuatoriana De Aviación	Ecuador
+	Gulfstream International Airlines	United States
+	European Flight Academy / Lufthansa Aviation Training	Germany
+	Aero Servicio Corporativo	Mexico
+	Janair	United States
+	Avialift Vladivostok	Russia
+LX	Swiss International Air Lines	Switzerland
+	Air Archipels	France
+	Tennessee Airways	United States
+	Trans Air-Benin	Benin
+	Rubystar	Belarus
+	Global Avia Handling	Russia
+	Star African Air	Somali Republic
+	Safe Air	Pakistan
+	Carroll Air Service	United States
+	Aerotaxi Villa Rica	Mexico
+	Hawk De Mexico	Mexico
+	OSM Aviation Academy	Norway, Sweden and San Diego
+0D	Darwin Airline	Switzerland
+	Flight Centre Victoria	Canada
+5K	Hi Fly	Portugal
+	U.S. Department of the Interior	United States
+	Clark Aviation	United States
+2L	Helvetic Airways	Switzerland
+	Emery Worldwide Airlines	United States
+8Q	Onur Air	Turkey
+	Aerolíneas Centauro	Mexico
+	Sontair	Canada
+	Aeroclub de Mallorca	Spain
+	Polizeihubschrauberstaffel Bayern	Germany
+	Romanian Air Force	Romania
+FP	Freedom Air	United States
+I7	Paramount Airways	India
+	Aerolíneas Pacífico Atlántico, S.A. (Apair)	Panama
+8W	Fly All Ways	Suriname
+	CAM Air Management	United Kingdom
+	Mac Dan Aviation Corporation	United States
+	Alfa Aerospace	Australia
+	Air Montenegro	Montenegro
+	Air Fecteau	Canada
+	Warbelow's Air Ventures	United States
+JO	JALways	Japan
+	MIA Airlines	Romania
+	SGC Aviation	Austria
+	Trabajos Aéreos  Vascongados	Spain
+	Cree Airways	Canada
+	Aerolíneas Sol	Mexico
+	Air Great Wall	China
+	Buzzaway Limited	United Kingdom
+	Chartright Air	Canada
+	Flyteam Aviation	United Kingdom
+	Chernomor-Avia	Russia
+KD	Kalstar Aviation	Indonesia
+BM	BMI Regional	United Kingdom
+	Albatros Airways	Albania
+BM	Air Sicilia	Italy
+LS	Jet2	United Kingdom
+	Canadian Interagency Forest Fire Centre	Canada
+	Airteam Charter	South Africa
+	Austrian Air Force	Austria
+	Zanesville Aviation	United States
+	Sky Harbor Air Service	United States
+	Tic Air	Australia
+	Riau Airlines	Indonesia
+N2	Dagestan Airlines	Russia
+BJ	Nouvel Air Tunisie	Tunisia
+	Fokker	Netherlands
+	Colvin Aviation	United States
+RU	AirBridge Cargo	Russia
+3N	Air Urga	Ukraine
+	HC Airlines	United Kingdom
+	Viennair	Austria
+	Baltic Airlines	Russia
+	Cetraca Aviation Service	Democratic Republic of the Congo
+	Pacific Air Express	Solomon Islands
+	Jet Trans Aviation	Ghana
+	Aero Zano	Mexico
+	Hogan Air	United States
+	US Airports Air Charter	United States
+TO	President Airlines	Cambodia
+IY	Yemenia	Yemen
+P7	Regional Paraguaya	Paraguay
+	AirSwift	Philippines
+	AT and T Aviation Division	United States
+	Punto Fa	Spain
+	Satellite Aero	United States
+	Aerotransportes Privados	Mexico
+GX	Guangxi Beibu Gulf Airlines	China
+	Air Brasd'or	Canada
+	GTA Air	United States
+	Kharkov Aircraft Manufacturing Company	Ukraine
+	Karibu Airways Company	Tanzania
+	RAF Leuchars	United Kingdom
+	TJS San Marino S.r.L.	San Marino
+	Search and Rescue 202	United Kingdom
+	Pacific Aviation (Australia)	Australia
+I5	AirAsia India	India
+	Houston Jet Services	Austria
+	Swissboogie Parapro	Switzerland
+	Rabbit-Air	Switzerland
+	Scibe Airlift	Democratic Republic of the Congo
+JL	Japan Airlines Domestic	Japan
+UL	SriLankan Airlines	Sri Lanka
+LR	LACSA	Costa Rica
+	Bond Offshore Helicopters	United Kingdom
+	Inflite The Jet Centre	United Kingdom
+GJ	Eurofly	Italy
+	BASE Regional Airlines	Netherlands
+	Tajikistan  International Airlines	Tajikistan
+	Aviation West Charters	United States
+	Laughlin Express	United States
+	Aerotaxis De La Bahia	Mexico
+	Aero-Dienst	Germany
+	Sky Link Aviation	Pakistan
+	Freeway Air	Netherlands
+	NHT Linhas Aéreas	Brazil
+4U	Germanwings	Germany
+	AV8 Helicopters	South Africa
+	Trade Air	Croatia
+	Pskovavia	Russia
+	Phoenix Flight Operations	United States
+	Vega Airlines	Bulgaria
+NZ	Eagle Airways	New Zealand
+	Walmart Aviation	United States
+	Botir-Avia	Kyrgyzstan
+OF	Enter Air	Poland
+	United Kingdom Royal VIP Flights	United Kingdom
+	Denver Jet	United States
+CI	China Airlines	Taiwan
+	Bordaire	Canada
+	Caribbean Airways	Barbados
+	Med Jets	Mexico
+	Elite Airways	United States
+	Galaxy Airlines	Japan
+	Aerogisa	Mexico
+	Norcopter	Norway
+	Conroe Aviation Services	United States
+	National Air Traffic Controllers Association	United States
+	Bravo Air Congo	Democratic Republic of the Congo
+TD	Atlantis European Airways	Armenia
+8C	Air Horizon	Togo
+	BAC Express Airlines	United Kingdom
+3S	Air Guyane Express	French Guiana
+	Provincial Express	Canada
+	Air Express	Tanzania
+AG	Aruba Airlines	Aruba
+	Point Airlines	Nigeria
+	Thai Flying  Helicopter Service	Thailand
+	Victor Echo	Spain
+	E H Darby Aviation	United States
+	Sky Jet	Switzerland
+	National Gendarmerie	France
+	Dornier Aviation Nigeria	Nigeria
+	Central Skyport	United States
+	Central Air Express	Democratic Republic of the Congo
+	Raytheon Travel Air	United States
+	Triangle Airline  (Uganda)	Uganda
+	Tchad Airlines	Chad
+	Manitoulin Air Services	Canada
+	Dream Flyers Training Center	Spain
+	Flight Inspections and Systems	Russia
+	Lindsay Aviation	United States
+	Blue Air Lines	South Korea
+M7	Marsland Aviation	Sudan
+	North West Geomatics	Canada
+	Hunair Hungarian Airlines	Hungary
+	Corporate Airlink	Canada
+	Millennium Airlines	Sri Lanka
+	Alpliner AG	Switzerland
+	Flint Aviation Services	United States
+	Chilchota Taxi Aéreo	Mexico
+QT	TAMPA	Colombia
+AZ	Alitalia	Italy
+	CI-Tours	Ivory Coast
+	Anderson Aviation	United States
+	Aviation at Work	South Africa
+	Imtrec Aviation	Cambodia
+	Biz Jet Charter	United States
+	Orbit Express Airlines	Turkey
+TK	Turkish  Airlines	Turkey
+	Millardair	Canada
+	Aero Fenix	France
+	Aerotransporte de Carga Union	Mexico
+	SIBIA Aircompany Ltd	Russia
+	DESNA	Ukraine
+RU	SkyKing Turks and Caicos Airways	Turks and Caicos Islands
+	Comlux Kazakhstan	Kazakhstan
+	Solar Cargo	Venezuela
+	Embassy Freight Company	United States
+	Flight West Airlines	Australia
+	Air Next	Japan
+	FinnHEMS	Finland
+2S	Satgur Air Transport	Liberia
+	Viscount Air Service	United States
+	Soonair Lines	United States
+	Duncan Aviation	United States
+KZ	Nippon Cargo Airlines	Japan
+	Global Jet Luxembourg	Luxembourg
+	Fairways Corporation	United States
+PW	Precision Air	Tanzania
+	Aero Ejecutivos RCG	Mexico
+	Aeroclub de Alicante	Spain
+	Victoria Aviation	United Kingdom
+	Xjet Limited	United Kingdom
+	IKI International Airlines	Japan
+	Blue Chip Jet	Sweden
+	Angoservice	Angola
+	Australian Customs Service	Australia
+7S	Ryan Air Services	United States
+	Air Zambezi	Zimbabwe
+	PRT Aviation	Spain
+OF	Transports et Travaux  Aériens de Madagascar	Madagascar
+	Oklahoma Department of Public Safety	United States
+	Albisa	Mexico
+	Aeromonkey	Mexico
+	Publivoo	Portugal
+	Aerolíneas Amanecer	Mexico
+	Pineapple Air	Bahamas
+	China Ocean Helicopter Corporation	China
+	Viking Express	United States
+	Kremenchuk Flight College	Ukraine
+	Orange Air Sierra Leone	Sierra Leone
+	Iowa Airways	United States
+SO	Superior Aviation	United States
+	Strato Air Services	South Africa
+	Etram Air Wing	Angola
+RX	Regent Airways	Bangladesh
+	Trans America Airlines	United States
+	Flight Options	United States
+A8	Aerolink Uganda	Uganda
+	Bay Aviation Ltd	Bangladesh
+	Bombardier	Canada
+	Taxi Aéreo de México	Mexico
+FJ	Fiji Airways	Fiji
+	Tulpar Air	Russia
+	Zas Air	Egypt
+	ASTRAL Colombia - Aerotransportes Especiales Ltda.	Colombia
+	Transporte Aéreo  Dominicano	Dominican Republic
+	Aerosky	Spain
+	Gulfstream Airlines	United States
+	South-Airlines	Armenia
+	Long Island Airlines	United States
+	Midamerica Jet	United States
+	Eurowings Europe	Austria
+5N	Nordavia	Russia
+	City Airline	Sweden
+RT	UVT Aero	Russia
+	AEROSPEED FORMATION ET MAINTENANCE	France
+WL	Air Wales Virtual	United Kingdom
+	Aero Siete	Mexico
+YK	Cyprus Turkish Airlines	Turkey
+	Global Aircargo	Bahrain
+QJ	Jet Airways	United States
+FM	Shanghai Airlines	China
+	Transair  International Linhas Aéreas	United States
+IF	Islas Airways	Spain
+	Línea Aérea Mexicana de Carga	Mexico
+	Guinea Ecuatorial Airlines	Equatorial Guinea
+NZ TE	Air New Zealand	New Zealand
+W7	Sayakhat Airlines	Kazakhstan
+	Ikaros DK	Denmark
+Y9	Lynx Air	Canada
+FD	Thai  AirAsia	Thailand
+6N	Nordic Regional	Sweden
+	Fast Helicopters	United Kingdom
+	Flair Airlines	Canada
+	African Medical and Research Foundation	Kenya
+	Airplanes Holdings	Ireland
+	International SOS Windhoek	Namibia
+	Austrian Air Services	Austria
+	Trans Guyana Airways	Guyana
+	Aero Services	Barbados
+NV	Air Central	Japan
+	Flamenco Airways	United States
+	Air Haiti	Haiti
+	JetNetherlands	Netherlands
+	TTA -  Sociedade de Transporte e Trabalho Aéreo	Mozambique
+	Zhejiang Loong Airlines	China
+	ACEF	Portugal
+BC	Skymark Airlines	Japan
+	Jet Linx Aviation	United States
+	Air Navigation And Trading Co. Ltd.	United Kingdom
+	Dreamjet	France
+NA	National Airlines	United States
+	Antillana De Navegación Aérea	Dominican Republic
+QS	Smartwings	Czech Republic
+	2 Sqn No 1 Elementary Flying Training School	United Kingdom
+	Justice Prisoner and Alien Transportation System	United States
+DH	Discovery Airways	United States
+	Servicios Aéreos del Nazas S.A. de C.V.	Mexico
+	Bluewest Helicopters-Greenland	Denmark
+	United Nations	n/a
+	Skyscapes Air Charters	South Africa
+	Western Air Couriers	United States
+QY	European Air Transport	Belgium
+	Lockeed Aircraft Corporation	United States
+	Aero Toluca Internactional	Mexico
+	Aerovic	Ecuador
+	Focus Air	United States
+	Bombardier Business Jet Solutions	United States
+	Spirit of Africa Airlines	Sudan
+	Aereo Taxi Autlan	Mexico
+	Swiss Eagle	Switzerland
+	Catalina Flying Boats	United States
+	Hop-A-Jet	United States
+1I	Novair	Sweden
+	General Aerospace	Canada
+	Jeppesen Data Plan	United States
+	Aero Davinci International	Mexico
+	Air Division of the Eastern Kazakhstan Region	Kazakhstan
+	Laus	Croatia
+	All Star Airlines, Inc.	United States
+B2	Belavia Belarusian Airlines	Belarus
+	Aboitiz Air	Philippines
+	Taxi de Veracruz	Mexico
+	Helenair (Barbados)	Barbados
+S6	Star Air	Denmark
+	Silverjet	United Kingdom
+	Siamjet Aviation	Thailand
+	Zagros Air	Iraq
+	Airlift International	United States
+	Premium Air Shuttle	Nigeria
+	Aerovega	Mexico
+	Flugschule Eichenberger	Switzerland
+	Coastal Travels	Tanzania
+	Arberia Airlines	Albania
+ZV	Air Midwest	United States
+	Air Inter Cameroun	Cameroon
+	Oxford Air Services	United Kingdom
+	Aero Jet Express	Mexico
+	United European Airlines	Romania
+	Qatar Air Cargo	Qatar
+	Spanish Air Force	Spain
+	Adventia	Spain
+DB	Brit Air	France
+	Kansas State University	United States
+	Campania Helicopteros De Transporte	Spain
+2F	Frontier Flying Service	United States
+	Columbus Air Transport	United States
+	Raven Air	United Kingdom
+	Air Mali International	Mali
+	Salem	Kazakhstan
+VE	C.A.I. Second	Italy
+	Blink	United Kingdom
+	Pacific Flight Services	Singapore
+	Westair Cargo Airlines	Côte d'Ivoire
+	Aerolíneas Marcos	Mexico
+	Zhongfei General Aviation	China
+	Airfix Aviation	Finland
+GO	Kuzu Airlines Cargo	Turkey
+	X-Jet	Austria
+	Budget Air Bangladesh	Bangladesh
+	Heli Union Heli Prestations	France
+	Business Airfreight	United States
+	Trans Atlantis	Canada
+MI	SilkAir	Singapore
+	Northwest Aero Associates	United States
+	Novosibirsk Aviation Production Association	Russia
+	Middle Tennessee State University	United States
+L9	Teamline  Air	Austria
+6H	Israir	Israel
+	Atlantic Gulf Airlines	United States
+	Yas Air Kish	Iran
+	Hacienda Airlines	United States
+	Bright Air	Netherlands
+	Aviación Ejecutiva De Hildago	Mexico
+	Veles, Ukrainian Aviation Company	Ukraine
+	Telesis Transair	United States
+	Cal-West Aviation	United States
+	Paradise Airways	United States
+	Helenia Helicopter Service	Denmark
+	Servicios De Aerotransportacion De Aguascalientes	Mexico
+	North American Jet Charter Group	United States
+	Richards Aviation	United States
+	Enimex	Estonia
+2S	Star Equatorial Airlines	Guinea
+IV	Wind Jet	Italy
+M4	Poste Air Cargo	Italy
+ME	Middle East Airlines	Lebanon
+	Allpoints Jet	China
+DD	Nok Air	Thailand
+	Auckland Regional Rescue Helicopter Trust	New Zealand
+	Charter Air	Austria
+	Al Rais Cargo	United Arab Emirates
+	Omni - Aviacao e Tecnologia	Portugal
+	Capitol Air Express	United States
+	Ues-Avia Aircompany	Ukraine
+	Delta Aerotaxi	Italy
+A9	Georgian Airways	Georgia
+	Kendell Airlines	Australia
+	Kolob Canyons Air Services	United States
+	Primero Transportes Aereos	Mexico
+	Air Partners Corp.	Canada
+CG	Airlines PNG	Papua New Guinea
+IQ	Augsburg Airways	Germany
+	Bureau Veritas	France
+	Pursuit Aviation	United States
+	Helitours	Sri Lanka
+	Flightworks	United States
+E4	Aero Asia International	Pakistan
+	Aero-Beta	Germany
+	Northcoast Executive Airlines	United States
+	British Medical Charter	United Kingdom
+	ASL (Air Service Liege)	Belgium
+	Valan Limited	Moldova
+	Air Ada	Mauritania
+	Sheltam Aviation	South Africa
+	Estonian Air Force	Estonia
+	Air Almaty	Kazakhstan
+	Transportes Aéreos Bolivianos	Bolivia
+	Executive Aviation Services	United Kingdom
+	Aerolíneas Regionales	Mexico
+	Eagle Aviation Services	United States
+	First City Air	United Kingdom
+TXZ	Thai Express Air	Thailand
+	Volare Airlines	Ukraine
+	ACM Aviation	United States
+	Inter Island Air Charter	Bahamas
+	Marshall Aerospace	United Kingdom
+C8	Cargolux Italia	Italy
+G7	GoJet Airlines	United States
+	Challenge Air Transport	Germany
+	Air Exchange	United States
+FC	Finncomm Airlines	Finland
+	Soloflight	United Kingdom
+	Airways Corporation of New Zealand	New Zealand
+	Flagship Express Services	United States
+BO	Bluebird Nordic	Iceland
+	Air Baltic	Latvia
+ED*	Airblue	Pakistan
+	Air Samarkand	Uzbekistan
+C6	CanJet	Canada
+LT	LongJiang Airlines	China
+	Polish Navy	Poland
+	Heliswiss	Switzerland
+VX	Virgin America	United States
+CH	Bemidji Airlines	United States
+	Pearl Air Services	Uganda
+	Gestión Aérea Ejecutiva	Spain
+1F	INFINI Travel Information	Japan
+	Sincom-Avia	Ukraine
+	Havilah Air Services	Nigeria
+	Alas Nacionales, S.A.	Dominican Republic
+	Golden Airlines	United States
+RR	Royal Air Force	United Kingdom
+	Griffin Aviation	Cyprus
+	Aerotransportes Internacionales De Torreon	Mexico
+	Transportes Aéreos  de Ixtlán	Mexico
+	Gama Aviation	United Kingdom
+	Aeronorte	Portugal
+	Sirius-Aero	Russia
+	East Hampton Aire	United States
+	Altagna	France
+	Danbury Airways	United States
+	Avion Taxi	Canada
+VK	FlyViking	Norway
+	Fastjet	Tanzania
+	Servicios Aéreos Integrales / Flyant	Spain
+	Entergy Services	United States
+	Century Aviation	Mexico
+N0	Norse Atlantic Airways	Norway
+4B	Boutique Air	United States
+	National Airlines	United States
+	Cat Aviation	Switzerland
+	Aerotranscolombina de Carga	Colombia
+UK	Vistara	India
+U3	Avies	Estonia
+8U	Afriqiyah Airways	Libya
+	Haiti National Airlines (HANA)	Haiti
+	Rossair	Australia
+NG	Lauda Air	Austria
+	Ukrainian Helicopters	Ukraine
+	PAC Air	United States
+	Union des Transports Africains de Guinee	Guinea
+	Zantop International Airlines	United States
+	Lynx Air International	United States
+	Monarch Airlines	United States
+	Central De Discos De Reynosa	Mexico
+	Aeroflot-Cargo	Russia
+	Servicios Aéreos Centrales	Mexico
+	SAAD (A320) Limited	Cayman Islands
+	2Excel Aviation	United Kingdom
+2G*	San Juan Airlines	United States
+	Sixt Rent A Car	United States
+	Aerocaribe Coro	Venezuela
+L3	LTU Austria	Austria
+	Speed Aviation	Bangladesh
+	McMahon Helicopter	United States
+	Tayside  Aviation	United Kingdom
+CN	Islands Nationair	Papua New Guinea
+	Dun'Air	Mauritania
+	Hak Air	Nigeria
+	Civil Aviation Inspectorate of the Czech Republic	Czech Republic
+	Aero-Palma	Spain
+	HTA Helicopteros	Portugal
+	Flight Ops International	United States
+	Atlas Ukraine Airlines	Ukraine
+	East Coast Airways	South Africa
+	Laker Airways	United States
+	Air Midwest (Nigeria)	Nigeria
+SN	Brussels International Airlines	Belgium
+	Fly International Airways	Tunisia
+	Aeroservicios Intergrados de Norte	Mexico
+GW	Kuban Airlines	Russia
+CA	Air China	China
+	Servicios De Rampa Y Mostrador	Mexico
+LL	Allegro	Mexico
+	Transporte Aéreo  Ernesto Saenz	Mexico
+	Promotora Industria Totolapa	Mexico
+F3	Faso Airways	Burkina Faso
+	Aex Air	United States
+	Lignes Aeriennes Du Tchad	Chad
+	Aeronáutica La Esperanza	Mexico
+	Spirit Aviation	United States
+	Sunline Express	Kenya
+TT	Tigerair Australia	Australia
+	Aeron International Airlines, Inc.	United States
+	Verataxis	Mexico
+	Servicios Aéreos Agrícolas	Chile
+	University of Tromsø School of Aviation	Norway
+	Dynamair Aviation	Canada
+	Aeromas	Uruguay
+	Sky One Holdings as Privaira	United States
+OA	Olympic Airlines	Greece
+	McCall Aviation	United States
+M2	MHS Aviation GmbH	Germany
+	Rusline	Russia
+	Aero Servicio Guerrero	Mexico
+	Omniflys	Mexico
+	Afrique Regional Airways	Côte d'Ivoire
+	PHH Aviation System	United States
+	Balmoral Central Contracts	South Africa
+	GoldAir	United Kingdom
+	Senator Aviation Charter	Germany
+	Alatau Airlines	Kazakhstan
+	Fonnafly	Norway
+	Centre national d'études des télécommunications - C.N.E.T.	France
+	Helitalia	Italy
+	USAfrica Airways	United States
+	Sterling Helicopters	United Kingdom
+	Zambezi Airlines	Zambia
+	BF-Lento OY	Finland
+	Airlink Airways	Ireland
+	Elifriulia	Italy
+	Dawn Air	United States
+	4D Air	Thailand
+	Pulkovo Aircraft Services	Russia
+	Panh	Russia
+	Pioneers Limited	Pakistan
+ZD	Ewa Air	France
+SX	Skybus Airlines	United States
+	Aeromundo Ejecutivo	Mexico
+DM	Maersk Air	Denmark
+	Royal New Zealand Air Force	New Zealand
+	Globe Jet	Lebanon
+A4	Southern Winds Airlines	Argentina
+	Hispánica de Aviación	Spain
+	Luftfahrt-Vermietungs-Dienst	Austria
+	Panama Aircraft Rental and Sales	Panama
+	RAF Northwood	United Kingdom
+	Grupo TACA	Costa Rica
+	Qwestair	Australia
+A8	Benin Golf Air	Benin
+	Kyrgyzstan Department of Aviation	Kyrgyzstan
+KL	KLM	Netherlands
+	Acero Taxi	Mexico
+	Academy Airlines	United States
+	Safarilink Aviation	Kenya
+	Elbe Air Transport	Germany
+	Air Cargo America	United States
+	Pal Aerolíneas	Mexico
+	Sky Handling	Ukraine
+	UTAir	Russian Federation
+RL	Royal Phnom Penh Airways	Cambodia
+	Certified Air Dispatch	United States
+	Aero Personal	Mexico
+	Gorlitsa Airlines	Ukraine
+	Rainbow International Airlines	United States
+	Royal Air Freight	United States
+	Leonsa De Aviación	Spain
+	Imperial Cargo Airlines	Ghana
+	Air Class, S.A. de C.V.	Mexico
+	Aliven	Italy
+OP	Chalk's International Airlines	United States
+	Helikopterdrift	Norway
+	Heli Securite	France
+	S C Ion Tiriac	Romania
+	Turismo Aéreo de Chile	Chile
+	Sierra Expressway Airlines	United States
+	Commandement Du Transport Aerien Militaire Francais	France
+	Aero Servicios	Mexico
+	Ifly	Greece
+	Global Air Crew	Denmark
+	Jomartaxi Aereo	Mexico
+LZ	Balkan Bulgarian Airlines	Bulgaria
+KE	Korean Air	South Korea
+1P	Travelport (Worldspan core)	Global
+	Point Afrique Niger	Niger
+	Almiron Aviation	Uganda
+	Eurojet Servis	Czech Republic
+XK	Air Corsica	France
+	IPEC Aviation	Australia
+MY	Midwest Airlines (Egypt)	Egypt
+	Angara Airlines	Russia
+	Aeroclub Barcelona-Sabadell	Spain
+V7	Volotea	Spain
+	Phoenix Avia	Armenia
+	Civil Aviation Authority of the Czech Republic	Czech Republic
+	Universal Jet	Spain
+	Insel Air International	Netherlands Antilles
+	Airvantage Incorporated	United States
+	Sky Way Air	Kyrgyzstan
+	World Wing Aviation	Kyrgyzstan
+	Air Niagara Express	Canada
+	Pirinair Express	Spain
+Q3	Zambian Airways	Zambia
+	L J Aviation	United States
+MM	SAM Colombia	Colombia
+	East Kansas City Aviation	United States
+	Army Air Corps	United Kingdom
+	Inter Express	Turkey
+	Silverback Cargo Freighters	Rwanda
+	Skyplan Services	Canada
+	SOS Flygambulans	Sweden
+	JetAfrica Swaziland	Swaziland
+	Sundance Air	United States
+	Sud Airlines	France
+	National Grid plc	United Kingdom
+	Airline Operations Services	United States
+	Lorraine Aviation	France
+	Solid Air	Netherlands
+	Max Avia	Kyrgyzstan
+TC	Air Tanzania Company Limited	Tanzania
+	Fun Flying Thai Air Service	Thailand
+	Aero Servicios Platinum	Mexico
+	Aeropycsa	Mexico
+	Asia Avia Airlines	Indonesia
+	Smithair	United States
+	Swedeways	Sweden
+XQ	SunExpress	Turkey
+	Malmoe Air Taxi	Sweden
+	Bangkok Aviation Center	Thailand
+	Air Sureste	Spain
+AX	Trans States Airlines	United States
+	Hokkaido Air System	Japan
+	Servicios Aéreos Palenque	Mexico
+	United States Department Of Agriculture	United States
+	TJS Malta Ltd.	Malta
+	Flygprestanda	Sweden
+	Bright Aviation Services	Bulgaria
+	Suburban Air Freight	United States
+	Centralwings	Poland
+RI	Mandala Airlines	Indonesia
+	Orscom Tourist Installations Company	Egypt
+	Saha Airlines Services	Iran
+	California Department of Forestry and Fire Protection	United States
+	Awesome Flight Services (PTY) Ltd.	South Africa
+KV	Sky Regional Airlines	Canada
+	Knight Air	Canada
+	Ameravia	Uruguay
+	F.S. Air Service	United States
+	San Carlos Flight Center	United States
+ZB	Air Bourbon	Reunion
+	Heliavia-Transporte Aéreo	Portugal
+	Taxi Aero Del Norte	Mexico
+	Hansung Airlines	Republic of Korea
+	Helog	Switzerland
+	Tradewinds Airlines	United States
+VK	Virgin Nigeria Airways	Nigeria
+	Napier Air Service Inc	United States
+	Air Transport Schiphol	Netherlands
+	Bravo Airways	Ukraine
+	Midwest Aviation Division	United States
+	GB Helicopters	United Kingdom
+	Sunwest Airlines	Canada
+NM	Mount Cook Airline	New Zealand
+	White River Air Services	Canada
+	Farnas Aviation Services	Sudan
+	River State Government of Nigeria	Nigeria
+	Euro-Asia Air International	Kazakhstan
+	Southern Frontier Air Transport	Canada
+	Crystal Shamrock Airlines	United States
+VV	Aerosvit Airlines	Ukraine
+EA	Emerald Airlines	Ireland
+H4	Inter Island Airways	Cape Verde
+	United Kingdom Royal VIP Flight	United Kingdom
+	Aerochiapas	Mexico
+	Knighthawk Air Express	Canada
+	International Flight Training Academy	United States
+	Air Charter Service	United Kingdom
+	Inter Tropic Airlines	Sierra Leone
+	Aeroservicios de La Costa	Mexico
+D7	AirAsia X	Malaysia
+	Dasab Airlines	Uganda
+	Aero Industries Inc	United States
+	Air Tomisko	Serbia
+QS	African Safari Airways	Kenya
+	Arizona Air	United States
+	Aerotal Aerolíneas Territoriales de Colombia Ltda.	Colombia
+JE	Mango	South Africa
+	Tyumenspecavia	Russia
+	Futura Gael	Ireland
+JS	Air Koryo	Democratic People's Republic of Korea
+	Adygeya Airlines	Russia
+	Magnum Air	Philippines
+	Polizeihubschrauberstaffel Mecklenburg-Vorpommern	Germany
+H1	Hahn Air Systems	Germany
+	LAN Dominicana	Dominican Republic
+	Aero Tomza	Mexico
+	Caicos Express Airways	Turks and Caicos Islands
+	German Sky Airlines	Germany
+	Fly Europa Limited	United Kingdom
+	Empire Air Service	United States
+	Aquila Air Ltd.	Canada
+	Air Kirovograd	Ukraine
+	United States Coast Guard Auxiliary	United States
+A3	Aegean Airlines	Greece
+	Providence Aviation Services	Pakistan
+	Ultimate Air	South Africa
+	Heli-Holland	Netherlands
+TX	Transportes Aéreos Nacionales	Honduras
+	Grantex Aviation	United Kingdom
+	Servicios Aéreos Slainte	Mexico
+	Yak Air	Georgia
+	Sedona Air Center	United States
+	Airtrans Ltd	Russia
+	Unijet	France
+	Islandair Jersey	United Kingdom
+	Midwest Air Freighters	United States
+VU	Air Ivoire	Ivory Coast
+	Northern Helicopter	Germany
+KC	Air Astana	Kazakhstan
+DA	Air Georgia	Georgia
+	Bell Helicopter Textron	Canada
+	Viking Airlines	Sweden
+SF	Tassili  Airlines	Algeria
+	Pak West Airlines	United States
+	Trans Helicoptere  Service	France
+3S*	Aeroland Airways	Greece
+	Congo Air	Bahamas
+	Bookajet Limited	United Kingdom
+MQ	Envoy Air	United States
+	Newfoundland Labrador Air Transport	Canada
+WW	WOW air	Iceland
+	Interflight	United Kingdom
+	SAAB-Aircraft	Sweden
+	Aerotransportacion de Norteamerica	Mexico
+	Premium Aviation	Germany
+7F	First Air	Canada
+	Ultimate HELI	South Africa
+	Charlotte Air National Guard	United States
+	Jinggong Jet	China
+	CATA Línea Aérea	Argentina
+	Ukraine Transavia	Ukraine
+	Reut Airways	Israel
+	Skybus Jet	Bahamas
+GE	TransAsia Airways	Taiwan
+	Servicios Aéreos Premier	Mexico
+	Facts Air	Mexico
+	Airbourne School of Flying	United Kingdom
+	Aero Algarve	Portugal
+	Transportes Aéreos  Pegaso	Mexico
+	Michelin Air Services	France
+MB	MNG Airlines	Turkey
+	Top Sky International	Indonesia
+OO	SkyWest Airlines	United States
+	IDG Technology Air	Czech Republic
+	Australian Wetleasing	Australia
+	AirQuarius Aviation	South Africa
+	Mines Air Services Zambia	Zambia
+N8	National Air Cargo dba National Airlines	United States
+	Total Linhas Aéreas	Brazil
+	Cypress Airlines	Canada
+	ARP 410 Airlines	Ukraine
+	Excellent Air	Germany
+	Coval Air	Canada
+	Stuttgarter Flugdienst	Germany
+JV	Bearskin Lake Air Service	Canada
+	Oxley Aviation	Australia
+OS	Austrian Airlines	Austria
+	Gatari Hutama Air Services	Indonesia
+	Atlas Airlines	United States
+	Shabair	Democratic Republic of the Congo
+	Monky Aerotaxis	Mexico
+	Helisul	Portugal
+J9	Guinee Airlines	Guinea
+G5	China Express Airlines	China
+	Servicios Integrales De Aviación	Mexico
+	Aluminum Company Of America	United States
+	Van Air Europe	Czech Republic
+	Servicios Aéreos Elite	Spain
+	SOL Linhas Aéreas	Brazil
+	De Havilland	Canada
+	Sun Air	Egypt
+GG	Air Guyane	French Guiana
+	Jet Aviation Flight Services	United States
+	McAlpine Helicopters	United Kingdom
+	Aerolíneas De Morelia	Mexico
+	Slok Air	Nigeria
+	Flightexec	Canada
+HP	Pearl Airways	Haiti
+	Airlines 400	Russia
+	Helicsa	Spain
+	Euro Sun	Turkey
+	Ave.com	United Arab Emirates
+	Arrow Panama	Panama
+	Tamir  Airways	Israel
+	Guinea Cargo	Equatorial Guinea
+	Orange Aviation	Israel
+	Helicopter & Aviation Services	United Kingdom
+	Lynx Aviation	Pakistan
+AQ	MAP-Management and Planung	Austria
+	Western Pacific Airservice	Solomon Islands
+	Full Express	United States
+	Trans-Florida Airlines	United States
+	EuroJet Aviation	United Kingdom
